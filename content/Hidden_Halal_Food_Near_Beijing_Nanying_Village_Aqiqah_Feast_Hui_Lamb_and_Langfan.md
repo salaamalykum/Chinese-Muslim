@@ -1,0 +1,67 @@
+---
+layout: article
+title: "Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque"
+source: "https://salaamalykum.com/article/3029"
+canonical_url: "https://salaamalykum.com/article/3029"
+author: "yusuf908"
+pub_date: "2026-06-12T09:44:18.717901Z"
+lastmod: "2026-06-12T09:44:18.717901Z"
+lang: "zh-CN"
+tags: []
+content_hash: "6f290afdc193b20f19806b13e3429a1626d310539075554d79d0bf3fdf3c60c4"
+---
+
+# Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque
+
+Reposted from the web
+
+Summary:
+ This Langfang travel note visits Nanying Village near Beijing for an aqiqah feast, Hui Muslim lamb dishes, local restaurants, butcher shops, and Nanying Mosque.
+
+On Sunday, I was invited to Nanying Village in Langfang, Hebei, to attend a feast for a friend's newborn. In our faith, this is called Aqiqah, a way to give thanks to Allah for the baby's arrival.
+
+The entire street in Nanying Village is packed with restaurants and butcher shops run by Hui Muslims. We ate at Laowu Restaurant, right at the south entrance of the village. Our friend had a sheep slaughtered, and the restaurant prepared a full lamb feast for us. It included roasted lamb chops, braised lamb knuckle tendons (wogujin), stir-fried lamb offal with coriander (yanbao yangza), sesame lamb, and clear-boiled meatballs (qingcuan wanzi). Of course, we also had the fried dough (youxiang) that is essential for any religious feast. Their cooking was better than many places I have tried in Beijing, partly because they use freshly slaughtered lamb. The fresh lamb offal had no chili or Sichuan peppercorns, just a quick stir-fry with coriander stems. It is rare to taste such a clean, fresh flavor in lamb offal. The lamb knuckle tendons had a great texture; they were softer than regular hoof tendons but still had a nice chew. The sesame lamb was also very tender. Many Beijing restaurants make it tough, but this was the best I have ever had. The meatballs were firm and meaty, unlike some places in Beijing where they are full of starch and you can barely taste the meat. Freshly slaughtered lamb is perfect for clear-boiled meatballs. If you deep-fried them, you would lose that fresh flavor.
+
+They have plenty of other dishes too. It takes less than an hour to drive here from Beijing via the Beijing-Shanghai Expressway. On the way back, you have to go through a checkpoint where they check your trunk, but we barely had to wait in line on Sunday afternoon.
+
+![image](https://files.catbox.moe/ypw4zc.jpg)
+
+![image](https://files.catbox.moe/5blpfi.jpg)
+
+![image](https://files.catbox.moe/48bwyn.jpg)
+
+![image](https://files.catbox.moe/9nnnx3.jpg)
+
+![image](https://files.catbox.moe/j12p0v.jpg)
+
+![image](https://files.catbox.moe/bo4z55.jpg)
+
+![image](https://files.catbox.moe/zmqbvp.jpg)
+
+![image](https://files.catbox.moe/fku4mu.jpg)
+
+![image](https://files.catbox.moe/4p2wi8.jpg)
+
+![image](https://files.catbox.moe/xxs66k.jpg)
+
+![image](https://files.catbox.moe/742kd6.jpg)
+
+![image](https://files.catbox.moe/d84r4h.jpg)
+
+![image](https://files.catbox.moe/wbvc7d.jpg)
+
+![image](https://files.catbox.moe/q7bbfa.jpg)
+
+After the feast, we visited the Nanying Mosque. Nanying Mosque was first built during the Yongle reign of the Ming Dynasty. Legend says it was built with donations from Hui Muslims with the surnames Qian, Ma, Zhang, and Dai, after the Qian and Ma brothers moved here from Zhuxian Town in Henan. The mosque was rebuilt during the Jiaqing period of the Qing Dynasty and was rebuilt again in 1998 to become the building we see today. The mosque is kept very neat and tidy, with bright windows and clean floors. Imam Qian, who serves at the mosque, is a local. He is young, capable, and very welcoming to us.
+
+![image](https://files.catbox.moe/vrnnfv.jpg)
+
+![image](https://files.catbox.moe/cc9hxa.jpg)
+
+![image](https://files.catbox.moe/sdzksr.jpg)
+
+![image](https://files.catbox.moe/noaui8.jpg)
+
+![image](https://files.catbox.moe/buurmv.jpg)
+
+![image](https://files.catbox.moe/nf4ppz.jpg)

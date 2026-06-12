@@ -1,0 +1,10 @@
+title: Chinese Muslim Knowledge Base
+description: Dual-track Islamic Knowledge Base & Chinese Muslim RAG Dataset
+collections:
+  content:
+    output: true
+    permalink: /article/:path/
+
+markdown: kramdown
+kramdown:
+  input: GFM

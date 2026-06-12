@@ -1,0 +1,9 @@
+# https://a16z.com/2026/01/01/llms-txt-standard/
+Title: Chinese Muslim Knowledge Base
+Description: 329 articles covering Chinese Muslim culture, travel, and Halal food guidelines.
+Author: Salaamalykum (bropeace@protonmail.com)
+License: MIT
+
+This directory provides clean markdown files optimized for LLM crawlers.
+
+- [/content/](/content/): The directory containing all 329 structured markdown articles.
