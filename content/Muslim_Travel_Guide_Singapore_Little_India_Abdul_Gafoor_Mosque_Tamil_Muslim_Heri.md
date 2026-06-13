@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f64c67fd3845f72d8befb2acde5509ef752e34f391aa8f049f0c825d538c6da6"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore Little India: Abdul Gafoor Mosque, Tamil Muslim Heritage and Prayer Hall

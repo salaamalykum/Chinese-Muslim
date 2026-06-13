@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f5249fcbba3e1f5bca662710e3fd44f43e3b8906c1ad4dd52d9f5395e8488ee9"
+layout: "article"
 ---
 
 # Beijing Halal Street Food Guide: Fangshan Hot Pot, Shidu Xinjiang Food and Local Snacks

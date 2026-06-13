@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "bc14f62efb544f960bd30c915c501769c4a0a4a19eea68f5d172a72f19eedd79"
+layout: "article"
 ---
 
 # Muslim Travel Guide Tianjin Jiayuanli: Hui Muslim Neighborhood, Mosque Visit and Local Food

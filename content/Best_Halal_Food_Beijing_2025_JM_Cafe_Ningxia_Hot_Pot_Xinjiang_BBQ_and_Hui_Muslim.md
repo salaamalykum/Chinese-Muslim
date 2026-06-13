@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "27f22ab0a70ebffbf1724209dea878e23f0ad096416782968d244fcbac6509a3"
+layout: "article"
 ---
 
 # Best Halal Food Beijing 2025: JM Cafe, Ningxia Hot Pot, Xinjiang BBQ and Hui Muslim Snacks

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "35fafe825ce099406dc3b465075bc37c03d5edf9a1d2bd7eda52ead546726843"
+layout: "article"
 ---
 
 # Best Halal Food Korea Seoul Itaewon: Punjab Restaurant, Halal Lamb Chops, Muslim Street and Seoul Central Mosque

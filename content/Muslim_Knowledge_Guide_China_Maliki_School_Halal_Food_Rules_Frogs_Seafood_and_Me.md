@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8f6d02db81961f5aa4270a7b38e69feb32cc933836238229cf1291662e4ae068"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Maliki School Halal Food Rules, Frogs, Seafood and Meat

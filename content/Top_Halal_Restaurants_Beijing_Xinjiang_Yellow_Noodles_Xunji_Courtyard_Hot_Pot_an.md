@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "13d006116c26dc4eef8025dc5b600f8b7f9fe54fe3b0329ccf9f43fdbdc3404b"
+layout: "article"
 ---
 
 # Top Halal Restaurants Beijing: Xinjiang Yellow Noodles, Xunji Courtyard Hot Pot and Muslim Food Culture

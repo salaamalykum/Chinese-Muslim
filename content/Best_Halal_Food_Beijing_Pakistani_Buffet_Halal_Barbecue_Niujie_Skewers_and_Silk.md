@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "178b72355bb1757986e44644a093b456f39c0c0bb528aa35c759cda9bf7fe86f"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Pakistani Buffet, Halal Barbecue, Niujie Skewers and Silk Road Cuisine

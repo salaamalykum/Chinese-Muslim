@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3de762de1c2db03618b6ccfc424a3378455a4e63e4702245c86c17ba5b660fce"
+layout: "article"
 ---
 
 # China Mosque Travel Guide 2017: 27 Historic Mosques and Muslim Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "dafedc18f92be06d17e576c8754e99cb1bc2fbecfc2ee68ede3bc8c3c5cbb87a"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Gansu Uwais Gongbei, Yumen Mosque and Prophet Companion Heritage

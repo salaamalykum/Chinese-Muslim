@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "359a4eef34230622b43ec64cf6ac8bc269010b55e49a09b0684ae7dc61658a24"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Historic Mosques, Quran Manuscripts and Islamic Culture

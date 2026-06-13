@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3f9a45fc61a78d8ff849ae9fc952095544a0821ae58350ee751d2359c43f43d3"
+layout: "article"
 ---
 
 # Muslim History Guide Cairo: Old City Gates, Mosques and Thousand-Year Heritage

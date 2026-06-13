@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "33d1435fac05662fffe931ef25a20ebcb3cf8ffb7911b79dde925891918aa42c"
+layout: "article"
 ---
 
 # Ramadan Muslim Life Guide in the Muslim World: Last Ten Nights, Laylat al-Qadr and Dua

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a3bd4cc9cf8a119e2846dc31db3f4148d4d6e37b0e7652dcc0e400194aca12d7"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur Ramadan: Iftar, Arab Rice, Middle Eastern Restaurants and Rehan

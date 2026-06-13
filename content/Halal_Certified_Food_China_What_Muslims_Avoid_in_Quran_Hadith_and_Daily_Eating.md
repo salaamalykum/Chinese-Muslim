@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9684946783ab6ef3c877b443ccb61e8bc2446c21e9f4781baba5b2973c575b06"
+layout: "article"
 ---
 
 # Halal Certified Food China: What Muslims Avoid in Quran, Hadith and Daily Eating

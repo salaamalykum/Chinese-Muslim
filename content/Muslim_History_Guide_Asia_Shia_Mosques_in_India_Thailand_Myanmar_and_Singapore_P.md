@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6a470a5209b5718126a2a5c3bcf80ab3171b2355e4e9b9a8f4d30f2f0868ce4e"
+layout: "article"
 ---
 
 # Muslim History Guide Asia: Shia Mosques in India, Thailand, Myanmar and Singapore (Part 1)

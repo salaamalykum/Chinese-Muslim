@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c222a5614722f89118b693f92987ead55da3256951551c3b8f06e0eadd7e494f"
+layout: "article"
 ---
 
 # Halal Food Guide Southeast Asia: Malaysia, Singapore and Indonesia Drinks and Muslim Travel Notes

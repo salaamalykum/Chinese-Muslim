@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a4b09e1af3af5272c4c4e45423a0042bc7ebec32b9efcdf3da2d3c8969feebc4"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Grassland Shaomai, Maocai, Roast Lamb Leg and AIIB Prayer Room

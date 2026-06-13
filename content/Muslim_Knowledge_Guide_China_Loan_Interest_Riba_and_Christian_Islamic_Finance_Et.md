@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9ecff7f210a64dab811f587e3b0b07cb5613a2870698740ca9f86c9437ea9aed"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Loan Interest, Riba and Christian-Islamic Finance Ethics

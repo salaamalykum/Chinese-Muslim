@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a5f6e0a21370bd3c2c797b092469cc97a63406e702584e0a004d2a10c4a68862"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Riba, Interest, Gharar and the Economics of Sharia Arbitrage

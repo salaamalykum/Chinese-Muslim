@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "35439e7fa33378b1147710afc8f3855f0d581d007f8427fa0b75bc6292fa1f81"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Halal Certification Tips, Iranian Rice, Burgers and Ampang Coffee

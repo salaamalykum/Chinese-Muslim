@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6cffb142e7ff462b6e8c2632719ebf1ede547fdc736b6c4db4557456b85c9bd2"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Iranian Food, African Cuisine, Hot Pot, Peking Duck and Shabu-Shabu

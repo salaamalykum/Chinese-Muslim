@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0512fe4e04cce37b36edef2c790666d8412e3328e84cb8179d8ffd44c6466dbd"
+layout: "article"
 ---
 
 # Muslim History Guide Indonesia Java: Kudus Mosques, Old City Streets and Islamic Heritage

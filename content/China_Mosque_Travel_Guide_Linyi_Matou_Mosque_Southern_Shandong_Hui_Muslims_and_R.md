@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "defdec867f2048e70ac882c9b27642193b9d51dfffa36de45ee8298b2858c953"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food

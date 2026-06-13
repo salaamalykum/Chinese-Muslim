@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a20476d3c40bd34801bd7ff612b0433ebe14f24ceaa10a21f8598376b4fa1fa9"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Dachang Hui Muslim Mosques, Halal Food and Community Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8880bab115577ed70cfd4354f8afb8a36607aab8689918dfd5c9b19b4257e552"
+layout: "article"
 ---
 
 # Halal Food Guide Tianjin: Syrian, Yemeni, Tunisian and Algerian Restaurants

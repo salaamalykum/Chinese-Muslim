@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ae1c1fe9fd946a9bf573cceb1161e2c489fcdbac1d748d748ca0d606069ef0eb"
+layout: "article"
 ---
 
 # Muslim Life Guide Qinghai: Salar Eid al-Adha, Qurban and Real Halal Family Traditions

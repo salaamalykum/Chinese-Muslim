@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d5aad04c66e2929114d56db35f6ed240b7ce049dca84c63d219dd3752f32e8b4"
+layout: "article"
 ---
 
 # Mosque Near Me in China: Beautiful Mosques from Beijing to Sanya and Hong Kong

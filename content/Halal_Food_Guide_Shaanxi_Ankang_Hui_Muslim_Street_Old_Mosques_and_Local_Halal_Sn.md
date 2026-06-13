@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0a726cad7bcefb7334761d06638bda532da51f6dade81aeac716b7ff3a33c22a"
+layout: "article"
 ---
 
 # Halal Food Guide Shaanxi: Ankang Hui Muslim Street, Old Mosques and Local Halal Snacks

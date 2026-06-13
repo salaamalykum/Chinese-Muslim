@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "dd46632ef13f5d0aed80f68b4561736cbd9ea95de3ab6779885b7aad61e8b794"
+layout: "article"
 ---
 
 # Halal Restaurant Near Me Beijing: Zhizi Barbecue, Big Plate Chicken & Hui Muslim Hotpot Guide

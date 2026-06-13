@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "251a86e412574c524224e09e80297717bedec2c588950e22ecdde34a82053145"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore: Malabar Mosque, South Indian Muslim Community and Little India Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "48254b99eb85e0052549ecc4b327ac2ee42ffc344d91f00d221af499acf77a1f"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: KLCC Restaurants, Cafe Espresso, Little Penang Cafe and De Wan

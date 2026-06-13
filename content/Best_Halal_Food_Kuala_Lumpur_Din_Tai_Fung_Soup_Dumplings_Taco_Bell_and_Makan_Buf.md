@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b25b47edfd1bf9ea5ee74de6cb3b45535ae651a311a7dc290d8ea8a3284ea006"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Din Tai Fung Soup Dumplings, Taco Bell and Makan Buffet

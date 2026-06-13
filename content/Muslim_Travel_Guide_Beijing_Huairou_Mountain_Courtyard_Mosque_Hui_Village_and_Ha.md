@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "89e65fc339dede5e4b7225bcd59ca4ed5260551d69a4af216edf5d34eefd1c82"
+layout: "article"
 ---
 
 # Muslim Travel Guide Beijing Huairou: Mountain Courtyard Mosque, Hui Village and Halal Food

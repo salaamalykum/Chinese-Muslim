@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "eb17d9ed25d695fc762a3c1b98ba3b5cce2dd92505bfaa82767f8951300c06bd"
+layout: "article"
 ---
 
 # Muslim Travel Guide Vancouver: Ahmadiyya Mosque, Muslim Community and Canada City Story

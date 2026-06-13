@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4079d6df07286fad96e45efb53c56d924b19ea066507bd8d3d7a481b004a11e3"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Songpan Jiuzhaigou Mosques, Hui Muslims and Tea Horse Road History

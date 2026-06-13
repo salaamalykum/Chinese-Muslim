@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d86db318ac5fe29a7181d71bd85d8dcbdb6f197d3d114a50018035a9c883a3b3"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Wangjiaying Hui Muslim Town, Mosques and Canal History

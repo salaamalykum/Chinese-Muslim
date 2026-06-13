@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "306e6de667e5ba3f8d4b5617dbd09c73696f4240b72c3a411c04e50585707a00"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa Review and Andrew Booso Response

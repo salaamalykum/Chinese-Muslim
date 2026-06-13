@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c64670dfcba397c5e28cb5841656141dfab595fc04e0e1f1236032e07c12b3e5"
+layout: "article"
 ---
 
 # Halal Restaurant Near Me Beijing: Beef Soup, Zhizi Barbecue & Xi'an Yangrou Paomo Guide

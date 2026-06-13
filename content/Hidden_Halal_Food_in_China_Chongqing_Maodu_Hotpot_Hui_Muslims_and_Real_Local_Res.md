@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c43c87e7e6c48d6af4e1689f8f3add2cde64f1b55cbb726f6b072ec049988711"
+layout: "article"
 ---
 
 # Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants

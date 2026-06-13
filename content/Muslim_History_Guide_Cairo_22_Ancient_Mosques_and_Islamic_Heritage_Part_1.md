@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d9401a965ea6b6443106e80dbeaa7539ae586ae2b7c72e1dfc39dcdcce77cb1d"
+layout: "article"
 ---
 
 # Muslim History Guide Cairo: 22 Ancient Mosques and Islamic Heritage (Part 1)

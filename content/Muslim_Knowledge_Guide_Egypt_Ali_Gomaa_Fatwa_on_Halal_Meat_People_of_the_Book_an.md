@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "17f15d865c53dd7d0a0e2a68784c5ddb73da345afaded1f73f47cf977479f114"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Halal Meat, People of the Book and Over-Questioning

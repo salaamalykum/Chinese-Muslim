@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "bace5cc1026de9f03a1071585b047767845be4b89caea3afd4bba0e8d50c9452"
+layout: "article"
 ---
 
 # Muslim Travel Guide Shandong Liaocheng: Old Mosques, Canal City Streets and Hui Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d138dcf376c86be0ac3ecb1769f6f4c60da9385626a022170e61c560191c2ced"
+layout: "article"
 ---
 
 # Muslim Travel Guide Indonesia: Jakarta, Trowulan, Demak Grand Mosque and Java Halal Journey

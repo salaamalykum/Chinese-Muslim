@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "71c59370ccbf5e396f853be02d9c3f77cc04227993d2bd00159f790ff56e419d"
+layout: "article"
 ---
 
 # Muslim Travel Guide Medina: Quran Printing Complex, Camel Pilaf and Prophet Mosque Hotels

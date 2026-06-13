@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f811ee87a61b8cf1b0d0f784e24f6a919340c0639872e6bd37eb6595f9ad672c"
+layout: "article"
 ---
 
 # Mosque Near Me Tehran: Vali-e-Asr Mosque, Modern Islamic Architecture and Quiet Prayer Space

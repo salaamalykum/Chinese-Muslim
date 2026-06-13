@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "2ce6616752388a949fd0cfc29e431c315c01617d52f383be6b677db9a53d3ccb"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Salah, Palestine Dua, Qur'an Values and Community Speech

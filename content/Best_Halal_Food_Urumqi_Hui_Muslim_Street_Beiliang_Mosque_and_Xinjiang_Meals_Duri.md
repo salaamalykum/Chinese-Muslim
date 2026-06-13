@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c86afdc710d78e388db30369ef54761b0f13d500bac8f2209d078272ef4c5e35"
+layout: "article"
 ---
 
 # Best Halal Food Urumqi: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals During Sha'ban

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d63af28be609a21f33962488f331deaf0c2d18e502734d0ad1c636c7a6adc043"
+layout: "article"
 ---
 
 # Muslim Travel Guide Malaysia: 8 Beautiful Kuala Lumpur Mosques, Pink Mosque and Blue Mosque

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c8251e8bb5fa6674429f5dba189f7d2147d008e1fc5aa6b74bc693fb8a6f508e"
+layout: "article"
 ---
 
 # Muslim Travel Guide UAE: Abu Dhabi Louvre, Dubai Trade Shows and Modern Arab Travel Notes

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9673d85cd1df490394043ba2813be89d4ed712f82778663e5786af14e3110a56"
+layout: "article"
 ---
 
 # Muslim Friendly Chongqing: Bashu's Largest Mosque, Halal Travel and Hui Muslim Food

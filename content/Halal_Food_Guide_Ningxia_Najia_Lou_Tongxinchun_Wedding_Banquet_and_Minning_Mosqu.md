@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "82d479a45f09550eef30171f79ab659afa0a593aa6e632c30ac58115466eee46"
+layout: "article"
 ---
 
 # Halal Food Guide Ningxia: Najia Lou, Tongxinchun Wedding Banquet and Minning Mosque Food

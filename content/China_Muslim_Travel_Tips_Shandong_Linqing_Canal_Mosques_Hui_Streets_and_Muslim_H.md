@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "55c5b5b4bead2b689158274e1cd8003a8a548e50c53a46081dbdf6a8525df5f0"
+layout: "article"
 ---
 
 # China Muslim Travel Tips Shandong Linqing: Canal Mosques, Hui Streets and Muslim Heritage

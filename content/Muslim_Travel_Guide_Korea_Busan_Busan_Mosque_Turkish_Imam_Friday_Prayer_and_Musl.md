@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f3a5bfde5d779e759c7ee3cd7ae1567feb43856d0ea1608680bab4bcecaf5a2b"
+layout: "article"
 ---
 
 # Muslim Travel Guide Korea Busan: Busan Mosque, Turkish Imam, Friday Prayer and Muslim Community

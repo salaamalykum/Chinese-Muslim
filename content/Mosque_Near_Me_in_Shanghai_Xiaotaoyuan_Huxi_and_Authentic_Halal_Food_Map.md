@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "518056af5d0d456e73ca190c7b93d8ef41aa780520ec3439a8ce6521cb7eb964"
+layout: "article"
 ---
 
 # Mosque Near Me in Shanghai: Xiaotaoyuan, Huxi and Authentic Halal Food Map

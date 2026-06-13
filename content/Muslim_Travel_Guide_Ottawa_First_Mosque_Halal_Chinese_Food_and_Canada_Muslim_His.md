@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "73dbc48fa3712dd08ff7eb1bb7aa75a07f1c1b226b5e5445f3b11e99b7656846"
+layout: "article"
 ---
 
 # Muslim Travel Guide Ottawa: First Mosque, Halal Chinese Food and Canada Muslim History

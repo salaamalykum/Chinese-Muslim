@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "2f00979b3a1877ead7b18d5125ed1dc04eb21eb51c281183ad4bd951e4e6a03c"
+layout: "article"
 ---
 
 # Muslim Travel Guide Canada Visa: DIY Tourist Visa Steps, Halal Food Planning and Chinese Travelers

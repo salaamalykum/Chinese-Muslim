@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "27de071caa2a03d1073c3a4a97af2c33d085e021f2cb5771f443624974b615f5"
+layout: "article"
 ---
 
 # Muslim History Guide China: Linxia Gannan Xidaotang, Gongbei Mosques and Silk Road Faith

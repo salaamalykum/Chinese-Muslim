@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7f856a754738597bbc24ed75c94836e527e18d7a698c50719197f3322bb8f243"
+layout: "article"
 ---
 
 # Muslim Travel Guide Iran Qom: Fatima Masumeh Shrine Mosque, Mirror Hall and Mazar Courtyard

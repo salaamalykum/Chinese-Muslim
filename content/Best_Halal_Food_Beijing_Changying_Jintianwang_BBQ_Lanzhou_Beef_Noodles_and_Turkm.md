@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "10afa3d117129542c8e1b83de739797196d2baec4cd8c255c028e4dafe86915f"
+layout: "article"
 ---
 
 # Best Halal Food Beijing Changying: Jintianwang BBQ, Lanzhou Beef Noodles and Turkmenistan Food

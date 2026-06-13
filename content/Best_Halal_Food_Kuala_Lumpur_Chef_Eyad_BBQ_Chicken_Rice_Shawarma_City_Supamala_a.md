@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9dd460c743c61eba929c76916c1c7afe5ce6fdd9860fb086488dde5dff1db96b"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Chef Eyad BBQ, Chicken Rice, Shawarma City, Supamala and Nando's

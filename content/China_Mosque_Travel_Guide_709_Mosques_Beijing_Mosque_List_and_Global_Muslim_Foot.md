@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d084358a8a1a0176a861ab6bca441c2c06bdb1e420049d9fc18684961b2f7c05"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: 709 Mosques, Beijing Mosque List and Global Muslim Footprint Map

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "5c85bb1441c8d9589117cbd118569a021073ef58c1ea9f5145ae20f08de2c9a7"
+layout: "article"
 ---
 
 # Best Halal Restaurant Beijing: Skewer Hotpot, Ningxia Lamb, Syrian Coffee and Pakistani Food

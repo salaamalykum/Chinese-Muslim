@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c886e1a7774fede08d8a714d47b39b893537da26f933c1e89f056d47710f56d0"
+layout: "article"
 ---
 
 # Hidden Halal Restaurants Beijing: Zhi Zi Barbecue, Xinjiang Food, Thai Hotpot and Northeast Dishes

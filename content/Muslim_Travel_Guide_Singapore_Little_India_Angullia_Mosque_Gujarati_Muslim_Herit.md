@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1f5ec4e8ecb604d60bab855eef20984d1e4d05a940bd84bab020aab5e03ea7e8"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore Little India: Angullia Mosque, Gujarati Muslim Heritage and Prayer Hall

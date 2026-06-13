@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e205aab6ad3f6a80637257befeedef5cdc3bd1fcdd6120ae85e61a1695891d15"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: A Hui Muslim Journey Through Faith, Niujie, Mosques and Halal Life

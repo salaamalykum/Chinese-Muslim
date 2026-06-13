@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0593c537d913f9ce0bb3ae98369c8989c203b9a9b7fdfd47cd5cb8015c0f72b8"
+layout: "article"
 ---
 
 # Muslim Travel Guide Vietnam Ho Chi Minh City: Al-Rahim Mosque, Ben Thanh Halal Food and Cham Community

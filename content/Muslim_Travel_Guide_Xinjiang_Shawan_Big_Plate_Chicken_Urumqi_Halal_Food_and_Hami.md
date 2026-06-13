@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "83d74faf68c3a9545f7ce9dec9dbae8d5bae82fad3e90078b11a63a4e6e9d66c"
+layout: "article"
 ---
 
 # Muslim Travel Guide Xinjiang: Shawan Big Plate Chicken, Urumqi Halal Food and Hami Mosques

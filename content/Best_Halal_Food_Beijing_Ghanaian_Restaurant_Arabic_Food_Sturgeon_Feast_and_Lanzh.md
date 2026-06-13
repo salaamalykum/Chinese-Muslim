@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1696c9fbd66b1d5ef3accb7034e0e03626498cd6f09d7b0c02ace4ef0a1411cf"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Ghanaian Restaurant, Arabic Food, Sturgeon Feast and Lanzhou Beef Noodles

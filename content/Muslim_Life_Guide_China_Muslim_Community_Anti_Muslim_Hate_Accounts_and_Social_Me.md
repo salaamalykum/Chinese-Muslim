@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d520eda8d39f306f4d2b5f08544bf50dd3a66872dceef1c6a7891169335bd540"
+layout: "article"
 ---
 
 # Muslim Life Guide China: Muslim Community, Anti-Muslim Hate Accounts and Social Media Timeline

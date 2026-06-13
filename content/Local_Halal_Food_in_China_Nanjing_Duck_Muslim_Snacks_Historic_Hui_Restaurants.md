@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "180200c48829223ae078369a7b90cebcf513497e9317d8a761941689cb6cbc53"
+layout: "article"
 ---
 
 # Local Halal Food in China: Nanjing Duck, Muslim Snacks & Historic Hui Restaurants

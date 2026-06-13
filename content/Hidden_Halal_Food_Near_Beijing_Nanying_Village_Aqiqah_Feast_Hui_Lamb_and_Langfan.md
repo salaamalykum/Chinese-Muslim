@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ca5e0d194fb0eb2a07df6b09d34a3fae1709585ae3e291b92959eeb591700b59"
+layout: "article"
 ---
 
 # Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque

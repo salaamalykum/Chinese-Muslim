@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8d6ef9682f537e8b773904dc4923d087dab8138303860ba4a1baed45a36eb731"
+layout: "article"
 ---
 
 # Muslim Travel Guide UK: Oxford, Cambridge, London Halal Restaurants and Islamic History

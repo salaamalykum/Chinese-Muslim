@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "04d32010559464c69ab1e1c0b1b9503d9db014e1f3b485cfdb8f35325be3084d"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Baotou Inner Mongolia Mosques, Shaomai and Hui Muslim Wedding Journey

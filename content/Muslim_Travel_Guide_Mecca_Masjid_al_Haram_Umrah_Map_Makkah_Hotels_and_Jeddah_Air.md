@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7af918304b170d636bf5426c9849bedd8dbfada91671e1f837ca4461b4e4be7e"
+layout: "article"
 ---
 
 # Muslim Travel Guide Mecca: Masjid al-Haram, Umrah Map, Makkah Hotels and Jeddah Airport Food

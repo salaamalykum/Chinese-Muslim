@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "61b481ef167ad077ff9d6ba4a31b2d5ea9ccb38c28e594724e4645afacaa1921"
+layout: "article"
 ---
 
 # Muslim Travel Guide Montreal: Mosques, Halal Food, Chinatown and Canada Muslim City Walk

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a1917d3ce4c07d7a4c25725bd8e96b979f8ee53fd980c9f1f020e36edafe863a"
+layout: "article"
 ---
 
 # Muslim Travel Guide Vietnam Hanoi: Al-Noor Mosque, Wudu Area, Halal Food and Muslim Life

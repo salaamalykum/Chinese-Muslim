@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ceb6204c4da19b0eb7c760c9b632948b255520d2ce83df08541579129eaa9db5"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Yunnan: Children in Mosques, Muslim Youth and Community Revival

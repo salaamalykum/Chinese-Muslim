@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d31d96651cd5fe1d603c3ec41f005628a5cc8284198efc495f7d62f646fcc359"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Southern Xinjiang Tajik Muslims, Pamir Plateau and Shia Heritage

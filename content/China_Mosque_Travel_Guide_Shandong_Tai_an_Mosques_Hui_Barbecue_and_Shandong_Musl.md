@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a13138ff1913abfeb0e77b0496b36a4abf4399ea1ea801bd610b1edf1c78226f"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Mosques, Hui Barbecue and Shandong Muslim Food

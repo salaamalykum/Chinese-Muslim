@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d54a17d83d64cb8a1f731a5fa96cdb719c8437590729bc51e81acc11d2abf7f3"
+layout: "article"
 ---
 
 # Halal Food Guide Malaysia Singapore Brunei: Hainanese Chicken Rice, Kopitiam and Muslim-Friendly Cafes

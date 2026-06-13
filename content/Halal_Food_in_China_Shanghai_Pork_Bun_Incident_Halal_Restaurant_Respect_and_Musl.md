@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a4f3c7070df595a0d453028dc85b707917f073e7a7daf792298a32001b0e2993"
+layout: "article"
 ---
 
 # Halal Food in China Shanghai: Pork Bun Incident, Halal Restaurant Respect and Muslim Community Rights

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f636b05dbb8fe19318ef016b7160b9e737826529d2ae9e2c1ba06d6de7e6d0e5"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Authentic Xinjiang Restaurants, Tanyang Lamb and Grilled Pigeon

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "25acda207418e87feca8bdcb40a7ba7e042e9bb3cce9e7f26ef5b549b092ece7"
+layout: "article"
 ---
 
 # Halal Food in China: Halal Rules, Shrimp Debate, Anti-Muslim Hate Speech and Muslim Community Unity

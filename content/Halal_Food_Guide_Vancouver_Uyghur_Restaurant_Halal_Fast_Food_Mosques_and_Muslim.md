@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b07677d90300429bd282eae194b4af4cba4f50705bdac8e18d9b8f4355e87689"
+layout: "article"
 ---
 
 # Halal Food Guide Vancouver: Uyghur Restaurant, Halal Fast Food, Mosques and Muslim Community

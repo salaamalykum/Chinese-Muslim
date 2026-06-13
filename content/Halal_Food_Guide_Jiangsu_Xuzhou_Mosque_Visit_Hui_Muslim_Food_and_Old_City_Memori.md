@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "10d3310751fb6def11a35888263444672375bbe428cc0db213ddea346e4eaeed"
+layout: "article"
 ---
 
 # Halal Food Guide Jiangsu Xuzhou: Mosque Visit, Hui Muslim Food and Old City Memories

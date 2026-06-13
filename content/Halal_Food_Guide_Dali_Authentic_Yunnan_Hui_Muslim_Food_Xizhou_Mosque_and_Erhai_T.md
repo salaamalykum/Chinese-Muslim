@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8817e8ad116e2fb3c6c75f3c34b7407865a80160b690b9e94648cf7323b7c569"
+layout: "article"
 ---
 
 # Halal Food Guide Dali: Authentic Yunnan Hui Muslim Food, Xizhou Mosque and Erhai Travel

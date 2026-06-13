@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "44de8bd4d6253948cedcb9e97d7a5ccec81cb37ee4d86399af7fca6eccbc8027"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Xunhua and Hualong Salar Mosques, Qinghai Halal Food and Heritage

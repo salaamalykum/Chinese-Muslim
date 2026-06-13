@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f4f5d25186ddde152817f8fb763f8dbf0036853592e6618de5e0c201bbe56c3a"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Is Car Insurance or a Mortgage Halal? Riba and Islamic Insurance Ethics

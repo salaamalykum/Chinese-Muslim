@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8d5fb2a23cbc068bae000329bdd6eca71c3f5be7ae40436927e6fff61ea3a20c"
+layout: "article"
 ---
 
 # Muslim Friendly China: Shenzhen Huawei Halal Cafeteria, Tanyang Lamb and Hui Muslim Community

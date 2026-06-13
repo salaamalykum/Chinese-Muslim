@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "00c371e2df24095b09b3c64ed5531ca14efb72f2971f5e7c3e2d84a69db26327"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Al-Azhar: Bank Interest, Riba Fatwa and Islamic Finance Debate

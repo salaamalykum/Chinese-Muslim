@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "bdfd3acf655837a138aab8951fe6d00be706b985256cdd427fd05d8e5431a2ca"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Beijing Miyun: Reservoir Mosques, Hui Villages and Muslim Heritage (Part 2)

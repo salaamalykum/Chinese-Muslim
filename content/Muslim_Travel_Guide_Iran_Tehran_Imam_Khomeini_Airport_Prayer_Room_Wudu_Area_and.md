@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c846cccc1c9ea811da28fb7c595369a3071d0456ab1bd027fa3568f6e70b3759"
+layout: "article"
 ---
 
 # Muslim Travel Guide Iran Tehran: Imam Khomeini Airport Prayer Room, Wudu Area and Shia Travel Notes

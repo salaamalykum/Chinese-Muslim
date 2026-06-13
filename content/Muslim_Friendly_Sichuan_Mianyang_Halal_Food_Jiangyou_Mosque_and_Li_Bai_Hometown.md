@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "48b338dbcc8f6b6ebd788a0858a61af289c04987fc0f3bf589bb27370341cf70"
+layout: "article"
 ---
 
 # Muslim Friendly Sichuan: Mianyang Halal Food, Jiangyou Mosque and Li Bai Hometown Travel

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a176b8f4a8ed24769e1a7c889a48675ed369371bec4e9520f86a6d1687488a4b"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Zhaoqing Guangdong Mosques, Hui Muslim Tombs and Halal Roast Goose

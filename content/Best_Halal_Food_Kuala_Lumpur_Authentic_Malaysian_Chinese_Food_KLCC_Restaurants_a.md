@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "17142dd2a379c21d9bd8f5a1f76f6d0dd302ad170552cf8124b1f0e6befeb603"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Authentic Malaysian Chinese Food, KLCC Restaurants and Seafood

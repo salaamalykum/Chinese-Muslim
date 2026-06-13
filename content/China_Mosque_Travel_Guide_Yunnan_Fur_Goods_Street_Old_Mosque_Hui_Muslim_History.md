@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "39fc9d058301a67f20e93c1f8e40b01ee9e3fd7f89c8af349e9913b2bb4de06f"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Yunnan: Fur Goods Street Old Mosque, Hui Muslim History and Long March Route

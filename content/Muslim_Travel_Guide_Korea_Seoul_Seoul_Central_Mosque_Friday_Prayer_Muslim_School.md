@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "be7c5e6b8337b5219bbb7f712bd51e69db79f124eb37e817223e62badf2dd2f5"
+layout: "article"
 ---
 
 # Muslim Travel Guide Korea Seoul: Seoul Central Mosque, Friday Prayer, Muslim School and Itaewon Community

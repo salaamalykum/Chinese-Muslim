@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f6e4024c26dae42100d8e67469b15c1558898d5aecb9fd62ce25517f7a193bcc"
+layout: "article"
 ---
 
 # Muslim Travel Guide China Hebei Botou: Old Mosques, Hui Streets and Local Muslim Memories

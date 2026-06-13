@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d3a8713cc9400c5e9868e039cf82120f38e84e223d8beaac7ccbbc07c7f8a656"
+layout: "article"
 ---
 
 # Muslim History Guide Indonesia Kotagede: Mataram Capital, Mosques and Java Muslim Heritage

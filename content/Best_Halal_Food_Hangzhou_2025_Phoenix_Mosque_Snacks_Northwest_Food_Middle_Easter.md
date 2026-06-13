@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4ca711b40a309c4553848e8334e3adefbb88e7446595eae656d27731def13cf0"
+layout: "article"
 ---
 
 # Best Halal Food Hangzhou 2025: Phoenix Mosque Snacks, Northwest Food, Middle Eastern Cuisine and Hui Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ddf3a2c442d34c8e136cb7f637d3246d6d8d25099e1f1b0985029a87358875d7"
+layout: "article"
 ---
 
 # Halal Restaurant Near Me Beijing: Beef Huoshao, Roast Beef and Local Muslim Food Map

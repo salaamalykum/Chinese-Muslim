@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0ced666fdaca0b7dd04e2b760f85671e2976f25abd4a18f516b67e1d7fb3fc5f"
+layout: "article"
 ---
 
 # Muslim History Guide Shanghai Pudong: Persian Sufi Poetry, Islamic Art and Museum Visit

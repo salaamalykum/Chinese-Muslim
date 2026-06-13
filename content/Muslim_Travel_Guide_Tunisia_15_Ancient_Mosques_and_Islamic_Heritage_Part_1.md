@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "32d1f7b11ca8dc285e33c662197973fab6022f46b3aed8c252fb67887aac37d4"
+layout: "article"
 ---
 
 # Muslim Travel Guide Tunisia: 15 Ancient Mosques and Islamic Heritage (Part 1)

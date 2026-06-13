@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "aaf5d184559cb1fec3039f1494083bb98e02cf8a49234f24240afa26b46e2113"
+layout: "article"
 ---
 
 # Muslim Life Guide in the Muslim World: Last Ten Nights, Menstruation, Dua and Ramadan Worship

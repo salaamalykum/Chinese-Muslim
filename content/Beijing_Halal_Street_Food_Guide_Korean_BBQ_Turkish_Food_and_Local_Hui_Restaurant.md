@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "acad5a191600b97cc41aa13e3fa5b0ed70f308c406a8d717de8e530b18b6f899"
+layout: "article"
 ---
 
 # Beijing Halal Street Food Guide: Korean BBQ, Turkish Food and Local Hui Restaurants

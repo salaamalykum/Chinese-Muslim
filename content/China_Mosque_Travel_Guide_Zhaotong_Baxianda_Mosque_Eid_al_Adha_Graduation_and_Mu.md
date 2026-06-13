@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "97c7dc3f4f4a2d698aebab0ecdfc5ab8de9f9ef036968027dcfc5aca88481683"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Zhaotong: Baxianda Mosque, Eid al-Adha Graduation and Muslim Youth Hope

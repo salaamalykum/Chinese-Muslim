@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1f574a78e21bf4c75afa241b1ed2b8960c05fd53ca07762ba6a19209867798fe"
+layout: "article"
 ---
 
 # Muslim Life Guide China: Ramadan Career Wins, Faith-Friendly Work and Islamic Insurance

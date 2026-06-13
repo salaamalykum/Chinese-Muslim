@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1b022f2577128761e5e57d45f9832aec0c6883b1f7b97aada823171da605f139"
+layout: "article"
 ---
 
 # Muslim Travel Guide Toronto: Chinese Hui Muslim Eid al-Adha, Halal Noodles and Scarborough Mosque

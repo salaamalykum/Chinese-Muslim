@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "41a3d3b4232f75b4209bd2593768c3ae4ffcc37ef6b2d8e066f833be3843679d"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Authentic Hui Muslim Restaurants, Malatang and Lebanese Food

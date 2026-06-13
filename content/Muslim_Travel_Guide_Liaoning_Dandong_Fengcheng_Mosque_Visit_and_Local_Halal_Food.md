@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d1b947a370d485fabef1d57647b4b9290643200e022704c494b2823ca930842a"
+layout: "article"
 ---
 
 # Muslim Travel Guide Liaoning Dandong: Fengcheng Mosque Visit and Local Halal Food

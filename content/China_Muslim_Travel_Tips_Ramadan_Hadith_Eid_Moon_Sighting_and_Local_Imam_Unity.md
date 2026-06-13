@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "592263aff4f68a3015a4e3738c02da158e1772ea7683a9ec1962e651198e757c"
+layout: "article"
 ---
 
 # China Muslim Travel Tips Ramadan: Hadith, Eid Moon Sighting and Local Imam Unity

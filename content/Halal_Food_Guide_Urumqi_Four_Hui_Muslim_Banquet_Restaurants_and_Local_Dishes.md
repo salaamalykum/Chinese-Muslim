@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "562da114fdb1e874418a17b332f0c1ac864ea5fb7a32af0f58f5dd73519d9008"
+layout: "article"
 ---
 
 # Halal Food Guide Urumqi: Four Hui Muslim Banquet Restaurants and Local Dishes

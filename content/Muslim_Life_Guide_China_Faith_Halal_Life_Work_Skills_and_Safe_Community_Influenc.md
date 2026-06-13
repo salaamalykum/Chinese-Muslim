@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "58e3b0552a25a5edf6c87e466739e7b78373a40e18cf32c33dbf64e1fb5cb4a7"
+layout: "article"
 ---
 
 # Muslim Life Guide China: Faith, Halal Life, Work Skills and Safe Community Influence

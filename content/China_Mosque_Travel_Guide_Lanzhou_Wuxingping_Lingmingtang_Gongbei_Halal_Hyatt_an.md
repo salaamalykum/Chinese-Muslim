@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ae248f46daadeb337a910ab3757206bc48dde168816a4d5e6ab84878e29d0859"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Lanzhou Wuxingping Lingmingtang Gongbei, Halal Hyatt and Beef Noodles

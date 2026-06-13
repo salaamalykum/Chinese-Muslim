@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c4fcd0f72fca877b67681d77b882d123f97c50a3dd73d7f807d3f031a0bfbfb2"
+layout: "article"
 ---
 
 # Muslim Travel Guide Macau: Halal Southeast Asian Food, Macau Mosque and Muslim Cemetery

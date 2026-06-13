@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3aaa98dabfec6be7d7a970cfd2a6145db2c931b6b62c6da079eeae9eac7dd9b0"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Islamic Finance Critique, Riba Debate and Banking Ethics

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0dda1c3b71253a7ae77428ea4d2d6c5dcc5f20813a199c8b970e9c58b1ffa11b"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Is Riba the Same as Interest in Islamic Finance or Is There No Consensus

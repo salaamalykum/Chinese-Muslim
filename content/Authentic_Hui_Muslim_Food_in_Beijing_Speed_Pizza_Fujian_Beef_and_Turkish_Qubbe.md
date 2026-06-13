@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ff20f68d5ac88c1db05280758e011f48f4da8d8fef6eed7a3944de3deb492d60"
+layout: "article"
 ---
 
 # Authentic Hui Muslim Food in Beijing: Speed Pizza, Fujian Beef and Turkish Qubbe

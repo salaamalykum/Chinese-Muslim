@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a35caec8e89a71e16fe173c215dcca5a2f499fe674e1420ef89962526dd45da6"
+layout: "article"
 ---
 
 # Egypt Muslim Travel Guide: Cairo Museum, Luxor Restaurants and Real Travel Trap Warnings

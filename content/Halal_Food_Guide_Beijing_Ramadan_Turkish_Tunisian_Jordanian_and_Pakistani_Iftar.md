@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "2f155a3112a94f82c720a062278659e03d8d949fabe5ce72e40294b70e9d1067"
+layout: "article"
 ---
 
 # Halal Food Guide Beijing Ramadan: Turkish, Tunisian, Jordanian and Pakistani Iftar Buffets

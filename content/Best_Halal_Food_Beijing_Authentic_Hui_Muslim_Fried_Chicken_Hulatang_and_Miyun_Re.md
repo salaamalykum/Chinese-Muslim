@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "137c6b54902edbf4ce1c648152e73bc8b8c1a023aaf5ee3e3b76531f02e6af9c"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Authentic Hui Muslim Fried Chicken, Hulatang and Miyun Reservoir Fish

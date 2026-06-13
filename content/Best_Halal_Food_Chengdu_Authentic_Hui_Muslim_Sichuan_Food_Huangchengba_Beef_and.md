@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "316e6d3658d1b310427727bef5350efffc4bff41055145f84d6291f777197bb5"
+layout: "article"
 ---
 
 # Best Halal Food Chengdu: Authentic Hui Muslim Sichuan Food, Huangchengba Beef and Mosque Streets

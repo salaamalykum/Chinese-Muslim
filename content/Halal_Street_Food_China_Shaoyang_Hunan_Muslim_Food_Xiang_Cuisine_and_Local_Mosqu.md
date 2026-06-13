@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "93451686543f0125fcb5add095cef4b8f9ac80df3af6d7b23b80136b48aadeef"
+layout: "article"
 ---
 
 # Halal Street Food China: Shaoyang Hunan Muslim Food, Xiang Cuisine and Local Mosques

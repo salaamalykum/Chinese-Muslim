@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e024b0656d70599a6db7512044e199adf9e3f7361b5ebba2aa72a6ac4e4a4f4b"
+layout: "article"
 ---
 
 # Muslim Friendly Hangzhou: Historic Mosques, Halal Food and Local Travel Guide

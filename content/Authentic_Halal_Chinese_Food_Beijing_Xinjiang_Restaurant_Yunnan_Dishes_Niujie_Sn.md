@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "af663170f0ce1bc5d01c1585ea5d73e7cbd2ded8371d27413fcc7018f9e5424d"
+layout: "article"
 ---
 
 # Authentic Halal Chinese Food Beijing: Xinjiang Restaurant, Yunnan Dishes & Niujie Snacks

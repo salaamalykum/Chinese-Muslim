@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "32c819540333fe82953e0c909b41a9e52cfcf8fed1cdb7c20168a957e9abd642"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Shandong Jining: Old Mosques, Hui Food and Grand Canal Heritage

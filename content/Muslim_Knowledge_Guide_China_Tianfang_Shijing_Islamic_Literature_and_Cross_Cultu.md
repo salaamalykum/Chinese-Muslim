@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "cda80a4e9152bab2efd068f84391cc4c1a0db0ae2dd1e0cc6dee3b553cd328ce"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Tianfang Shijing, Islamic Literature and Cross-Cultural Poetry

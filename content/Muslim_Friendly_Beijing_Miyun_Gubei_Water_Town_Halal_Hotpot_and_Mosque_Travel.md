@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "70f23009c4fd178ddd4c499f1e20aedd298a661818db005b47bba0eb71cbb8c6"
+layout: "article"
 ---
 
 # Muslim Friendly Beijing: Miyun Gubei Water Town, Halal Hotpot and Mosque Travel

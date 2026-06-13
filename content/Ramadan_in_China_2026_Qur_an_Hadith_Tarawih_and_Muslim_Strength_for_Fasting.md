@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4f5cebfa0d3846b89d2bfeef55ed69ada08f67eafa296ad780f7ebc2c8eebc04"
+layout: "article"
 ---
 
 # Ramadan in China 2026: Qur'an, Hadith, Tarawih and Muslim Strength for Fasting

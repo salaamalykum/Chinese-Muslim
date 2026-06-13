@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "cd119c4c914f64eeff7fb45fdce7bd9c78eb8159694b749007e6c8494b51d7c7"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Niububi Hot Pot, Old Beijing Snacks, Xinjiang Food and Azerbaijani Dumplings

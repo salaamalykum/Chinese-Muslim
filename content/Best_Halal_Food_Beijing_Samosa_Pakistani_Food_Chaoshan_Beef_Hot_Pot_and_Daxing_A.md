@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f2ad61d5557dffca885eabe4799304ba9ef39c08d5a52ecc792952efe81cfd5d"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Samosa Pakistani Food, Chaoshan Beef Hot Pot and Daxing Airport Xinjiang Noodles

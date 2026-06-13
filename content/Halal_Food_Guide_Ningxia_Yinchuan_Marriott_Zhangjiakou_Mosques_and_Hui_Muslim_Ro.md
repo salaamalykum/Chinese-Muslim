@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "feb19e11cf3bab217d9aec98c06aa32025b0430cd3278fb0688a49afc6721745"
+layout: "article"
 ---
 
 # Halal Food Guide Ningxia: Yinchuan Marriott, Zhangjiakou Mosques and Hui Muslim Road Trip

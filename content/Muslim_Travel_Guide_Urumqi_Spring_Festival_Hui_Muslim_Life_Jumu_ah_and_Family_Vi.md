@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3e00e6a1aace64c7fede07af6590356a7212aa9caa46db4576a1f8037883f074"
+layout: "article"
 ---
 
 # Muslim Travel Guide Urumqi Spring Festival: Hui Muslim Life, Jumu'ah and Family Visits

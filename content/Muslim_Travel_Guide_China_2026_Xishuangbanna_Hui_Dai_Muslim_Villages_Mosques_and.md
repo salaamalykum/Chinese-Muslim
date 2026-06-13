@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "85dd11f7945b639a546d1b0ad924ed362a560a028eeb36561b9004d62835c40e"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Xishuangbanna Hui-Dai Muslim Villages, Mosques and Halal Food

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "721afd24652545988375331fae5f57b41598883f0be2269d0359478adad28229"
+layout: "article"
 ---
 
 # Authentic Muslim Life Guide in the Muslim World: Shaban Virtues, Dua and Ramadan Preparation

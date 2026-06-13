@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f65fe6fe613f3ef919327706195e93c38ac172d5ec774bec541bf9747c34f6dd"
+layout: "article"
 ---
 
 # Muslim Travel Guide Japan Tokyo: Yoyogi Mosque, Friday Prayer, Turkish Market and Muslim Community

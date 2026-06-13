@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "10fdb1213adeff467b0e4e9fdf9b7afcff01f37957b0cc33788473977c520df2"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Pizza Hut, Nasi Lemak, Indian Meals, Thai Food and Dragon-i

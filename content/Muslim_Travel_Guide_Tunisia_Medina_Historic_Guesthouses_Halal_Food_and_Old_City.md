@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b958e755dcaafc888983750d1cb43b09a63068a91825f11905711bc27180e4b4"
+layout: "article"
 ---
 
 # Muslim Travel Guide Tunisia Medina: Historic Guesthouses, Halal Food and Old City Markets (Part 1)

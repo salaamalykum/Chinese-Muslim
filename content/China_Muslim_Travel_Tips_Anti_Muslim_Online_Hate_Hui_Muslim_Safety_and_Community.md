@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e0855a273fdf08fa52265c393f69a7c7514183f0835451167b3997a184097414"
+layout: "article"
 ---
 
 # China Muslim Travel Tips: Anti-Muslim Online Hate, Hui Muslim Safety and Community Awareness

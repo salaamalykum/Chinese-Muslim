@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7595d2a47a729c446b27446192c817289b7d5adb5942ba6a75e6ea8cb8205782"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Huangcun Mosque Eats, Potstickers, Dim Sum and Hui Muslim Soup

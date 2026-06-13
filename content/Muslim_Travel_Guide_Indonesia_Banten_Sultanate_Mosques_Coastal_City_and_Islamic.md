@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b2ea4d53b5e5c06b94a713b15f72d13bb858923f75763a8ad1767247dadf3805"
+layout: "article"
 ---
 
 # Muslim Travel Guide Indonesia Banten: Sultanate Mosques, Coastal City and Islamic Heritage

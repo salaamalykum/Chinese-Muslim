@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "24143c661d95d22541b90a59cb4f725084e05d7778b16ae8324da7a6e54c5552"
+layout: "article"
 ---
 
 # Muslim Travel Guide Bangkok: Persian Shia Mosques and Muharram Traditions

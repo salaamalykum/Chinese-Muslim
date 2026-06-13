@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4aff6b88b04dacf3920ece6b9412fd7d94d4cc708e5f5e42ff60e3954141ab87"
+layout: "article"
 ---
 
 # Muslim Travel Guide Malacca: Nyonya Food, Chinese Mosque and Malaysia Islamic Heritage

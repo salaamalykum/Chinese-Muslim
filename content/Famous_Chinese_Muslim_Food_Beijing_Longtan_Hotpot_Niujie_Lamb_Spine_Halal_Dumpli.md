@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d5b53378d1b27f7facd4889b457b6c3a19b91fc32e4cd6019d6d1d1d16ca452a"
+layout: "article"
 ---
 
 # Famous Chinese Muslim Food Beijing: Longtan Hotpot, Niujie Lamb Spine & Halal Dumplings

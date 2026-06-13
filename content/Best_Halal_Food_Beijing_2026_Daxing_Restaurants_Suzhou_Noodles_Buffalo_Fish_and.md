@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "99d117ec63342b761201ac79e9f5c4bd7a71a750830feaf251866b299ef4cfca"
+layout: "article"
 ---
 
 # Best Halal Food Beijing 2026: Daxing Restaurants, Suzhou Noodles, Buffalo Fish and Yogurt Shaved Ice

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ed2939869dc6d806e8fa135575a567e37b31c2ee808c5254d5e835f9c0577424"
+layout: "article"
 ---
 
 # Muslim Travel Guide Tunisia Kairouan: Great Mosque, Jumu'ah and Islamic Heritage (Part 1)

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "79cbbe0f80e9eb50025ca308f8abc9d6543ed9380b8e97b02f570fe3813d32b5"
+layout: "article"
 ---
 
 # Muslim Friendly Yunnan: Ruili Mosque, Myanmar Muslims and Real Halal Street Food

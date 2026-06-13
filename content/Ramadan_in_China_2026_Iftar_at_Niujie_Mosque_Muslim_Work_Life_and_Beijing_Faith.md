@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f919d3cce25470d67fdda9871a72ebc94fdc7784a3de1d19846164f2f3588a2c"
+layout: "article"
 ---
 
 # Ramadan in China 2026: Iftar at Niujie Mosque, Muslim Work Life and Beijing Faith Reflections

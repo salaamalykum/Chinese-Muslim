@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "33c37b0386d1869e4832786e83de67c5ae8e279d1cb61b7211c9280af0524179"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Kashgar Id Kah Mosque, Abakh Khoja Mazar and Uyghur Heritage

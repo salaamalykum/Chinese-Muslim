@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b1815cc606ebe8949140019b2e4123570ba764042fc8ab4d2fd61704b394c75d"
+layout: "article"
 ---
 
 # Muslim Travel Guide Brunei: Visa on Arrival, Sultanate History, Mosques and Halal Food

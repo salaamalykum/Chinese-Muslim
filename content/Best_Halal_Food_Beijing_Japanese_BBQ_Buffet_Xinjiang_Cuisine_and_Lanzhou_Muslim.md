@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1a53b971a1513386e8865b998651f5a9710a939d10d6120beba7ba5287cb0ef8"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Japanese BBQ Buffet, Xinjiang Cuisine and Lanzhou Muslim Snacks

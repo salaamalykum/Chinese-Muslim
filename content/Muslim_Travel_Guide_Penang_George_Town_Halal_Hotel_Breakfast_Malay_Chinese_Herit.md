@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e1b5894e58b40652db030c82cdd02227758a1363a6afe79fd9d207018a1e6ccc"
+layout: "article"
 ---
 
 # Muslim Travel Guide Penang: George Town, Halal Hotel Breakfast, Malay-Chinese Heritage and Beaches

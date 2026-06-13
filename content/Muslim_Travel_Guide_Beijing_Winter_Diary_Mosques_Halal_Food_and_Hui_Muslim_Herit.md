@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b6f05b3a8336092f793565c9884663843a108a28eb335d6b4de554d7f3672fc6"
+layout: "article"
 ---
 
 # Muslim Travel Guide Beijing Winter Diary: Mosques, Halal Food and Hui Muslim Heritage (Part 1)

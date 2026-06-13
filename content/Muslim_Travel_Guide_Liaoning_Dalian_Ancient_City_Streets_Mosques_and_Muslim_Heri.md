@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e909639ce20e7f03efa301261344ddd586cd99a406054b0db065aa20bebd73ea"
+layout: "article"
 ---
 
 # Muslim Travel Guide Liaoning Dalian: Ancient City Streets, Mosques and Muslim Heritage

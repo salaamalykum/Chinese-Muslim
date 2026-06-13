@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "bba23d77c9265cd78f4dabba8f560a10ec5f36021f507af8e07aad9e70d9f6c3"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Is Insurance Halal or Haram? Takaful, Riba and Gharar Explained

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "5ebb638b86b62716c4081fa2c2816a55215592bf86b11e048432653a3a50e8e7"
+layout: "article"
 ---
 
 # Halal Cantonese Food Guangzhou: Muslim-Friendly Yum Cha, Xinjiang Building and Local Dim Sum

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "eed6df86b5302fb5eb240ee5fe7c290a6e122f01edd60f43e2d01cdec6a8f680"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Hebei Cangzhou: Old Mosques, Hui Villages and Muslim Heritage

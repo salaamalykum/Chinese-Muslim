@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "2a22f3faf6461ae0f80e665a4134028fb8bf6ce54dddc78ede3ba6597f3a169b"
+layout: "article"
 ---
 
 # Muslim History Guide Cairo: Museum of Islamic Art and Muslim Heritage (Part 1)

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "096adce85fea4781460d7ef274bf3e4df5870f488f02a7071f3273e54dd04ebf"
+layout: "article"
 ---
 
 # Muslim Travel Guide Sichuan: Xichang Tianba Hui Muslim Village, Mosques and Beef Hot Pot

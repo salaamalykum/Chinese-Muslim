@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9f72071f52d040baad47e93bc109754aac115196a5f93f7c70208bbb7f1ceb9a"
+layout: "article"
 ---
 
 # Muslim Travel Guide Tunisia Sousse: UNESCO Medina, Halal Food and Old City Mosques

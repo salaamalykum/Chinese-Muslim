@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a00b769fd937f08307d5a3a2f865eabd8f6c92889b688f753fa8bd4893478e36"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Jiangsu: 25 Historic Mosques and Hui Muslim Heritage (Part 1)

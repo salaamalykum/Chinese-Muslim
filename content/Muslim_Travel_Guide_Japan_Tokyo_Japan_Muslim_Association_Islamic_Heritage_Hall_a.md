@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "efb02f80679d2d21d5acf6f7e784b3885e445fc3608f96c1fed9fd292d17c26a"
+layout: "article"
 ---
 
 # Muslim Travel Guide Japan Tokyo: Japan Muslim Association, Islamic Heritage Hall and Ginza Food

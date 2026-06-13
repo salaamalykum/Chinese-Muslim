@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b33e9a5b7a481d1871528faf7e3306fbc828093f6bc1eac4e41f848997c5e287"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Zhengzhou Mosques, Hui Muslim Food, Huimian and Hulatang

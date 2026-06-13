@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "40d5cec193a8cd0d8215c523a1d9326fd9854b54aa69f9a636ca5cd0a4cfbe3c"
+layout: "article"
 ---
 
 # Halal Food Guide Urumqi: Hui Muslim Home Cooking and 15 Traditional Dishes (Part 1)

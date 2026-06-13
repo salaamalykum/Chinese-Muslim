@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "311bc3258bf0150e51b6799bb82b6cdd1e54e9067ab015b2e3f3efc2e3ce7b83"
+layout: "article"
 ---
 
 # Muslim Travel Guide UAE: Dubai Halal Flights, Prayer Rooms and Sheikh Zayed Grand Mosque

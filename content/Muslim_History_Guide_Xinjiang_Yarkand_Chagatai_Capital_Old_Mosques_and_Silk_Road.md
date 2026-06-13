@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ee556ad6e617629d7ad17813a2964670fd23532c71ab5fab084918fdf63d666d"
+layout: "article"
 ---
 
 # Muslim History Guide Xinjiang Yarkand: Chagatai Capital, Old Mosques and Silk Road Heritage

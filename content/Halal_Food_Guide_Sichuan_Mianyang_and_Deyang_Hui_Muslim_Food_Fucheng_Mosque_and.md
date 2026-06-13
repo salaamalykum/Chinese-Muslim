@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f8c005e82639329fc2c9fa1e70f7769e02e5336c250a9323de994e1c0f6128a6"
+layout: "article"
 ---
 
 # Halal Food Guide Sichuan: Mianyang and Deyang Hui Muslim Food, Fucheng Mosque and Xiaoquan Mosque

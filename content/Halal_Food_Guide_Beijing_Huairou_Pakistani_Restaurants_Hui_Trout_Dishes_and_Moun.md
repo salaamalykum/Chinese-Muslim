@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a36dc885bc33889253b679e4ac05258b3db5e7a1a4a9a9bddfeda190936b453d"
+layout: "article"
 ---
 
 # Halal Food Guide Beijing Huairou: Pakistani Restaurants, Hui Trout Dishes and Mountain Villages

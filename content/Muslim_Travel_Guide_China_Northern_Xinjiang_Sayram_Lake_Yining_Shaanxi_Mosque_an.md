@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "63a2255fd3f9ede52311b2c46ed778c898f9933d33df57ab087be2edb5adbf95"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Northern Xinjiang Sayram Lake, Yining Shaanxi Mosque and Halal Food

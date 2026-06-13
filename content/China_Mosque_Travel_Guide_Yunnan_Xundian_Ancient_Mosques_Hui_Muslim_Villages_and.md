@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "da950fbfa2be0e75695515c9609a2d7936d35d7f860dd2ef8f5e64c7a1ed0e95"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Yunnan: Xundian Ancient Mosques, Hui Muslim Villages and Long March Route

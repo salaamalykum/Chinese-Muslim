@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4d84f7c3870767c7d1ab7625ebb526c291162eb8461631ac9cc2b182b33c4a04"
+layout: "article"
 ---
 
 # Best Halal Restaurant Beijing: Dashi, Huawei Meat Pie, Xinjiang Rice Noodles and Mosque-Area Hot Pot

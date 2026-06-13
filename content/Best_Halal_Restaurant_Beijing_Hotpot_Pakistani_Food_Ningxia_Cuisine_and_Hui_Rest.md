@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "74959138f7fe3f525b94d4b82d39fa4693671a03729e9312fc2e3d311fd66727"
+layout: "article"
 ---
 
 # Best Halal Restaurant Beijing: Hotpot, Pakistani Food, Ningxia Cuisine and Hui Restaurants

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "56a9fc8995b0c4a67d158d49ef291e71f89e8d22da7e0af1abc45065822a5317"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Interest-Free Banking, Islamic Finance and Service Fee Debate

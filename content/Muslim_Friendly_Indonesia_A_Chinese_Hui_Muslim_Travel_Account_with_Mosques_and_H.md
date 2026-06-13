@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "113789d75c17f6885ea4971e6bfbcc0d6fbce2aebc0d83aef261aa5d54cfe2e5"
+layout: "article"
 ---
 
 # Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food

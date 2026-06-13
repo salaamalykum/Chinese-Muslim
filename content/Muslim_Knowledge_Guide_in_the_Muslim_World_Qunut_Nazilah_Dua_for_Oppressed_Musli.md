@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e3b1b9c41200cde318b5426620c06acdde5dd7356f7cb1c9f5d581151ce69ea6"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide in the Muslim World: Qunut Nazilah Dua for Oppressed Muslims in War

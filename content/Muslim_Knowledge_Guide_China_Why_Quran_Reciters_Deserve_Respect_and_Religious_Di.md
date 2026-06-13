@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "237f8676ca4352b8d7fabdf51dce7ad990eb94c908f2a62a3ecd3f4d849b85a6"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Why Quran Reciters Deserve Respect and Religious Dignity

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e58c7291ec03f17c22092fdfc8b06f6a559c9f002e9690e60a68fa9869a82b8a"
+layout: "article"
 ---
 
 # Halal Food Guide Chengdu: Qingbaijiang Hui Muslim Area and Pengzhou Travel Notes

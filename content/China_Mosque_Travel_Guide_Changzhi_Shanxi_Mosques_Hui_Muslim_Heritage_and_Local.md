@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c5d02533c6f268c3af6b28f3584aa5595d9ca13c1c3f79f01a7d63e9d0c7da32"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Changzhi Shanxi Mosques, Hui Muslim Heritage and Local Halal Food

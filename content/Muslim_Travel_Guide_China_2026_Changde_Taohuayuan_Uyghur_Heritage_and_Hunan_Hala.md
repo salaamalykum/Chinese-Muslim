@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "406bfd0794c9351243836b4b75713d7219b27a19308978024e7579395ddddf32"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Changde Taohuayuan, Uyghur Heritage and Hunan Halal Travel

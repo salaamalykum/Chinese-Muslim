@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "58ca043b84a3338e11023811edd02af814f76bac0c83e2e50bef942a9b76127d"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Hui Muslim Villages, Historic Mosques and Resistance History

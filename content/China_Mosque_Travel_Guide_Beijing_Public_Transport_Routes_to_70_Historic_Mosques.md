@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "19c69d3beaf786068c4d220f810ccadf4e137bb78c5d73a4cbad781392ad769f"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Beijing Public Transport Routes to 70 Historic Mosques for Muslim Visitors

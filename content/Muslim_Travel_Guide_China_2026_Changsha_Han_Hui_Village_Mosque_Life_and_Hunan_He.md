@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "335ded789c3dfac57600c7c6d9dca1a445f703bb8237458959716236867e8a7d"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Changsha Han-Hui Village, Mosque Life and Hunan Heritage

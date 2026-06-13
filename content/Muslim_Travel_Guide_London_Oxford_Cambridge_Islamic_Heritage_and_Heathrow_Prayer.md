@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c199d9b747eca9a1b6e5dbed567111f3b8b53e83638e64ffce6d7a1dfbf7c9c3"
+layout: "article"
 ---
 
 # Muslim Travel Guide London: Oxford, Cambridge, Islamic Heritage and Heathrow Prayer Rooms

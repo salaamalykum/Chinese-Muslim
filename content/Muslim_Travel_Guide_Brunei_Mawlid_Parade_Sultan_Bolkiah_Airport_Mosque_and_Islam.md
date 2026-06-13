@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "fe18a096c8be75533dda5b01ca0827d97091b5a73107319821e208100944eb96"
+layout: "article"
 ---
 
 # Muslim Travel Guide Brunei: Mawlid Parade, Sultan Bolkiah, Airport Mosque and Islamic Life

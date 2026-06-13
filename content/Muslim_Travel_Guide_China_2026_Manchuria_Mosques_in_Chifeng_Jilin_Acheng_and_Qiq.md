@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "fa220d8ad07cdfb2053e1f2e0faee96223bb9ad63128bae26dc3bb696fa0f131"
+layout: "article"
 ---
 
 # Muslim Travel Guide China 2026: Manchuria Mosques in Chifeng, Jilin, Acheng and Qiqihar

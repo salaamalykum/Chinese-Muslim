@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "15ebf48734ac49270850c3e09df5f0975704499bbc9147a4917297aa02297760"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Pork, Alcohol, Riba and Gambling Trade

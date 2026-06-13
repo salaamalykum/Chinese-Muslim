@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "995bfcfea5d32579677e4054db8dba107dae703ed2d2d408a2d86613dd849e3c"
+layout: "article"
 ---
 
 # Muslim History Guide Crimea: Crimean Khanate Early Capital, Mosques and Tatar Heritage

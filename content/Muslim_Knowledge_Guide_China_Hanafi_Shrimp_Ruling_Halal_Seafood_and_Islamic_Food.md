@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "62ef77854480c23eb1b598cffc1bad11b6a9e65ea13ec4d7d652707601b862eb"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Hanafi Shrimp Ruling, Halal Seafood and Islamic Food Rules

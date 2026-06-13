@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d05f05a069592c0622b11ae7805306e4bd330dfa1e3ac82ff42265711aa33786"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Yunnan: Jianshui Ancient Mosque, Dazhuang Mosques and Shadian Road Trip

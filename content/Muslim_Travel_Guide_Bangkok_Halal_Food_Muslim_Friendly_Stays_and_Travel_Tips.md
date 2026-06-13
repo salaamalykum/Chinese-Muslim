@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e61c730adc8069c1050a93db501121a7c05c29deb74a0ddc3f919ca8f6a230cd"
+layout: "article"
 ---
 
 # Muslim Travel Guide Bangkok: Halal Food, Muslim-Friendly Stays and Travel Tips

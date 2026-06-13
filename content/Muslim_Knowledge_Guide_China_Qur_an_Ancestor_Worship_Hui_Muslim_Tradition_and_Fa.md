@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f1076b2a96e3c94f714e6d2c02fbd6617c4eb51157a3c440ce68cced49be529e"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Qur'an, Ancestor Worship, Hui Muslim Tradition and Faith Reform

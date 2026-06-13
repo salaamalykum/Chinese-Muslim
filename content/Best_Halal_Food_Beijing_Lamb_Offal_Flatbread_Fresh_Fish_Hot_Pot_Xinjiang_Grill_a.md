@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1c4d3bb07f0cc974474e97d2d4460310309ec9c7aa11adf18ec1b2640d36b890"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Lamb Offal Flatbread, Fresh Fish Hot Pot, Xinjiang Grill and Lahore Restaurant

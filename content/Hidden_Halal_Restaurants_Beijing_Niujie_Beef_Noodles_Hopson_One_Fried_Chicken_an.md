@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "78d609dd5abd6e4552b91b101646dad6dc422fe8e50627db4f812ef52f758aff"
+layout: "article"
 ---
 
 # Hidden Halal Restaurants Beijing: Niujie Beef Noodles, Hopson One Fried Chicken and Local Hot Pot

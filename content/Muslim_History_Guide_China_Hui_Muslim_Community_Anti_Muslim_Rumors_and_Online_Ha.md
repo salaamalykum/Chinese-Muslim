@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d228ebf103c9f897c159d924e677d23613fca0f6da4f7a1fe273aa7d2699c27b"
+layout: "article"
 ---
 
 # Muslim History Guide China: Hui Muslim Community, Anti-Muslim Rumors and Online Hate Speech

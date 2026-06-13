@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "551e000a75f16b03f47bebdcd2259472479709489b49795312c99582f2059da2"
+layout: "article"
 ---
 
 # Halal Food Guide Dali: Weishan Hui Muslim Villages and Yunnan Mosque Food Map

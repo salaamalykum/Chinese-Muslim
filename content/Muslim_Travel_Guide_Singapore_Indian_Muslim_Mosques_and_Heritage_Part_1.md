@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "df5fea97ba7e04499c10636ef7ff60d9c753ef1c64cfda2844f81eeea8e7e4c0"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore: Indian Muslim Mosques and Heritage (Part 1)

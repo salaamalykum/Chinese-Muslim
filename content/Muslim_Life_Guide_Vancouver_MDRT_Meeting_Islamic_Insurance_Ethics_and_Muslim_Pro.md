@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9c501a2e7e271a201337828a3c404da98fc30e4e8b04dc0396aac5a594fa67da"
+layout: "article"
 ---
 
 # Muslim Life Guide Vancouver: MDRT Meeting, Islamic Insurance Ethics and Muslim Professionals

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "68c7fe845a4bc9d7fc4de2e61cde633ea010cb8e1abe60bab38231dc20980b5e"
+layout: "article"
 ---
 
 # Best Halal Food in Beijing: Local Muslim Restaurants, Hui Snacks and Halal Food Map 22

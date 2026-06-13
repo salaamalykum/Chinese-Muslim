@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "bde7da179b0ce6e2f2aaadbaf1c024c39169281267939a16010af7be10ea0d64"
+layout: "article"
 ---
 
 # Muslim History Guide Quanzhou: Maritime Museum Islamic Stone Inscriptions (Part 1)

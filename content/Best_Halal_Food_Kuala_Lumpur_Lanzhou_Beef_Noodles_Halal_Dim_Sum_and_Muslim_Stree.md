@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "fdd0a28b1f769b63f40c5f44a44bcafe21af336dceb704f74b44af0e2330c10b"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Lanzhou Beef Noodles, Halal Dim Sum and Muslim Street Dining

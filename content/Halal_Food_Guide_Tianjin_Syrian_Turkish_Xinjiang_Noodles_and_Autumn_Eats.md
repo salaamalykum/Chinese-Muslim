@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "721650fe6b591d1e6940e60ae388482a6d0208e766be028a086ca3c7fc6384ae"
+layout: "article"
 ---
 
 # Halal Food Guide Tianjin: Syrian, Turkish, Xinjiang Noodles and Autumn Eats

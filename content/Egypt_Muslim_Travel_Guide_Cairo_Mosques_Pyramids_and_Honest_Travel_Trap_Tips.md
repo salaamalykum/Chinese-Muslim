@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3879ef1739afac2205b84bfe7b0852a7cdb92b7dc1c397bf07fd9087c96b84c8"
+layout: "article"
 ---
 
 # Egypt Muslim Travel Guide: Cairo Mosques, Pyramids and Honest Travel Trap Tips

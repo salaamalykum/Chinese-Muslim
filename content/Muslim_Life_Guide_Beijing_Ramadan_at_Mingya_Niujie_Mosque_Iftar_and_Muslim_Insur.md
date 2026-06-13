@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b7cf9196e4b831c54377d84e9858478e667a242201ef14cd5044fa773ddf00a2"
+layout: "article"
 ---
 
 # Muslim Life Guide Beijing: Ramadan at Mingya, Niujie Mosque Iftar and Muslim Insurance Work

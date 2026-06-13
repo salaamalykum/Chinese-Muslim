@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "09ce39b1fde60a0b046a876436fc387ae1416308bd38ecd3b9d7a7d9709fe17c"
+layout: "article"
 ---
 
 # Halal Food Guide Tianjin: Japanese Restaurants, Western Dining and Hui Muslim Local Food

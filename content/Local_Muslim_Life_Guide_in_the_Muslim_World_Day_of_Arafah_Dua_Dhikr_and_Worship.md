@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "211d9bb79a60efbc9ae705c650721b6b943865ca3473ecb92a6b2fefc0ea26cc"
+layout: "article"
 ---
 
 # Local Muslim Life Guide in the Muslim World: Day of Arafah Dua, Dhikr and Worship Plan

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6720dab64e5a42d163df2aa4e0e7550713cc49c6b974fabac9f234c5ad88c3fe"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Is Life Insurance Halal? Term Life, Whole Life and Takaful Explained

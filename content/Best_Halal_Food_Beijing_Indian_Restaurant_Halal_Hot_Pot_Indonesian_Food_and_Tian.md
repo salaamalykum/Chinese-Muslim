@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a509a18600c89f2656eb9d2bcf3c497d30ff59ee5595bd3224fa97a12fc8519b"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Indian Restaurant, Halal Hot Pot, Indonesian Food and Tianshui Malatang

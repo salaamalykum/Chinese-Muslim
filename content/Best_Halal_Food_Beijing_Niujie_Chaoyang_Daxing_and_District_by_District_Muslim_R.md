@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "637312ebc3c8d786606969c8e9fa13cdbc52305d050868f20be5dada802c5a39"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Niujie, Chaoyang, Daxing and District-by-District Muslim Restaurant Map

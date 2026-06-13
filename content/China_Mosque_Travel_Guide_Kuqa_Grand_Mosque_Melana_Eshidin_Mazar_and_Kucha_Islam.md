@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "628d65779c7a3ef6e60b0302904df279c8b6e1f612e9b154bf5d4fb8cab1e2a7"
+layout: "article"
 ---
 
 # China Mosque Travel Guide: Kuqa Grand Mosque, Melana Eshidin Mazar and Kucha Islamic History

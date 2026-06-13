@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "efddcab0e9aa37439c5feac0fff52279c5fdb61494515812a65d1fd0442998ce"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: 106 Tasmiya Calligraphy Styles and Islamic Art

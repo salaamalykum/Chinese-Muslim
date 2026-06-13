@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "41907e16cc8cf15aa8bc726289e863e51834708ca4d2eaf11568de93529bbf76"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide China: Mosque Teachers, Prayer Unity and Youth Islamic Education

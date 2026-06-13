@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7f07431def941fb319f9538083f74efd197ba2f783caf63f0427d023b1e17a9a"
+layout: "article"
 ---
 
 # Muslim Travel Guide China: Yarkand Altun Mosque, Khanate Tombs and Turdi Haji Manor

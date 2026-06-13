@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "90c74b6f2bfb5ba684cd517c593b347571b4e369e12ba2876351fd2ca512d6c6"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Hezhou Beef Noodles, Beef Cover Bread, Yangfang Hot Pot and Indian Food

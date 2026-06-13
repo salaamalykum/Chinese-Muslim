@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "26bc46c46c9b2a91ab2791b7f2acfbc15022773ed00b862a1276944340b6e3f7"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide in the Muslim World: Quran Trivia, Revelation and Faith Questions

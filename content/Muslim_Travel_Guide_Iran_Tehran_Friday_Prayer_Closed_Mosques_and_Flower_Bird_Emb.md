@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6fe57b7f2af59a73ba2424508e7add93e228460c64a13f33ebd52a4a13c16f55"
+layout: "article"
 ---
 
 # Muslim Travel Guide Iran Tehran: Friday Prayer, Closed Mosques and Flower-Bird Embroidery

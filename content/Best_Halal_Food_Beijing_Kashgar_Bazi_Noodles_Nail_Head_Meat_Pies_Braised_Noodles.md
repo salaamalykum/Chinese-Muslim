@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "80f3ec2bb2013e7630e0934398353a99e0543778245ee5761a275768fa1265e3"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Kashgar Bazi Noodles, Nail-Head Meat Pies, Braised Noodles and Lamb Soup

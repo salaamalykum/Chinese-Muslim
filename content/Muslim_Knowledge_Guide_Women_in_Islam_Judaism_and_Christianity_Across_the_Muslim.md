@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9b50ce9f6ba1d27d2a4306b46b2e4c2447f51df13ef787fbca77f773e2e94b85"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide: Women in Islam, Judaism and Christianity Across the Muslim World

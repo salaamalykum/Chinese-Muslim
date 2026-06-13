@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6da235f28d335b332c7eb7e51e2b3d715b1287bd4c115ce3ab5db40176cbfae0"
+layout: "article"
 ---
 
 # Muslim Life Guide China Ramadan: Qur'an, Fidyah and Health Struggles With Fasting

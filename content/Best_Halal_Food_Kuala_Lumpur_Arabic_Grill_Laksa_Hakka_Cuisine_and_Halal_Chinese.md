@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6ae03ed2590287fd67b0b574c1ffa9d386c46f6a6f6808677ef105a3b6bc545d"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Arabic Grill, Laksa, Hakka Cuisine and Halal Chinese Food

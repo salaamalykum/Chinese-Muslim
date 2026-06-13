@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "87711e54a73b5c0ceaf769c8e0bf6d51e8089d2ed984c6a7b8e1a196ea26145d"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Yujiawu BBQ, Tengzhou Pancake, Buffet Hot Pot and Halal Hunan Food

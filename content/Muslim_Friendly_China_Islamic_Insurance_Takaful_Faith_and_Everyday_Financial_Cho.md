@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "47df251de206fc3accdb8ed055a716153dde49ac6433b6b19698af6a531e53f5"
+layout: "article"
 ---
 
 # Muslim Friendly China: Islamic Insurance, Takaful, Faith and Everyday Financial Choices

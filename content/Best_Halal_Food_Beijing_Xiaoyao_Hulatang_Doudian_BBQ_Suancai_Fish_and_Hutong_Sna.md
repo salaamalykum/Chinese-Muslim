@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f7ea7721894558644dd8373b6f13cbb4041172ccdf462294ea0316a1a3d79067"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Xiaoyao Hulatang, Doudian BBQ, Suancai Fish and Hutong Snacks

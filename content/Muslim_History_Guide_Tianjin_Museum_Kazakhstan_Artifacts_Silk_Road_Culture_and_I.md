@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "3b1fd87d8cfab82807a140814ee8484e88fa0e09e8abf6dc157dd8fe8dbf0f44"
+layout: "article"
 ---
 
 # Muslim History Guide Tianjin Museum: Kazakhstan Artifacts, Silk Road Culture and Islamic Heritage

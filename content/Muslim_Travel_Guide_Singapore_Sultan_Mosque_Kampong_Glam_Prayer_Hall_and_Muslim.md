@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "73718c3c86eec6380f19f2987c09267791862ae5b30de5e7e2ab48aa48266a63"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore: Sultan Mosque, Kampong Glam, Prayer Hall and Muslim Heritage

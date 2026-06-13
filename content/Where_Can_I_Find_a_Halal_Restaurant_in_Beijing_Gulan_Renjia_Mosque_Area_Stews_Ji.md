@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ea21b8ac1ed8eaa6e73760bba9d7ce1da5a770c99480a062ae7c8c9902acf465"
+layout: "article"
 ---
 
 # Where Can I Find a Halal Restaurant in Beijing: Gulan Renjia, Mosque-Area Stews & Jingnan Hotpot

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7c2c9dcfec943add69c574266f3c8a70553bc40ff19006b1906bc8d6ccb69ec3"
+layout: "article"
 ---
 
 # Muslim Friendly Travel Shandong Dezhou: Old Mosques, Hui Food and Canal City Heritage

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c102b0432aea360ab6965ffc5ada4709e48b1256ca6db5f4df9d8a5dfab9a12f"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Seventy Mosques, Taicheng Mosque and Hui Heritage

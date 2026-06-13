@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "799e6de56706338933a3281839dd765d38dcf3584af809d7c49c35531454f6b4"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Malaysia: Islamic Banking, Riba, Murabaha and Halal Finance Debate

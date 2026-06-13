@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4b0f10dc6eaa8e1c38e48194abef0f216552331b270a4f82fa51697b9b8012b7"
+layout: "article"
 ---
 
 # Best Halal Food Vietnam Ho Chi Minh City: Ben Thanh Market, Saigon Muslim Street and Cham Food Stalls

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "468d68b6ca5a12d3a236dc4a51c9401d86c42cf5f007c0941cad783e39d48f2c"
+layout: "article"
 ---
 
 # Muslim Travel Guide Indonesia Solo: Central Java Palaces, Mosques and Muslim Heritage

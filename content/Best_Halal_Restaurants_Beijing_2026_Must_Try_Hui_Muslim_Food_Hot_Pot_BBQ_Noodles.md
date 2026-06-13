@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f9d6831574978cf4a7c80da4f58261ee023151d26265da023410b8738a0cbf2a"
+layout: "article"
 ---
 
 # Best Halal Restaurants Beijing 2026: Must-Try Hui Muslim Food, Hot Pot, BBQ, Noodles and Street Snacks

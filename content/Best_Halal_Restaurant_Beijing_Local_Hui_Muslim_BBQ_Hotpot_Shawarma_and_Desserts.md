@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "9992d0b7c167219670bc3d41cd7a3360f9e73930415963d9fe56d6a242d4e108"
+layout: "article"
 ---
 
 # Best Halal Restaurant Beijing: Local Hui Muslim BBQ, Hotpot, Shawarma and Desserts

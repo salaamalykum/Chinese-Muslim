@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "27a90123d57e943ad333ef4e8992507a9e0f5f3d10bb0ee343d3a7f683e94b00"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: 10 Muslim-Friendly Restaurants Worth Trying (Part 8)

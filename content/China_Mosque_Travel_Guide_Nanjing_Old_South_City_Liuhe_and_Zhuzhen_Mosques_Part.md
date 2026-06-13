@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4a9b4a26064fe8bcb2e4200da62e7ca1f56267d9a8f40b8e9caa5bb952ed76c0"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Nanjing: Old South City, Liuhe and Zhuzhen Mosques (Part 2)

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "5787b4ba815ec5f08222a810f2dc94eac1e7085a44d00555db2d65e92b34e3c7"
+layout: "article"
 ---
 
 # China Mosque Travel Guide 2018: 101 Historic Mosques and Muslim Heritage (Part 1)

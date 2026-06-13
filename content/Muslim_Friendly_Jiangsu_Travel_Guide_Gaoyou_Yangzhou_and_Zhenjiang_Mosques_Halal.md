@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7d04de79694331a95c32289e03638890807088185df48195d0820f994bc9bcf0"
+layout: "article"
 ---
 
 # Muslim Friendly Jiangsu Travel Guide: Gaoyou, Yangzhou and Zhenjiang Mosques, Halal Food and Canal Towns (Part 1)

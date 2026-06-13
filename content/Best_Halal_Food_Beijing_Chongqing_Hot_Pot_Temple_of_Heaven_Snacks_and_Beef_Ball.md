@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "91a6fb74b1e26c36921610eef6054bfb82a573924b8ff71918d3c1ebb44efb62"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Chongqing Hot Pot, Temple of Heaven Snacks and Beef Ball Noodles

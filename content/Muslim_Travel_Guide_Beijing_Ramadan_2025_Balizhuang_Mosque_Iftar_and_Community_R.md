@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "12b16b32aa8769c710f4f5bd23bef9d416e0f3f3d81dd4ebbc5985c7515507b2"
+layout: "article"
 ---
 
 # Muslim Travel Guide Beijing Ramadan 2025: Balizhuang Mosque, Iftar and Community Review

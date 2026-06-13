@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "39b278ecf48dfdbbf061af8d5b2879913b3361ae52835ac34d08302458aa959c"
+layout: "article"
 ---
 
 # Muslim History Guide Delhi: Mughal Capital, Old Mosques and Islamic Heritage

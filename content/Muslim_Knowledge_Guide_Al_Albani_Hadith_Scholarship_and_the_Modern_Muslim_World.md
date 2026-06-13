@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "ade1944c21296e62caf70538336ca17ff9e07386dfff389ddbac59da3439f5e7"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide: Al-Albani, Hadith Scholarship and the Modern Muslim World

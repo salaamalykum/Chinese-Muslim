@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "f141b59ae48413bd3d05be0400106a075aafd5015ce1efb8361aada2c8bf55f9"
+layout: "article"
 ---
 
 # Muslim Friendly Guilin: Bai Chongxi Hometown, Historic Mosques and Guangxi Halal Travel

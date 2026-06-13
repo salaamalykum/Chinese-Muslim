@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "978463a0941180298c2948cf63bad2d3a37a53896389cbf2773d615a4838f265"
+layout: "article"
 ---
 
 # Muslim Travel Guide Indonesia Yogyakarta: Sultanate Palaces, Mosques and Islamic Heritage

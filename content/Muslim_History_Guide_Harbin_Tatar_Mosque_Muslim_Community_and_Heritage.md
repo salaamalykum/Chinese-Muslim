@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "15c0d6dbbb17b6dbae8699fbc6e265cdd44aa1381e483bf9849da5bc12115172"
+layout: "article"
 ---
 
 # Muslim History Guide Harbin: Tatar Mosque, Muslim Community and Heritage

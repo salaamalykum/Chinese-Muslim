@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c01fdc853630bff9f3900b64d283b36d1bae41a02b0bd165548d41c133fd8608"
+layout: "article"
 ---
 
 # China Muslim Travel Guide: Jiang Jing Halal Journey, Hui Muslim Culture and Islamic Writing

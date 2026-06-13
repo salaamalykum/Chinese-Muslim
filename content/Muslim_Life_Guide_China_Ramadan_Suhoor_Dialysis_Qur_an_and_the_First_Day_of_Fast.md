@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "259c86542970a2731551a936c0462a90632fa31f3e6a18d890f9dff7f0933a34"
+layout: "article"
 ---
 
 # Muslim Life Guide China Ramadan: Suhoor, Dialysis, Qur'an and the First Day of Fasting

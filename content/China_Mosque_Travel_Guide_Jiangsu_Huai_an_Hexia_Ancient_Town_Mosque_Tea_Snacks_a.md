@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "8938956b5d6f42f8b41ec4a88ce96adffc25e408f04dc2133cbd0b423ed5862b"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Hexia Ancient Town, Mosque, Tea Snacks and Zuo Baogui

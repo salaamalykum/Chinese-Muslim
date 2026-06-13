@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7f77eb799250e0f491e246beae3166478690c61bc12d2357d46680a1c1f55568"
+layout: "article"
 ---
 
 # Muslim Travel Guide Singapore: Burhani Mosque, Dawoodi Bohra Shia Community and Prayer Hall

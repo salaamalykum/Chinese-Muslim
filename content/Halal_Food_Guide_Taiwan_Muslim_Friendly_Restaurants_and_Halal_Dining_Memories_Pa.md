@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "324786925e3c69a59383a21404a94e7229be2870abd415fe05a86b950e6614bc"
+layout: "article"
 ---
 
 # Halal Food Guide Taiwan: Muslim-Friendly Restaurants and Halal Dining Memories (Part 2)

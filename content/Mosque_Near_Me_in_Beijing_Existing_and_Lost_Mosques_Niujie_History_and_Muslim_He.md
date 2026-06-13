@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "0d5267a77bc07d2d23817a02291d8bb9628500de29607b75e497670d377d50a8"
+layout: "article"
 ---
 
 # Mosque Near Me in Beijing: Existing and Lost Mosques, Niujie History and Muslim Heritage

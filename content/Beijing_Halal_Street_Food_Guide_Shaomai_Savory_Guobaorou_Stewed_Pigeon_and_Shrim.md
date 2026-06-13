@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1a6cecea33c916e9d9283e5866ab5834bb2b3f7bc3b43ae0765bfa772c1ffa1a"
+layout: "article"
 ---
 
 # Beijing Halal Street Food Guide: Shaomai, Savory Guobaorou, Stewed Pigeon and Shrimp Hotpot

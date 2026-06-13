@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "a9018b6c5500fd9f86ff0f695d92e7ac1d90373981f1f23db455d46e8b2076e5"
+layout: "article"
 ---
 
 # Halal Food Guide Dali: Weishan Mosques, Hui Muslim Villages and Copper Pot Beef

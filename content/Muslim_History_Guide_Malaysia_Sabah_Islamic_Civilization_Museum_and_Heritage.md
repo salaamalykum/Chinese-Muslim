@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b6cde3488a2a141728191c805dc1379b53ce4cea2178724b7d1f2561d917d8c3"
+layout: "article"
 ---
 
 # Muslim History Guide Malaysia Sabah: Islamic Civilization Museum and Heritage

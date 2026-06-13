@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "18465d35e732bacee0dea588afb6ae2754dd9d66534ec62fc53fcdb6a636e330"
+layout: "article"
 ---
 
 # Best Halal Food Tianjin: Pizza, Charcoal BBQ, Western Dining, Haishiwan Seafood and Muslim Snacks

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "26044b76ca7bb4cc79e0cc771f2bb3232105ae7921aa65d3d8b68faaccb7a35b"
+layout: "article"
 ---
 
 # Best Halal Street Food Beijing: Subuha Electric Skewers, Roujiamo, Zhaotong BBQ and Hotan Barbecue

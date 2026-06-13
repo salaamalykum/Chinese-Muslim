@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "b4aaa960cda83e95df1aa88329b4efae740daf5c3984010fdbfb72375c669bc7"
+layout: "article"
 ---
 
 # Muslim Travel Guide Hong Kong: Kowloon Mosque, Halal Airport Food and Prayer Rooms

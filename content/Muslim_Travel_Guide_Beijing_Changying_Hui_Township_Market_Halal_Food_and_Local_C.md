@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "1712636a0507cbf6375aea384c87c5d8c021184d575d215a61b03a0a9ee62e2d"
+layout: "article"
 ---
 
 # Muslim Travel Guide Beijing Changying: Hui Township Market, Halal Food and Local Community

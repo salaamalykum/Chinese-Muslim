@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c1aadd2e0d2c4a8935f798a7b94110ee48a43c307367502de3d9e1fa4c47f57b"
+layout: "article"
 ---
 
 # Best Halal Restaurant Beijing 2020: Muslim Food Survivors and Local Hui Dining

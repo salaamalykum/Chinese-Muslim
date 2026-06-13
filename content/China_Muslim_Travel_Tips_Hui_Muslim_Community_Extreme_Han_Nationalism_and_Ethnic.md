@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "d1999cd4ac692290ffdfd2c36b8e61c7af9525fcc2223f68374ce97245a017fb"
+layout: "article"
 ---
 
 # China Muslim Travel Tips: Hui Muslim Community, Extreme Han Nationalism and Ethnic Unity

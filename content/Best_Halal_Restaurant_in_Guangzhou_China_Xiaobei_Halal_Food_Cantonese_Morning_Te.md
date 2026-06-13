@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "c5a9da5b2a4997e3aa90a249264ddc27d314c39acd8d0e9e08c9e5e9f4923620"
+layout: "article"
 ---
 
 # Best Halal Restaurant in Guangzhou China: Xiaobei Halal Food, Cantonese Morning Tea and Middle Eastern Cuisine

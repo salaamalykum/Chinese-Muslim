@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "02b944ec0e36ba0fc16985b762699a053b2d30eb145b2647d94395fa64038352"
+layout: "article"
 ---
 
 # Best Halal Food Qingdao 2025: Seafood Hot Pot, Ma Family Restaurants, Pakistani Food and Beach Travel

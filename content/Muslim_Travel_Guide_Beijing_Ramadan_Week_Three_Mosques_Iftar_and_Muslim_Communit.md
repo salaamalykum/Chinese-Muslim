@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "5b6bbe18fc402e4131e484803cd1daefd55a4ab341136b4d8b8c1fdbe4c2adf1"
+layout: "article"
 ---
 
 # Muslim Travel Guide Beijing Ramadan: Week Three Mosques, Iftar and Muslim Community

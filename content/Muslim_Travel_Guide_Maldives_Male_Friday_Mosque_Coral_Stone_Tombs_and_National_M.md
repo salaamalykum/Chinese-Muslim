@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "4632abc034e1d502b8c9396bef18a084ec700b6ab1043ea12d4977c42606986a"
+layout: "article"
 ---
 
 # Muslim Travel Guide Maldives Male: Friday Mosque, Coral Stone Tombs and National Museum

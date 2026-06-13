@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "15df18d663d49c9461827fe1ce0eac8570b5cee375a9ba8bb12fb57e714a091f"
+layout: "article"
 ---
 
 # Best Halal Food Beijing: Authentic Turkish Restaurant, Halal Hot Pot and Mongolian Cuisine

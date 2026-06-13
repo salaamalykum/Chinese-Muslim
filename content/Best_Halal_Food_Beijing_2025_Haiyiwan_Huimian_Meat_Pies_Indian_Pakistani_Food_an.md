@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "6b93901afcfb4a0e7d61007020fb7e18b30ec3c61545aaf1f7441b33cfb4ef06"
+layout: "article"
 ---
 
 # Best Halal Food Beijing 2025: Haiyiwan Huimian, Meat Pies, Indian-Pakistani Food and Changying Roujiamo

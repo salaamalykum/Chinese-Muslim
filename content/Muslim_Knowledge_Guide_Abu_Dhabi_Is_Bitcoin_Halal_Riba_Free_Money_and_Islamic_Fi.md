@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "215bde1d28c19947ce5205070be39315930d15746e57c8347484e8e133554faa"
+layout: "article"
 ---
 
 # Muslim Knowledge Guide Abu Dhabi: Is Bitcoin Halal, Riba-Free Money and Islamic Finance Debate

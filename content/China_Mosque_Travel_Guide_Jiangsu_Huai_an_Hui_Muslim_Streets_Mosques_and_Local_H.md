@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e9c3352009d3737a7af57e27ebfe36820839f316ab700647d83cf5f41af8070a"
+layout: "article"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Hui Muslim Streets, Mosques and Local History

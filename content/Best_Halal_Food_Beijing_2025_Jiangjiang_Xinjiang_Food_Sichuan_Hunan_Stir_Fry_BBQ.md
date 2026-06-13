@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e56a6c454fac18856b45f17295681ad1eb3c9fcff7191fd971ca513f5b35b5b5"
+layout: "article"
 ---
 
 # Best Halal Food Beijing 2025: Jiangjiang Xinjiang Food, Sichuan-Hunan Stir-Fry, BBQ and Muslim Snacks

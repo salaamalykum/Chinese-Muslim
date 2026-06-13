@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "7765075471d1f933b4606eb3c09e5f1c7a0452ca6988c2a20231b9785f80e02e"
+layout: "article"
 ---
 
 # Muslim Travel Guide Iran Tehran: Vali-e-Asr Mosque, Hidden Modern Mosque Architecture and City Visit

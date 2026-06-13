@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e513afc6667acaed569075fbf8726a725abf10ec3af6fbdf05900a9c3c208ab3"
+layout: "article"
 ---
 
 # Muslim Travel Guide Malaysia: Redang Island, Terengganu Crystal Mosque and Halal Resort Food

@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "e9e1267c5b5eeb062b4aa066460f80a5992c10850e0d092c1ea3d0134f8b0a38"
+layout: "article"
 ---
 
 # Best Halal Food Nanjing 2025: Maxingxing, Qifangge, Duck Shops, Potstickers and Islamic Heritage

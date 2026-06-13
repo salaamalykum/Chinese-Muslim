@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "2d55e3057e34675261176e3f689ea0f0581f7df1fcda6ed7aa78398ff4d3a039"
+layout: "article"
 ---
 
 # Hidden Halal Restaurants Beijing: Chongqing Chicken Pot, Hotan Xinjiang Food and Muslim-Friendly Dining

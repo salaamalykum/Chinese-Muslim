@@ -8,6 +8,7 @@ lastmod: "2026-06-13T14:45:34Z"
 language: "zh-CN"
 topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
 content_hash: "841451f96f03283ebeaa265b251363d823c3449bdfe3e9335e61763f21b169fe"
+layout: "article"
 ---
 
 # Best Halal Food Kuala Lumpur: Nyonya Cuisine, Muslim Hot Pot, Petaling Street Malatang and Fish Head Noodles
