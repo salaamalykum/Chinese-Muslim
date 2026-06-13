@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Authentic Hui Muslim Fried Chicken, Hulatang and Miyun Reservoir Fish"
-source: "https://salaamalykum.com/article/2878"
-canonical_url: "https://salaamalykum.com/article/2878"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:50.801843Z"
-lastmod: "2026-06-12T09:43:50.801843Z"
-lang: "zh-CN"
-tags: []
-content_hash: "71cb456844a0b0c420e0260fb3e02d261834002d1856583672c33459c098554c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "137c6b54902edbf4ce1c648152e73bc8b8c1a023aaf5ee3e3b76531f02e6af9c"
 ---
 
 # Best Halal Food Beijing: Authentic Hui Muslim Fried Chicken, Hulatang and Miyun Reservoir Fish

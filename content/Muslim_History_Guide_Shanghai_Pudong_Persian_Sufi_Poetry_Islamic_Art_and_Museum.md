@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Shanghai Pudong: Persian Sufi Poetry, Islamic Art and Museum Visit"
-source: "https://salaamalykum.com/article/3023"
-canonical_url: "https://salaamalykum.com/article/3023"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:51.762411Z"
-lastmod: "2026-06-12T09:44:51.762411Z"
-lang: "zh-CN"
-tags: []
-content_hash: "227dd12d58bc71b2c43038d187c0e3ff7d9d82b068c083357c726051c567000e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0ced666fdaca0b7dd04e2b760f85671e2976f25abd4a18f516b67e1d7fb3fc5f"
 ---
 
 # Muslim History Guide Shanghai Pudong: Persian Sufi Poetry, Islamic Art and Museum Visit

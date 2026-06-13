@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Xishuangbanna Hui-Dai Muslim Villages, Mosques and Halal Food"
-source: "https://salaamalykum.com/article/2768"
-canonical_url: "https://salaamalykum.com/article/2768"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:46.243765Z"
-lastmod: "2026-06-12T09:44:46.243765Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1ee06ae237de276ab452d18a400b72a1202a4dce294b37a0f858472df303fcb9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "85dd11f7945b639a546d1b0ad924ed362a560a028eeb36561b9004d62835c40e"
 ---
 
 # Muslim Travel Guide China 2026: Xishuangbanna Hui-Dai Muslim Villages, Mosques and Halal Food

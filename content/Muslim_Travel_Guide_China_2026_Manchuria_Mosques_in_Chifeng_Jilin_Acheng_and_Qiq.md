@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Manchuria Mosques in Chifeng, Jilin, Acheng and Qiqihar"
-source: "https://salaamalykum.com/article/3039"
-canonical_url: "https://salaamalykum.com/article/3039"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:44.970618Z"
-lastmod: "2026-06-12T09:44:44.970618Z"
-lang: "zh-CN"
-tags: []
-content_hash: "33c2e0d4fc9af2510b96ba59dca8fc57a26b1d835d13dc4f45a4998ba3adf5b9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "fa220d8ad07cdfb2053e1f2e0faee96223bb9ad63128bae26dc3bb696fa0f131"
 ---
 
 # Muslim Travel Guide China 2026: Manchuria Mosques in Chifeng, Jilin, Acheng and Qiqihar

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Brunei: Visa on Arrival, Sultanate History, Mosques and Halal Food"
-source: "https://salaamalykum.com/article/2882"
-canonical_url: "https://salaamalykum.com/article/2882"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:02.361753Z"
-lastmod: "2026-06-12T09:44:02.361753Z"
-lang: "zh-CN"
-tags: []
-content_hash: "28118bc487e5b1b468299831e03b82e4bdfa56fb8d973d3519792b1714b427a8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b1815cc606ebe8949140019b2e4123570ba764042fc8ab4d2fd61704b394c75d"
 ---
 
 # Muslim Travel Guide Brunei: Visa on Arrival, Sultanate History, Mosques and Halal Food

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Vietnam Ho Chi Minh City: Al-Rahim Mosque, Ben Thanh Halal Food and Cham Community"
-source: "https://salaamalykum.com/article/2946"
-canonical_url: "https://salaamalykum.com/article/2946"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:31.644237Z"
-lastmod: "2026-06-12T09:44:31.644237Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1e84f6fec4986f1a3b6eeee133d9b88c9a1f8c8edd5c69c3cf51da1ffcd30961"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0593c537d913f9ce0bb3ae98369c8989c203b9a9b7fdfd47cd5cb8015c0f72b8"
 ---
 
 # Muslim Travel Guide Vietnam Ho Chi Minh City: Al-Rahim Mosque, Ben Thanh Halal Food and Cham Community

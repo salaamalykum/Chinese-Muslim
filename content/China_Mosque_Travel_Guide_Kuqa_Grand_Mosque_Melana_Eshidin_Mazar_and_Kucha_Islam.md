@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Kuqa Grand Mosque, Melana Eshidin Mazar and Kucha Islamic History"
-source: "https://salaamalykum.com/article/2820"
-canonical_url: "https://salaamalykum.com/article/2820"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:22.737618Z"
-lastmod: "2026-06-12T09:44:22.737618Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d37d5d291b7b131f8ce6a5180717c069e5d9dccd05b6958221e5f54341f3b454"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "628d65779c7a3ef6e60b0302904df279c8b6e1f612e9b154bf5d4fb8cab1e2a7"
 ---
 
 # China Mosque Travel Guide: Kuqa Grand Mosque, Melana Eshidin Mazar and Kucha Islamic History

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Sichuan: Mianyang and Deyang Hui Muslim Food, Fucheng Mosque and Xiaoquan Mosque"
-source: "https://salaamalykum.com/article/2851"
-canonical_url: "https://salaamalykum.com/article/2851"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:23.327629Z"
-lastmod: "2026-06-12T09:44:23.327629Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e9ae088a8d1a47808f5f57b32cb0940f4f646da9fadf3c6babfc7954269030df"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f8c005e82639329fc2c9fa1e70f7769e02e5336c250a9323de994e1c0f6128a6"
 ---
 
 # Halal Food Guide Sichuan: Mianyang and Deyang Hui Muslim Food, Fucheng Mosque and Xiaoquan Mosque

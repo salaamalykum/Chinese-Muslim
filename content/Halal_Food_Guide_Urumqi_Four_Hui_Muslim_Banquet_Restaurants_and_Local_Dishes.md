@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Urumqi: Four Hui Muslim Banquet Restaurants and Local Dishes"
-source: "https://salaamalykum.com/article/3003"
-canonical_url: "https://salaamalykum.com/article/3003"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:33.254658Z"
-lastmod: "2026-06-12T09:44:33.254658Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ff3959476bf021196c36e1da6bcd40cf89ddd39200c58810a7b77ee0623f7d3f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "562da114fdb1e874418a17b332f0c1ac864ea5fb7a32af0f58f5dd73519d9008"
 ---
 
 # Halal Food Guide Urumqi: Four Hui Muslim Banquet Restaurants and Local Dishes

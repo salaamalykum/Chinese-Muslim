@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Northern Xinjiang Sayram Lake, Yining Shaanxi Mosque and Halal Food"
-source: "https://salaamalykum.com/article/2822"
-canonical_url: "https://salaamalykum.com/article/2822"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:29.945218Z"
-lastmod: "2026-06-12T09:44:29.945218Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3f0ed2c01b5baceef557821b0e31d484aaffb435a5db1e361e118fc5ef04ab08"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "63a2255fd3f9ede52311b2c46ed778c898f9933d33df57ab087be2edb5adbf95"
 ---
 
 # Muslim Travel Guide China: Northern Xinjiang Sayram Lake, Yining Shaanxi Mosque and Halal Food

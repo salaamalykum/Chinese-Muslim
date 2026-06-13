@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Authentic Hui Muslim Food in Beijing: Speed Pizza, Fujian Beef and Turkish Qubbe"
-source: "https://salaamalykum.com/article/2793"
-canonical_url: "https://salaamalykum.com/article/2793"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:10.905436Z"
-lastmod: "2026-06-12T09:44:10.905436Z"
-lang: "zh-CN"
-tags: []
-content_hash: "0f6bd18a8a70123e73cb24693c707aa17a095044237ca25a6a6b7a4281057317"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ff20f68d5ac88c1db05280758e011f48f4da8d8fef6eed7a3944de3deb492d60"
 ---
 
 # Authentic Hui Muslim Food in Beijing: Speed Pizza, Fujian Beef and Turkish Qubbe

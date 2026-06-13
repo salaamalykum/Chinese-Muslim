@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Singapore: Indian Muslim Mosques and Heritage (Part 1)"
-source: "https://salaamalykum.com/article/2987"
-canonical_url: "https://salaamalykum.com/article/2987"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:38.838265Z"
-lastmod: "2026-06-12T09:44:38.838265Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f7a7f219ac48aa6b110a9a04dc7fe101ff84e1b87666522b740babc6f3f57f48"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "df5fea97ba7e04499c10636ef7ff60d9c753ef1c64cfda2844f81eeea8e7e4c0"
 ---
 
 # Muslim Travel Guide Singapore: Indian Muslim Mosques and Heritage (Part 1)

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Urumqi: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals During Sha'ban"
-source: "https://salaamalykum.com/article/3024"
-canonical_url: "https://salaamalykum.com/article/3024"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:48.993645Z"
-lastmod: "2026-06-12T09:44:48.993645Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e5d1f84d2f715ae6a2ae0c03194620fe83f11bc5fe968555a6eb68e85e2f2e7b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c86afdc710d78e388db30369ef54761b0f13d500bac8f2209d078272ef4c5e35"
 ---
 
 # Best Halal Food Urumqi: Hui Muslim Street, Beiliang Mosque and Xinjiang Meals During Sha'ban

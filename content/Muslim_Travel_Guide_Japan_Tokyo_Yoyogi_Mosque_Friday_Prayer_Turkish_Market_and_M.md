@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Japan Tokyo: Yoyogi Mosque, Friday Prayer, Turkish Market and Muslim Community"
-source: "https://salaamalykum.com/article/2940"
-canonical_url: "https://salaamalykum.com/article/2940"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:57.475470Z"
-lastmod: "2026-06-12T09:43:57.475470Z"
-lang: "zh-CN"
-tags: []
-content_hash: "dc58787e89f9acb6935b3908ea5236d18cb4db6dabc8dfbbfcb723350f78f81d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f65fe6fe613f3ef919327706195e93c38ac172d5ec774bec541bf9747c34f6dd"
 ---
 
 # Muslim Travel Guide Japan Tokyo: Yoyogi Mosque, Friday Prayer, Turkish Market and Muslim Community

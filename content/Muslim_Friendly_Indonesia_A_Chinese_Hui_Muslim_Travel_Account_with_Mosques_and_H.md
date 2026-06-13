@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food"
-source: "https://salaamalykum.com/article/3044"
-canonical_url: "https://salaamalykum.com/article/3044"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:48.123346Z"
-lastmod: "2026-06-12T09:44:48.123346Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fa723cafb65b82ed1a9f7bd25d4d35c8322277f13fd30d932700ede651340e63"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "113789d75c17f6885ea4971e6bfbcc0d6fbce2aebc0d83aef261aa5d54cfe2e5"
 ---
 
 # Muslim Friendly Indonesia: A Chinese Hui Muslim Travel Account with Mosques and Halal Food

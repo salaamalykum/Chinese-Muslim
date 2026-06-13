@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Muslim Travel Tips Ramadan: Hadith, Eid Moon Sighting and Local Imam Unity"
-source: "https://salaamalykum.com/article/2926"
-canonical_url: "https://salaamalykum.com/article/2926"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:09.291964Z"
-lastmod: "2026-06-12T09:44:09.291964Z"
-lang: "zh-CN"
-tags: []
-content_hash: "65a82f279d1cb5fa54abcf40586be63aead29880f768f8ab2698c014c29b5658"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "592263aff4f68a3015a4e3738c02da158e1772ea7683a9ec1962e651198e757c"
 ---
 
 # China Muslim Travel Tips Ramadan: Hadith, Eid Moon Sighting and Local Imam Unity

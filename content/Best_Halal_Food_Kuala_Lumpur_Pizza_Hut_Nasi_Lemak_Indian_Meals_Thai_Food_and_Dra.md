@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Pizza Hut, Nasi Lemak, Indian Meals, Thai Food and Dragon-i"
-source: "https://salaamalykum.com/article/2884"
-canonical_url: "https://salaamalykum.com/article/2884"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:53.667051Z"
-lastmod: "2026-06-12T09:44:53.667051Z"
-lang: "zh-CN"
-tags: []
-content_hash: "04d71243cec871e669430fc35c0f05239e3648b307371d72d5be8b2ce43caeb4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "10fdb1213adeff467b0e4e9fdf9b7afcff01f37957b0cc33788473977c520df2"
 ---
 
 # Best Halal Food Kuala Lumpur: Pizza Hut, Nasi Lemak, Indian Meals, Thai Food and Dragon-i

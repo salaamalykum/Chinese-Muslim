@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant Beijing: Dashi, Huawei Meat Pie, Xinjiang Rice Noodles and Mosque-Area Hot Pot"
-source: "https://salaamalykum.com/article/3037"
-canonical_url: "https://salaamalykum.com/article/3037"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:05.517268Z"
-lastmod: "2026-06-12T09:44:05.517268Z"
-lang: "zh-CN"
-tags: []
-content_hash: "449814042a3972a8caaf6912351b48059e296648c0cce24fdd969e103a5023e5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4d84f7c3870767c7d1ab7625ebb526c291162eb8461631ac9cc2b182b33c4a04"
 ---
 
 # Best Halal Restaurant Beijing: Dashi, Huawei Meat Pie, Xinjiang Rice Noodles and Mosque-Area Hot Pot

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Beijing Huairou: Mountain Courtyard Mosque, Hui Village and Halal Food"
-source: "https://salaamalykum.com/article/2966"
-canonical_url: "https://salaamalykum.com/article/2966"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:33.929410Z"
-lastmod: "2026-06-12T09:44:33.929410Z"
-lang: "zh-CN"
-tags: []
-content_hash: "cad478bad77c8a13aa6ed67cd1a30da28f7064738c605afedf3dcdfa7d20b646"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "89e65fc339dede5e4b7225bcd59ca4ed5260551d69a4af216edf5d34eefd1c82"
 ---
 
 # Muslim Travel Guide Beijing Huairou: Mountain Courtyard Mosque, Hui Village and Halal Food

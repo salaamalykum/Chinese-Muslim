@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Malacca: Nyonya Food, Chinese Mosque and Malaysia Islamic Heritage"
-source: "https://salaamalykum.com/article/2855"
-canonical_url: "https://salaamalykum.com/article/2855"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:16.344800Z"
-lastmod: "2026-06-12T09:44:16.344800Z"
-lang: "zh-CN"
-tags: []
-content_hash: "8a5f906d34fa56d7ffe94a306684d3436aa2b1d2435979483fc20f55602c00df"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4aff6b88b04dacf3920ece6b9412fd7d94d4cc708e5f5e42ff60e3954141ab87"
 ---
 
 # Muslim Travel Guide Malacca: Nyonya Food, Chinese Mosque and Malaysia Islamic Heritage

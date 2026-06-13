@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Arabic Grill, Laksa, Hakka Cuisine and Halal Chinese Food"
-source: "https://salaamalykum.com/article/2889"
-canonical_url: "https://salaamalykum.com/article/2889"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:01.411415Z"
-lastmod: "2026-06-12T09:45:01.411415Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9cf7e1db58bae018580a9d9dab7e71d71a678a141e626fb6692b441d92fcedc8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6ae03ed2590287fd67b0b574c1ffa9d386c46f6a6f6808677ef105a3b6bc545d"
 ---
 
 # Best Halal Food Kuala Lumpur: Arabic Grill, Laksa, Hakka Cuisine and Halal Chinese Food

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Local Halal Food in China: Nanjing Duck, Muslim Snacks & Historic Hui Restaurants"
-source: "https://salaamalykum.com/article/3033"
-canonical_url: "https://salaamalykum.com/article/3033"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:40.567909Z"
-lastmod: "2026-06-12T09:44:40.567909Z"
-lang: "zh-CN"
-tags: []
-content_hash: "69eb4d8a937cedb1db50f061d26004c2588c1d972e340315da3aed6eec3bdf85"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "180200c48829223ae078369a7b90cebcf513497e9317d8a761941689cb6cbc53"
 ---
 
 # Local Halal Food in China: Nanjing Duck, Muslim Snacks & Historic Hui Restaurants

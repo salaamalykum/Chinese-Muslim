@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Bangkok: Persian Shia Mosques and Muharram Traditions"
-source: "https://salaamalykum.com/article/3016"
-canonical_url: "https://salaamalykum.com/article/3016"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:52.656403Z"
-lastmod: "2026-06-12T09:44:52.656403Z"
-lang: "zh-CN"
-tags: []
-content_hash: "726c53c9693b85024f7fa2ff5797a4ead48c2fd114f688ca9ec3cd101d257715"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "24143c661d95d22541b90a59cb4f725084e05d7778b16ae8324da7a6e54c5552"
 ---
 
 # Muslim Travel Guide Bangkok: Persian Shia Mosques and Muharram Traditions

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Mosque Near Me in China: Beautiful Mosques from Beijing to Sanya and Hong Kong"
-source: "https://salaamalykum.com/article/2760"
-canonical_url: "https://salaamalykum.com/article/2760"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:23.636166Z"
-lastmod: "2026-06-12T09:44:23.636166Z"
-lang: "zh-CN"
-tags: []
-content_hash: "41fc8caa11cefd3db37e75e9d748387d9a22e74096db31247edca02bfcde1b92"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d5aad04c66e2929114d56db35f6ed240b7ce049dca84c63d219dd3752f32e8b4"
 ---
 
 # Mosque Near Me in China: Beautiful Mosques from Beijing to Sanya and Hong Kong

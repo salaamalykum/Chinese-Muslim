@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Quanzhou: Maritime Museum Islamic Stone Inscriptions (Part 1)"
-source: "https://salaamalykum.com/article/2994"
-canonical_url: "https://salaamalykum.com/article/2994"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:26.501796Z"
-lastmod: "2026-06-12T09:44:26.501796Z"
-lang: "zh-CN"
-tags: []
-content_hash: "59a85786df2bcc587e4b90a65bce6badb435a50fee01b017c188fcd76ef03b68"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "bde7da179b0ce6e2f2aaadbaf1c024c39169281267939a16010af7be10ea0d64"
 ---
 
 # Muslim History Guide Quanzhou: Maritime Museum Islamic Stone Inscriptions (Part 1)

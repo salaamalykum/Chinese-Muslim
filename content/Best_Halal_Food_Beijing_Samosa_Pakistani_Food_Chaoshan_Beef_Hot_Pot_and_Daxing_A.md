@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Samosa Pakistani Food, Chaoshan Beef Hot Pot and Daxing Airport Xinjiang Noodles"
-source: "https://salaamalykum.com/article/3069"
-canonical_url: "https://salaamalykum.com/article/3069"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:40.370367Z"
-lastmod: "2026-06-12T09:44:40.370367Z"
-lang: "zh-CN"
-tags: []
-content_hash: "18129b0878a44047de82099f4ec0d98114a89db0aa259ce0ce616b58f252aa35"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f2ad61d5557dffca885eabe4799304ba9ef39c08d5a52ecc792952efe81cfd5d"
 ---
 
 # Best Halal Food Beijing: Samosa Pakistani Food, Chaoshan Beef Hot Pot and Daxing Airport Xinjiang Noodles

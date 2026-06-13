@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Changde Taohuayuan, Uyghur Heritage and Hunan Halal Travel"
-source: "https://salaamalykum.com/article/2765"
-canonical_url: "https://salaamalykum.com/article/2765"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:46.728334Z"
-lastmod: "2026-06-12T09:44:46.728334Z"
-lang: "zh-CN"
-tags: []
-content_hash: "12beed0fad85261e87cf2ef6f1ef7aa38cc47f7bfeeefd12ee28a09c0ba7b73a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "406bfd0794c9351243836b4b75713d7219b27a19308978024e7579395ddddf32"
 ---
 
 # Muslim Travel Guide China 2026: Changde Taohuayuan, Uyghur Heritage and Hunan Halal Travel

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Hong Kong: Kowloon Mosque, Halal Airport Food and Prayer Rooms"
-source: "https://salaamalykum.com/article/2812"
-canonical_url: "https://salaamalykum.com/article/2812"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:52.021646Z"
-lastmod: "2026-06-12T09:43:52.021646Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7add1770f733c251dbc271a56363fa2a46cb1ffd63038e3515da2c00ebdca8fa"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b4aaa960cda83e95df1aa88329b4efae740daf5c3984010fdbfb72375c669bc7"
 ---
 
 # Muslim Travel Guide Hong Kong: Kowloon Mosque, Halal Airport Food and Prayer Rooms

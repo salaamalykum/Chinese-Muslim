@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Yunnan: Jianshui Ancient Mosque, Dazhuang Mosques and Shadian Road Trip"
-source: "https://salaamalykum.com/article/2848"
-canonical_url: "https://salaamalykum.com/article/2848"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:13.833820Z"
-lastmod: "2026-06-12T09:44:13.833820Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7c11a8844137a202db23512ce588477c7caed06b1cf4e42b242c00359837d6d2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d05f05a069592c0622b11ae7805306e4bd330dfa1e3ac82ff42265711aa33786"
 ---
 
 # China Mosque Travel Guide Yunnan: Jianshui Ancient Mosque, Dazhuang Mosques and Shadian Road Trip

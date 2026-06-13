@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Maldives Male: Friday Mosque, Coral Stone Tombs and National Museum"
-source: "https://salaamalykum.com/article/2953"
-canonical_url: "https://salaamalykum.com/article/2953"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:51.589700Z"
-lastmod: "2026-06-12T09:43:51.589700Z"
-lang: "zh-CN"
-tags: []
-content_hash: "db49b45b0b5435f0277a80ce5ca21638c9da18ee38cad3d381c5b835ff301e6c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4632abc034e1d502b8c9396bef18a084ec700b6ab1043ea12d4977c42606986a"
 ---
 
 # Muslim Travel Guide Maldives Male: Friday Mosque, Coral Stone Tombs and National Museum

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Hidden Halal Restaurants Beijing: Zhi Zi Barbecue, Xinjiang Food, Thai Hotpot and Northeast Dishes"
-source: "https://salaamalykum.com/article/2805"
-canonical_url: "https://salaamalykum.com/article/2805"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:36.941581Z"
-lastmod: "2026-06-12T09:44:36.941581Z"
-lang: "zh-CN"
-tags: []
-content_hash: "39a1e0fb2ed143efdb8169b541fb0077ea2dccbe957d965482d6a7744ed12976"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c886e1a7774fede08d8a714d47b39b893537da26f933c1e89f056d47710f56d0"
 ---
 
 # Hidden Halal Restaurants Beijing: Zhi Zi Barbecue, Xinjiang Food, Thai Hotpot and Northeast Dishes

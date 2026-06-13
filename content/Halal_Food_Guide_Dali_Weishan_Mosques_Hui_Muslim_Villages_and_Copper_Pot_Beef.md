@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Dali: Weishan Mosques, Hui Muslim Villages and Copper Pot Beef"
-source: "https://salaamalykum.com/article/2839"
-canonical_url: "https://salaamalykum.com/article/2839"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:12.988877Z"
-lastmod: "2026-06-12T09:44:12.988877Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a05b692a7c9bcef7ca86f69e2bb5cb48e8387ca838b81516cd7f40dce892a0a0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a9018b6c5500fd9f86ff0f695d92e7ac1d90373981f1f23db455d46e8b2076e5"
 ---
 
 # Halal Food Guide Dali: Weishan Mosques, Hui Muslim Villages and Copper Pot Beef

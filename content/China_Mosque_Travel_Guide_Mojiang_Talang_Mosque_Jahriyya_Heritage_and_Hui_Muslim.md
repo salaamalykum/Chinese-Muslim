@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Mojiang Talang Mosque, Jahriyya Heritage and Hui Muslim Village"
-source: "https://salaamalykum.com/article/2830"
-canonical_url: "https://salaamalykum.com/article/2830"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:01.470367Z"
-lastmod: "2026-06-12T09:44:01.470367Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5ab66552a10a3ec126673d6ceddcf7ed8e1217477303a5e5825d094d62d54ed2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "38390e5097955a1a570deb093a3b236d34577f98520043284fd143f3956aa7ff"
 ---
 
 # China Mosque Travel Guide: Mojiang Talang Mosque, Jahriyya Heritage and Hui Muslim Village

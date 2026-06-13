@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Halal Meat, People of the Book and Over-Questioning"
-source: "https://salaamalykum.com/article/2900"
-canonical_url: "https://salaamalykum.com/article/2900"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:01.605181Z"
-lastmod: "2026-06-12T09:45:01.605181Z"
-lang: "zh-CN"
-tags: []
-content_hash: "05a89d64807abdf80496e86a45d0f5743be6c1062986d0d1281bb9438008bedc"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "17f15d865c53dd7d0a0e2a68784c5ddb73da345afaded1f73f47cf977479f114"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Halal Meat, People of the Book and Over-Questioning

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Jiangsu Huai'an: Wangjiaying Hui Muslim Town, Mosques and Canal History"
-source: "https://salaamalykum.com/article/3012"
-canonical_url: "https://salaamalykum.com/article/3012"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:35.066702Z"
-lastmod: "2026-06-12T09:44:35.066702Z"
-lang: "zh-CN"
-tags: []
-content_hash: "daacefd5a42ba00a5c700b898f8a0a3c94bbbc28053ee74932bc8dc4de3325b6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d86db318ac5fe29a7181d71bd85d8dcbdb6f197d3d114a50018035a9c883a3b3"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Wangjiaying Hui Muslim Town, Mosques and Canal History

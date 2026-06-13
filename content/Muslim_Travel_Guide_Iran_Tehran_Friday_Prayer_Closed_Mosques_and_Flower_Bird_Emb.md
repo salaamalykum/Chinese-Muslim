@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Iran Tehran: Friday Prayer, Closed Mosques and Flower-Bird Embroidery"
-source: "https://salaamalykum.com/article/2955"
-canonical_url: "https://salaamalykum.com/article/2955"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:01.650472Z"
-lastmod: "2026-06-12T09:44:01.650472Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b5fcdb0602110ff0a6c69340a80f1ec2c89ec90860e230552a6ecce041b33d00"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6fe57b7f2af59a73ba2424508e7add93e228460c64a13f33ebd52a4a13c16f55"
 ---
 
 # Muslim Travel Guide Iran Tehran: Friday Prayer, Closed Mosques and Flower-Bird Embroidery

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Chengdu: Authentic Hui Muslim Sichuan Food, Huangchengba Beef and Mosque Streets"
-source: "https://salaamalykum.com/article/2836"
-canonical_url: "https://salaamalykum.com/article/2836"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:50.396739Z"
-lastmod: "2026-06-12T09:44:50.396739Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3e41faa06c123aef2604c1154d70b80e460d52ab66f3a94791379a2b9799c1ff"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "316e6d3658d1b310427727bef5350efffc4bff41055145f84d6291f777197bb5"
 ---
 
 # Best Halal Food Chengdu: Authentic Hui Muslim Sichuan Food, Huangchengba Beef and Mosque Streets

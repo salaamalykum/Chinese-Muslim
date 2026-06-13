@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Asia: Shia Mosques in India, Thailand, Myanmar and Singapore (Part 1)"
-source: "https://salaamalykum.com/article/3026"
-canonical_url: "https://salaamalykum.com/article/3026"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:55.533907Z"
-lastmod: "2026-06-12T09:43:55.533907Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9a980dba33d762ec5b4b38f40814474e3041249594919e38cc5fbfaa3116d7ec"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6a470a5209b5718126a2a5c3bcf80ab3171b2355e4e9b9a8f4d30f2f0868ce4e"
 ---
 
 # Muslim History Guide Asia: Shia Mosques in India, Thailand, Myanmar and Singapore (Part 1)

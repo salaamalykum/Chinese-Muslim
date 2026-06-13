@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Korea Seoul: Seoul Central Mosque, Friday Prayer, Muslim School and Itaewon Community"
-source: "https://salaamalykum.com/article/2941"
-canonical_url: "https://salaamalykum.com/article/2941"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:31.827779Z"
-lastmod: "2026-06-12T09:44:31.827779Z"
-lang: "zh-CN"
-tags: []
-content_hash: "289d014164a03b458d3f83db539542c7373f67d19cf8ec201ed2c8ef38de973d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "be7c5e6b8337b5219bbb7f712bd51e69db79f124eb37e817223e62badf2dd2f5"
 ---
 
 # Muslim Travel Guide Korea Seoul: Seoul Central Mosque, Friday Prayer, Muslim School and Itaewon Community

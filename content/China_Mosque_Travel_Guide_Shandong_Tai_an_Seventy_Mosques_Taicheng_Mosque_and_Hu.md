@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Shandong: Tai'an Seventy Mosques, Taicheng Mosque and Hui Heritage"
-source: "https://salaamalykum.com/article/2843"
-canonical_url: "https://salaamalykum.com/article/2843"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:49.301400Z"
-lastmod: "2026-06-12T09:44:49.301400Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9a1a55985756fcc90e8d81a5e2cfd67f7b2f0db390b6257f56de1e9414b23ea8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c102b0432aea360ab6965ffc5ada4709e48b1256ca6db5f4df9d8a5dfab9a12f"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Seventy Mosques, Taicheng Mosque and Hui Heritage

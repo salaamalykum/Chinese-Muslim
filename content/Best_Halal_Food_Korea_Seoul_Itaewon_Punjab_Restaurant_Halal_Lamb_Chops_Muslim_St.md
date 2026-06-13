@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Korea Seoul Itaewon: Punjab Restaurant, Halal Lamb Chops, Muslim Street and Seoul Central Mosque"
-source: "https://salaamalykum.com/article/2942"
-canonical_url: "https://salaamalykum.com/article/2942"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:25.031952Z"
-lastmod: "2026-06-12T09:44:25.031952Z"
-lang: "zh-CN"
-tags: []
-content_hash: "de2bb603913c90aae1768d3eb2f0a6d66d7c03fef25d7272d879d74b4a0aea5e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "35fafe825ce099406dc3b465075bc37c03d5edf9a1d2bd7eda52ead546726843"
 ---
 
 # Best Halal Food Korea Seoul Itaewon: Punjab Restaurant, Halal Lamb Chops, Muslim Street and Seoul Central Mosque

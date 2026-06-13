@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Changzhi Shanxi Mosques, Hui Muslim Heritage and Local Halal Food"
-source: "https://salaamalykum.com/article/2804"
-canonical_url: "https://salaamalykum.com/article/2804"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:57.376053Z"
-lastmod: "2026-06-12T09:44:57.376053Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fc8649bc9d2e9c726381d962dd1b581176f442ab79572c024869c407e2f8c0c2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c5d02533c6f268c3af6b28f3584aa5595d9ca13c1c3f79f01a7d63e9d0c7da32"
 ---
 
 # China Mosque Travel Guide: Changzhi Shanxi Mosques, Hui Muslim Heritage and Local Halal Food

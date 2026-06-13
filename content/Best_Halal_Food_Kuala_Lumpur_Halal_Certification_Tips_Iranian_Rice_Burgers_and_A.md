@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Halal Certification Tips, Iranian Rice, Burgers and Ampang Coffee"
-source: "https://salaamalykum.com/article/2927"
-canonical_url: "https://salaamalykum.com/article/2927"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:44.768980Z"
-lastmod: "2026-06-12T09:44:44.768980Z"
-lang: "zh-CN"
-tags: []
-content_hash: "8b9efafb6c941b4121a16e72beef4617e3b7a782a55411bc30f9d14773a0ab1a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "35439e7fa33378b1147710afc8f3855f0d581d007f8427fa0b75bc6292fa1f81"
 ---
 
 # Best Halal Food Kuala Lumpur: Halal Certification Tips, Iranian Rice, Burgers and Ampang Coffee

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Indonesia: Jakarta, Trowulan, Demak Grand Mosque and Java Halal Journey"
-source: "https://salaamalykum.com/article/2906"
-canonical_url: "https://salaamalykum.com/article/2906"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:29.226698Z"
-lastmod: "2026-06-12T09:44:29.226698Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f954be056ed8fb1b2ca1f4207e209bf427b209c4d1d299ca40d5aece9cf330f0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d138dcf376c86be0ac3ecb1769f6f4c60da9385626a022170e61c560191c2ced"
 ---
 
 # Muslim Travel Guide Indonesia: Jakarta, Trowulan, Demak Grand Mosque and Java Halal Journey

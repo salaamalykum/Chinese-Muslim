@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Interest-Free Banking, Islamic Finance and Service Fee Debate"
-source: "https://salaamalykum.com/article/2890"
-canonical_url: "https://salaamalykum.com/article/2890"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:51.239340Z"
-lastmod: "2026-06-12T09:44:51.239340Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4f9e85f815ef6d9bfc2f1023dc54b08ff77f7b78a86c62092472d623125aad4c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "56a9fc8995b0c4a67d158d49ef291e71f89e8d22da7e0af1abc45065822a5317"
 ---
 
 # Muslim Knowledge Guide China: Interest-Free Banking, Islamic Finance and Service Fee Debate

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Hebei Cangzhou: Old Mosques, Hui Villages and Muslim Heritage"
-source: "https://salaamalykum.com/article/2970"
-canonical_url: "https://salaamalykum.com/article/2970"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:04.259891Z"
-lastmod: "2026-06-12T09:44:04.259891Z"
-lang: "zh-CN"
-tags: []
-content_hash: "013b420909857f9b5666d02dee6c7e455c36240732df06309ac16ec17884a1fe"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "eed6df86b5302fb5eb240ee5fe7c290a6e122f01edd60f43e2d01cdec6a8f680"
 ---
 
 # China Mosque Travel Guide Hebei Cangzhou: Old Mosques, Hui Villages and Muslim Heritage

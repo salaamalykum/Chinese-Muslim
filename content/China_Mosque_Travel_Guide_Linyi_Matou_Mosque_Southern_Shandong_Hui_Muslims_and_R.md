@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food"
-source: "https://salaamalykum.com/article/2908"
-canonical_url: "https://salaamalykum.com/article/2908"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:53.464153Z"
-lastmod: "2026-06-12T09:44:53.464153Z"
-lang: "zh-CN"
-tags: []
-content_hash: "8e5af5f2aa8387cc05c6a9459e1d7a6791716332e7314d06e41e12d35fbb6d94"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "defdec867f2048e70ac882c9b27642193b9d51dfffa36de45ee8298b2858c953"
 ---
 
 # China Mosque Travel Guide Linyi: Matou Mosque, Southern Shandong Hui Muslims and Ramadan Food

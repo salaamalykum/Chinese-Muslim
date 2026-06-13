@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Lamb Offal Flatbread, Fresh Fish Hot Pot, Xinjiang Grill and Lahore Restaurant"
-source: "https://salaamalykum.com/article/2897"
-canonical_url: "https://salaamalykum.com/article/2897"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:46.526526Z"
-lastmod: "2026-06-12T09:44:46.526526Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c1efc812adfe9343bfdba8982e87c043a295cd6e6d8bc7236b484b64bf0acfcd"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1c4d3bb07f0cc974474e97d2d4460310309ec9c7aa11adf18ec1b2640d36b890"
 ---
 
 # Best Halal Food Beijing: Lamb Offal Flatbread, Fresh Fish Hot Pot, Xinjiang Grill and Lahore Restaurant

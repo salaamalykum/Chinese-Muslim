@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide: Al-Albani, Hadith Scholarship and the Modern Muslim World"
-source: "https://salaamalykum.com/article/3045"
-canonical_url: "https://salaamalykum.com/article/3045"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:15.752822Z"
-lastmod: "2026-06-12T09:44:15.752822Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ec3a565b5b2e20e98a360cc5b2c9a8298703d64631ea9b62178475d25b7e0821"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ade1944c21296e62caf70538336ca17ff9e07386dfff389ddbac59da3439f5e7"
 ---
 
 # Muslim Knowledge Guide: Al-Albani, Hadith Scholarship and the Modern Muslim World

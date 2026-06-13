@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Dali: Authentic Yunnan Hui Muslim Food, Xizhou Mosque and Erhai Travel"
-source: "https://salaamalykum.com/article/2840"
-canonical_url: "https://salaamalykum.com/article/2840"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:52.518389Z"
-lastmod: "2026-06-12T09:43:52.518389Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5304a4c7ee27b3d4db987acdab038813fb7c784ed55631665b21e18d0e532091"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8817e8ad116e2fb3c6c75f3c34b7407865a80160b690b9e94648cf7323b7c569"
 ---
 
 # Halal Food Guide Dali: Authentic Yunnan Hui Muslim Food, Xizhou Mosque and Erhai Travel

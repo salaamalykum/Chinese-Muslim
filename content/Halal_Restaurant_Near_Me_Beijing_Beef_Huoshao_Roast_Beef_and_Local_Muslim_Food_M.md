@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Restaurant Near Me Beijing: Beef Huoshao, Roast Beef and Local Muslim Food Map"
-source: "https://salaamalykum.com/article/2764"
-canonical_url: "https://salaamalykum.com/article/2764"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:56.289523Z"
-lastmod: "2026-06-12T09:44:56.289523Z"
-lang: "zh-CN"
-tags: []
-content_hash: "aae28216384495b9eb3a1fe9ab9ffacc23ec7bbe0239fa2c790ff12c59c355e6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ddf3a2c442d34c8e136cb7f637d3246d6d8d25099e1f1b0985029a87358875d7"
 ---
 
 # Halal Restaurant Near Me Beijing: Beef Huoshao, Roast Beef and Local Muslim Food Map

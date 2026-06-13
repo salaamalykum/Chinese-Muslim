@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing 2025: JM Cafe, Ningxia Hot Pot, Xinjiang BBQ and Hui Muslim Snacks"
-source: "https://salaamalykum.com/article/2917"
-canonical_url: "https://salaamalykum.com/article/2917"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:09.985719Z"
-lastmod: "2026-06-12T09:44:09.985719Z"
-lang: "zh-CN"
-tags: []
-content_hash: "18b5ff99528e1e454fad0fbb8d507895b5b46382e38eddd34ae709b8147645e8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "27f22ab0a70ebffbf1724209dea878e23f0ad096416782968d244fcbac6509a3"
 ---
 
 # Best Halal Food Beijing 2025: JM Cafe, Ningxia Hot Pot, Xinjiang BBQ and Hui Muslim Snacks

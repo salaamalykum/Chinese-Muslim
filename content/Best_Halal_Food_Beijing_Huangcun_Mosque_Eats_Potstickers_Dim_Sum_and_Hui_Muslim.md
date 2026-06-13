@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Huangcun Mosque Eats, Potstickers, Dim Sum and Hui Muslim Soup"
-source: "https://salaamalykum.com/article/2865"
-canonical_url: "https://salaamalykum.com/article/2865"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:15.194921Z"
-lastmod: "2026-06-12T09:44:15.194921Z"
-lang: "zh-CN"
-tags: []
-content_hash: "00dda2aa8b4a6e2bd1eb13b20885b62c4209e5c563fd9f13f35e075d4fa898d8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7595d2a47a729c446b27446192c817289b7d5adb5942ba6a75e6ea8cb8205782"
 ---
 
 # Best Halal Food Beijing: Huangcun Mosque Eats, Potstickers, Dim Sum and Hui Muslim Soup

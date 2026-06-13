@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Hezhou Beef Noodles, Beef Cover Bread, Yangfang Hot Pot and Indian Food"
-source: "https://salaamalykum.com/article/2904"
-canonical_url: "https://salaamalykum.com/article/2904"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:58.337660Z"
-lastmod: "2026-06-12T09:44:58.337660Z"
-lang: "zh-CN"
-tags: []
-content_hash: "797e39688cdf9114eb41dc3873908c021eefff6c09ce20d74307e519542ef20c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "90c74b6f2bfb5ba684cd517c593b347571b4e369e12ba2876351fd2ca512d6c6"
 ---
 
 # Best Halal Food Beijing: Hezhou Beef Noodles, Beef Cover Bread, Yangfang Hot Pot and Indian Food

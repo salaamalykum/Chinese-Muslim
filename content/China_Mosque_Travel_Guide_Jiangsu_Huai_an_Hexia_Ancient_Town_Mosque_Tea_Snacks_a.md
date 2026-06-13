@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Jiangsu Huai'an: Hexia Ancient Town, Mosque, Tea Snacks and Zuo Baogui"
-source: "https://salaamalykum.com/article/3010"
-canonical_url: "https://salaamalykum.com/article/3010"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:17.031147Z"
-lastmod: "2026-06-12T09:44:17.031147Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3d643018bf72c2dc16a04e9c1f1abd198519fa167b13cb3d3661e6201061276b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8938956b5d6f42f8b41ec4a88ce96adffc25e408f04dc2133cbd0b423ed5862b"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Hexia Ancient Town, Mosque, Tea Snacks and Zuo Baogui

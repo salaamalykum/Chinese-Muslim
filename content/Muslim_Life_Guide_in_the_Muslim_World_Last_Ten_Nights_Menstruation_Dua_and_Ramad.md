@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide in the Muslim World: Last Ten Nights, Menstruation, Dua and Ramadan Worship"
-source: "https://salaamalykum.com/article/2779"
-canonical_url: "https://salaamalykum.com/article/2779"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:59.547735Z"
-lastmod: "2026-06-12T09:43:59.547735Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7758f64eea7b6c7398b6f42eb6c71e2e8edb87151c6aca1405dfa9ff694d9b07"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "aaf5d184559cb1fec3039f1494083bb98e02cf8a49234f24240afa26b46e2113"
 ---
 
 # Muslim Life Guide in the Muslim World: Last Ten Nights, Menstruation, Dua and Ramadan Worship

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Is Car Insurance or a Mortgage Halal? Riba and Islamic Insurance Ethics"
-source: "https://salaamalykum.com/article/2799"
-canonical_url: "https://salaamalykum.com/article/2799"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:51.945532Z"
-lastmod: "2026-06-12T09:44:51.945532Z"
-lang: "zh-CN"
-tags: []
-content_hash: "62f8f45b03838017086e1cc7e0749cd02b53256b5680cd8735233e8e1d3a9969"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f4f5d25186ddde152817f8fb763f8dbf0036853592e6618de5e0c201bbe56c3a"
 ---
 
 # Muslim Knowledge Guide China: Is Car Insurance or a Mortgage Halal? Riba and Islamic Insurance Ethics

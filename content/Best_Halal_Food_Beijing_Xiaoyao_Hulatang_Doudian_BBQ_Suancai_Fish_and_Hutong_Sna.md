@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Xiaoyao Hulatang, Doudian BBQ, Suancai Fish and Hutong Snacks"
-source: "https://salaamalykum.com/article/2891"
-canonical_url: "https://salaamalykum.com/article/2891"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:37.611539Z"
-lastmod: "2026-06-12T09:44:37.611539Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d1e020c12f3d7c7affb247aa1532a010b40816ceeb346357532a67245e0de331"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f7ea7721894558644dd8373b6f13cbb4041172ccdf462294ea0316a1a3d79067"
 ---
 
 # Best Halal Food Beijing: Xiaoyao Hulatang, Doudian BBQ, Suancai Fish and Hutong Snacks

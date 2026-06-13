@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Authentic Hui Muslim Restaurants, Malatang and Lebanese Food"
-source: "https://salaamalykum.com/article/2874"
-canonical_url: "https://salaamalykum.com/article/2874"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:36.745328Z"
-lastmod: "2026-06-12T09:44:36.745328Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a569cd7da812237d5af027f2db02aadb4f5ea908d1d86bcd8d0eef5790914ed9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "41a3d3b4232f75b4209bd2593768c3ae4ffcc37ef6b2d8e066f833be3843679d"
 ---
 
 # Best Halal Food Beijing: Authentic Hui Muslim Restaurants, Malatang and Lebanese Food

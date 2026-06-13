@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide London: Oxford, Cambridge, Islamic Heritage and Heathrow Prayer Rooms"
-source: "https://salaamalykum.com/article/2886"
-canonical_url: "https://salaamalykum.com/article/2886"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:02.145676Z"
-lastmod: "2026-06-12T09:44:02.145676Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a39782423ab8837202db35f696aea0f18478ff45ee8df5e1ba4428499eb14b1b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c199d9b747eca9a1b6e5dbed567111f3b8b53e83638e64ffce6d7a1dfbf7c9c3"
 ---
 
 # Muslim Travel Guide London: Oxford, Cambridge, Islamic Heritage and Heathrow Prayer Rooms

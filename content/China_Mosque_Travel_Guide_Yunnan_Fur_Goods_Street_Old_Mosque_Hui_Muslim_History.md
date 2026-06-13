@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Yunnan: Fur Goods Street Old Mosque, Hui Muslim History and Long March Route"
-source: "https://salaamalykum.com/article/2849"
-canonical_url: "https://salaamalykum.com/article/2849"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:53.193503Z"
-lastmod: "2026-06-12T09:43:53.193503Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1800976ac6b14aa935e1792abfb6bfc59a0e6d7a2d5b70708019dd228f988a01"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "39fc9d058301a67f20e93c1f8e40b01ee9e3fd7f89c8af349e9913b2bb4de06f"
 ---
 
 # China Mosque Travel Guide Yunnan: Fur Goods Street Old Mosque, Hui Muslim History and Long March Route

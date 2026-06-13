@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Shaanxi: Ankang Hui Muslim Street, Old Mosques and Local Halal Snacks"
-source: "https://salaamalykum.com/article/2852"
-canonical_url: "https://salaamalykum.com/article/2852"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:32.002649Z"
-lastmod: "2026-06-12T09:44:32.002649Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d41d3dd4291ad283cb37ae2c3e7241a87bd69ca699265d035a2fcd71dfd6e609"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0a726cad7bcefb7334761d06638bda532da51f6dade81aeac716b7ff3a33c22a"
 ---
 
 # Halal Food Guide Shaanxi: Ankang Hui Muslim Street, Old Mosques and Local Halal Snacks

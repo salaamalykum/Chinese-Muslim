@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Restaurant Near Me Beijing: Zhizi Barbecue, Big Plate Chicken & Hui Muslim Hotpot Guide"
-source: "https://salaamalykum.com/article/3031"
-canonical_url: "https://salaamalykum.com/article/3031"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:31.328726Z"
-lastmod: "2026-06-12T09:44:31.328726Z"
-lang: "zh-CN"
-tags: []
-content_hash: "26a8114ac6ffb8c6801bc5b5b5f9ee7dc4397379a4e62059b17360dd17023491"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "dd46632ef13f5d0aed80f68b4561736cbd9ea95de3ab6779885b7aad61e8b794"
 ---
 
 # Halal Restaurant Near Me Beijing: Zhizi Barbecue, Big Plate Chicken & Hui Muslim Hotpot Guide

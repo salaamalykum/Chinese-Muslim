@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Zhaoqing Guangdong Mosques, Hui Muslim Tombs and Halal Roast Goose"
-source: "https://salaamalykum.com/article/2801"
-canonical_url: "https://salaamalykum.com/article/2801"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:42.043143Z"
-lastmod: "2026-06-12T09:44:42.043143Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3a08363688128fcbaf4b6af822581f6c42a04ca103395a030c0784171dc69cf3"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a176b8f4a8ed24769e1a7c889a48675ed369371bec4e9520f86a6d1687488a4b"
 ---
 
 # China Mosque Travel Guide: Zhaoqing Guangdong Mosques, Hui Muslim Tombs and Halal Roast Goose

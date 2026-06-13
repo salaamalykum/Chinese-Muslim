@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Songpan Jiuzhaigou Mosques, Hui Muslims and Tea Horse Road History"
-source: "https://salaamalykum.com/article/3049"
-canonical_url: "https://salaamalykum.com/article/3049"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:43.222439Z"
-lastmod: "2026-06-12T09:44:43.222439Z"
-lang: "zh-CN"
-tags: []
-content_hash: "44f3d35a78278dba1ab31605ac7dc5a60ca9b8234d1b8ce544015d7220f97cd4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4079d6df07286fad96e45efb53c56d924b19ea066507bd8d3d7a481b004a11e3"
 ---
 
 # Muslim Travel Guide China 2026: Songpan Jiuzhaigou Mosques, Hui Muslims and Tea Horse Road History

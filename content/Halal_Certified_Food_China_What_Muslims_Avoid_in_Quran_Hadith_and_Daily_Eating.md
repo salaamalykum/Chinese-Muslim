@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Certified Food China: What Muslims Avoid in Quran, Hadith and Daily Eating"
-source: "https://salaamalykum.com/article/3043"
-canonical_url: "https://salaamalykum.com/article/3043"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:40.864665Z"
-lastmod: "2026-06-12T09:44:40.864665Z"
-lang: "zh-CN"
-tags: []
-content_hash: "06c5ccc84e25a00105ec3676faa6a12a9e3b8860bd784eb5232a8a6afc62bdf8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9684946783ab6ef3c877b443ccb61e8bc2446c21e9f4781baba5b2973c575b06"
 ---
 
 # Halal Certified Food China: What Muslims Avoid in Quran, Hadith and Daily Eating

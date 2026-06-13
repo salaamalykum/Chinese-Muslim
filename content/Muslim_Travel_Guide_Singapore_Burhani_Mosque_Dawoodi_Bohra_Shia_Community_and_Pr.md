@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Singapore: Burhani Mosque, Dawoodi Bohra Shia Community and Prayer Hall"
-source: "https://salaamalykum.com/article/2952"
-canonical_url: "https://salaamalykum.com/article/2952"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:51.053246Z"
-lastmod: "2026-06-12T09:44:51.053246Z"
-lang: "zh-CN"
-tags: []
-content_hash: "53d50c4aaaf90709e777da0f3c8baa9cf82b0217fde5f5ae9025c10bbfc3b111"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7f77eb799250e0f491e246beae3166478690c61bc12d2357d46680a1c1f55568"
 ---
 
 # Muslim Travel Guide Singapore: Burhani Mosque, Dawoodi Bohra Shia Community and Prayer Hall

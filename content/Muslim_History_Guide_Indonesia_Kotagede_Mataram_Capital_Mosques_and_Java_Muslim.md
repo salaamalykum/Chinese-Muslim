@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Indonesia Kotagede: Mataram Capital, Mosques and Java Muslim Heritage"
-source: "https://salaamalykum.com/article/2965"
-canonical_url: "https://salaamalykum.com/article/2965"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:38.112781Z"
-lastmod: "2026-06-12T09:44:38.112781Z"
-lang: "zh-CN"
-tags: []
-content_hash: "18bf81a39af6a94bea044ab00178da8b035a80349724647ef79da5d6d3135c94"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d3a8713cc9400c5e9868e039cf82120f38e84e223d8beaac7ccbbc07c7f8a656"
 ---
 
 # Muslim History Guide Indonesia Kotagede: Mataram Capital, Mosques and Java Muslim Heritage

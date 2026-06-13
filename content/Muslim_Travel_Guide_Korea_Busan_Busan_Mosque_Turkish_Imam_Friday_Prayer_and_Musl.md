@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Korea Busan: Busan Mosque, Turkish Imam, Friday Prayer and Muslim Community"
-source: "https://salaamalykum.com/article/2943"
-canonical_url: "https://salaamalykum.com/article/2943"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:59.081528Z"
-lastmod: "2026-06-12T09:44:59.081528Z"
-lang: "zh-CN"
-tags: []
-content_hash: "102a22836a12af3844b1040f89f6dd5d60ed8e1ce3b2199f5c6ce47d509f4ab8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f3a5bfde5d779e759c7ee3cd7ae1567feb43856d0ea1608680bab4bcecaf5a2b"
 ---
 
 # Muslim Travel Guide Korea Busan: Busan Mosque, Turkish Imam, Friday Prayer and Muslim Community

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide China: Linxia Gannan Xidaotang, Gongbei Mosques and Silk Road Faith"
-source: "https://salaamalykum.com/article/2775"
-canonical_url: "https://salaamalykum.com/article/2775"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:39.511977Z"
-lastmod: "2026-06-12T09:44:39.511977Z"
-lang: "zh-CN"
-tags: []
-content_hash: "070818ea42cbcf2372ed1d42526578cacf7049d236548ae7fe8610a25f13907d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "27de071caa2a03d1073c3a4a97af2c33d085e021f2cb5771f443624974b615f5"
 ---
 
 # Muslim History Guide China: Linxia Gannan Xidaotang, Gongbei Mosques and Silk Road Faith

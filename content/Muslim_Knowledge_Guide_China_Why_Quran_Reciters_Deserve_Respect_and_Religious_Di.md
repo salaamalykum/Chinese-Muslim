@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Why Quran Reciters Deserve Respect and Religious Dignity"
-source: "https://salaamalykum.com/article/2922"
-canonical_url: "https://salaamalykum.com/article/2922"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:13.381722Z"
-lastmod: "2026-06-12T09:44:13.381722Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4b282e7857055cd85315b49e915e216286955c63d0b74076b2cd761a0db00a7f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "237f8676ca4352b8d7fabdf51dce7ad990eb94c908f2a62a3ecd3f4d849b85a6"
 ---
 
 # Muslim Knowledge Guide China: Why Quran Reciters Deserve Respect and Religious Dignity

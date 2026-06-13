@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Iran Tehran: Vali-e-Asr Mosque, Hidden Modern Mosque Architecture and City Visit"
-source: "https://salaamalykum.com/article/2957"
-canonical_url: "https://salaamalykum.com/article/2957"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:22.546345Z"
-lastmod: "2026-06-12T09:44:22.546345Z"
-lang: "zh-CN"
-tags: []
-content_hash: "354798708c5760fe674ac64a7d0f4d543e014ddc265ee0e3f4b5b59434ca558b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7765075471d1f933b4606eb3c09e5f1c7a0452ca6988c2a20231b9785f80e02e"
 ---
 
 # Muslim Travel Guide Iran Tehran: Vali-e-Asr Mosque, Hidden Modern Mosque Architecture and City Visit

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: A Hui Muslim Journey Through Faith, Niujie, Mosques and Halal Life"
-source: "https://salaamalykum.com/article/2791"
-canonical_url: "https://salaamalykum.com/article/2791"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:01.894964Z"
-lastmod: "2026-06-12T09:45:01.894964Z"
-lang: "zh-CN"
-tags: []
-content_hash: "58925f6c80ace81f1abc59c9cdb5b3c47b213f297b8365d5c805137c5d639533"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e205aab6ad3f6a80637257befeedef5cdc3bd1fcdd6120ae85e61a1695891d15"
 ---
 
 # Muslim Travel Guide China: A Hui Muslim Journey Through Faith, Niujie, Mosques and Halal Life

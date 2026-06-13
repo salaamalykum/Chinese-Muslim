@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide UAE: Dubai Halal Flights, Prayer Rooms and Sheikh Zayed Grand Mosque"
-source: "https://salaamalykum.com/article/2845"
-canonical_url: "https://salaamalykum.com/article/2845"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:48.799534Z"
-lastmod: "2026-06-12T09:44:48.799534Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e36d1c83cac176b60b2b805701553d198be29d668527b8200f4b4f7e054ee06c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "311bc3258bf0150e51b6799bb82b6cdd1e54e9067ab015b2e3f3efc2e3ce7b83"
 ---
 
 # Muslim Travel Guide UAE: Dubai Halal Flights, Prayer Rooms and Sheikh Zayed Grand Mosque

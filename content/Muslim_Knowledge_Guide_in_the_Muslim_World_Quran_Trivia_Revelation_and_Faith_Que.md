@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide in the Muslim World: Quran Trivia, Revelation and Faith Questions"
-source: "https://salaamalykum.com/article/2782"
-canonical_url: "https://salaamalykum.com/article/2782"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:39.026331Z"
-lastmod: "2026-06-12T09:44:39.026331Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9f86531d4809c44de3c0cfc912efc31a91622d714d4a192112be996c90a96559"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "26bc46c46c9b2a91ab2791b7f2acfbc15022773ed00b862a1276944340b6e3f7"
 ---
 
 # Muslim Knowledge Guide in the Muslim World: Quran Trivia, Revelation and Faith Questions

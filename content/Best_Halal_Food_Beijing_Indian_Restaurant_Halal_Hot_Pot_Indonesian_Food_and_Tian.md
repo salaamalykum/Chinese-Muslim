@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Indian Restaurant, Halal Hot Pot, Indonesian Food and Tianshui Malatang"
-source: "https://salaamalykum.com/article/2864"
-canonical_url: "https://salaamalykum.com/article/2864"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:58.681566Z"
-lastmod: "2026-06-12T09:43:58.681566Z"
-lang: "zh-CN"
-tags: []
-content_hash: "16d275bfc22f2960c0f37099eb358ac584767bd06f6be525480257ffd497d43f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a509a18600c89f2656eb9d2bcf3c497d30ff59ee5595bd3224fa97a12fc8519b"
 ---
 
 # Best Halal Food Beijing: Indian Restaurant, Halal Hot Pot, Indonesian Food and Tianshui Malatang

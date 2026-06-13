@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Ramadan in China 2026: Qur'an, Hadith, Tarawih and Muslim Strength for Fasting"
-source: "https://salaamalykum.com/article/2925"
-canonical_url: "https://salaamalykum.com/article/2925"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:45.146038Z"
-lastmod: "2026-06-12T09:44:45.146038Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ed452e283adf8d7066ea85612664bb63c5195f71868ff6cf67fd79d725591190"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4f5cebfa0d3846b89d2bfeef55ed69ada08f67eafa296ad780f7ebc2c8eebc04"
 ---
 
 # Ramadan in China 2026: Qur'an, Hadith, Tarawih and Muslim Strength for Fasting

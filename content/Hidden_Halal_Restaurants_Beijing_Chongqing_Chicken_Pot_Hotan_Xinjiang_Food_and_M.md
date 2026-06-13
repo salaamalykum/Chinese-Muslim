@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Hidden Halal Restaurants Beijing: Chongqing Chicken Pot, Hotan Xinjiang Food and Muslim-Friendly Dining"
-source: "https://salaamalykum.com/article/2792"
-canonical_url: "https://salaamalykum.com/article/2792"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:29.455445Z"
-lastmod: "2026-06-12T09:44:29.455445Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5b3e4462cd1b7c961498c314ee92caa7b71d6cfa92633128d4357c3927ce217e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "2d55e3057e34675261176e3f689ea0f0581f7df1fcda6ed7aa78398ff4d3a039"
 ---
 
 # Hidden Halal Restaurants Beijing: Chongqing Chicken Pot, Hotan Xinjiang Food and Muslim-Friendly Dining

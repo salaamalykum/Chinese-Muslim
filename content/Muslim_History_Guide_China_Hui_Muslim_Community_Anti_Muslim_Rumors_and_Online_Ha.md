@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide China: Hui Muslim Community, Anti-Muslim Rumors and Online Hate Speech"
-source: "https://salaamalykum.com/article/2932"
-canonical_url: "https://salaamalykum.com/article/2932"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:39.706173Z"
-lastmod: "2026-06-12T09:44:39.706173Z"
-lang: "zh-CN"
-tags: []
-content_hash: "227fa39481eabbeeaed726bb3ee45f36d8ab15656e325aed965e91cef2fdf906"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d228ebf103c9f897c159d924e677d23613fca0f6da4f7a1fe273aa7d2699c27b"
 ---
 
 # Muslim History Guide China: Hui Muslim Community, Anti-Muslim Rumors and Online Hate Speech

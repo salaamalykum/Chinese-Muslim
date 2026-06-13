@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Tianjin: Japanese Restaurants, Western Dining and Hui Muslim Local Food"
-source: "https://salaamalykum.com/article/2807"
-canonical_url: "https://salaamalykum.com/article/2807"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:57.191229Z"
-lastmod: "2026-06-12T09:44:57.191229Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4ee5de16ff69d9e069b2697e568bb92f402cdc9845acea5bc2e340bf5ba1777c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "09ce39b1fde60a0b046a876436fc387ae1416308bd38ecd3b9d7a7d9709fe17c"
 ---
 
 # Halal Food Guide Tianjin: Japanese Restaurants, Western Dining and Hui Muslim Local Food

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Beijing: Miyun Gubei Water Town, Halal Hotpot and Mosque Travel"
-source: "https://salaamalykum.com/article/2762"
-canonical_url: "https://salaamalykum.com/article/2762"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:22.918584Z"
-lastmod: "2026-06-12T09:44:22.918584Z"
-lang: "zh-CN"
-tags: []
-content_hash: "975d304fd6ce05065f89b7109e73c35574d3690630427d84d821e8131e1c3173"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "70f23009c4fd178ddd4c499f1e20aedd298a661818db005b47bba0eb71cbb8c6"
 ---
 
 # Muslim Friendly Beijing: Miyun Gubei Water Town, Halal Hotpot and Mosque Travel

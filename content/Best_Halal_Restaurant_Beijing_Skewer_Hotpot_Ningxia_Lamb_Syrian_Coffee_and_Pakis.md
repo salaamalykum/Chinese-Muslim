@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant Beijing: Skewer Hotpot, Ningxia Lamb, Syrian Coffee and Pakistani Food"
-source: "https://salaamalykum.com/article/2802"
-canonical_url: "https://salaamalykum.com/article/2802"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:21.162281Z"
-lastmod: "2026-06-12T09:44:21.162281Z"
-lang: "zh-CN"
-tags: []
-content_hash: "02300e547587e8b430f4826640195449614f60033ab5b0f0907c99403e4c64df"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "5c85bb1441c8d9589117cbd118569a021073ef58c1ea9f5145ae20f08de2c9a7"
 ---
 
 # Best Halal Restaurant Beijing: Skewer Hotpot, Ningxia Lamb, Syrian Coffee and Pakistani Food

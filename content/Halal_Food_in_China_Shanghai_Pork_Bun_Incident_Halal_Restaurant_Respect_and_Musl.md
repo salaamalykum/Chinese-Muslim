@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food in China Shanghai: Pork Bun Incident, Halal Restaurant Respect and Muslim Community Rights"
-source: "https://salaamalykum.com/article/2937"
-canonical_url: "https://salaamalykum.com/article/2937"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:39.898164Z"
-lastmod: "2026-06-12T09:44:39.898164Z"
-lang: "zh-CN"
-tags: []
-content_hash: "75ec2afebb7a263220417c0c77a2a09d0ad29efcae6c1d4bc7ed33a54e6708c4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a4f3c7070df595a0d453028dc85b707917f073e7a7daf792298a32001b0e2993"
 ---
 
 # Halal Food in China Shanghai: Pork Bun Incident, Halal Restaurant Respect and Muslim Community Rights

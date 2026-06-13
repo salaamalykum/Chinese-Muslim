@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Beijing Ramadan: Turkish, Tunisian, Jordanian and Pakistani Iftar Buffets"
-source: "https://salaamalykum.com/article/2980"
-canonical_url: "https://salaamalykum.com/article/2980"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:20.467219Z"
-lastmod: "2026-06-12T09:44:20.467219Z"
-lang: "zh-CN"
-tags: []
-content_hash: "8ff8940fefc65e8124386e4893eac2a1964ba2612bdbf2e9ddd3ce7ad7aabfc0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "2f155a3112a94f82c720a062278659e03d8d949fabe5ce72e40294b70e9d1067"
 ---
 
 # Halal Food Guide Beijing Ramadan: Turkish, Tunisian, Jordanian and Pakistani Iftar Buffets

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Beijing Halal Street Food Guide: Korean BBQ, Turkish Food and Local Hui Restaurants"
-source: "https://salaamalykum.com/article/2798"
-canonical_url: "https://salaamalykum.com/article/2798"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:46.041581Z"
-lastmod: "2026-06-12T09:44:46.041581Z"
-lang: "zh-CN"
-tags: []
-content_hash: "11492e6a0eeff689bf6ee646c550f948f88469278647fafb302138730b596d88"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "acad5a191600b97cc41aa13e3fa5b0ed70f308c406a8d717de8e530b18b6f899"
 ---
 
 # Beijing Halal Street Food Guide: Korean BBQ, Turkish Food and Local Hui Restaurants

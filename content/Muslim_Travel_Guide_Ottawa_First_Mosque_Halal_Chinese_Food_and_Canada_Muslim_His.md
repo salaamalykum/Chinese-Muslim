@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Ottawa: First Mosque, Halal Chinese Food and Canada Muslim History"
-source: "https://salaamalykum.com/article/2870"
-canonical_url: "https://salaamalykum.com/article/2870"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:00.513139Z"
-lastmod: "2026-06-12T09:45:00.513139Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5912016791120862739e9f83825c2103b891e88b06f0cfae3a1df597a6d17409"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "73dbc48fa3712dd08ff7eb1bb7aa75a07f1c1b226b5e5445f3b11e99b7656846"
 ---
 
 # Muslim Travel Guide Ottawa: First Mosque, Halal Chinese Food and Canada Muslim History

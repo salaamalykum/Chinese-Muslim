@@ -1,10 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this dataset or software, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 authors:
-  - family-names: Salaamalykum
-    given-names: Admin
-title: "Chinese Muslim Knowledge Base & RAG Dataset"
-version: 1.0.0
-doi: 10.5281/zenodo.1234567 # Zenodo will overwrite this upon release
-date-released: 2026-06-12
+  - family-names: "Hasan09"
+    given-names: "Salaamalykum"
+title: "Chinese Muslim Islamic Knowledge Base"
+version: v1.1.0
+date-released: 2026-06-13
 url: "https://github.com/salaamalykum/Chinese-Muslim"

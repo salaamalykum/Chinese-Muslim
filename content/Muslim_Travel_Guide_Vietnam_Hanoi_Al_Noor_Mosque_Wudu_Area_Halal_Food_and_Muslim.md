@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Vietnam Hanoi: Al-Noor Mosque, Wudu Area, Halal Food and Muslim Life"
-source: "https://salaamalykum.com/article/2949"
-canonical_url: "https://salaamalykum.com/article/2949"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:17.321536Z"
-lastmod: "2026-06-12T09:44:17.321536Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c679b879c17236fa632165615c19692a134d4a0f0d730083c1f5b4fde25e3a26"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a1917d3ce4c07d7a4c25725bd8e96b979f8ee53fd980c9f1f020e36edafe863a"
 ---
 
 # Muslim Travel Guide Vietnam Hanoi: Al-Noor Mosque, Wudu Area, Halal Food and Muslim Life

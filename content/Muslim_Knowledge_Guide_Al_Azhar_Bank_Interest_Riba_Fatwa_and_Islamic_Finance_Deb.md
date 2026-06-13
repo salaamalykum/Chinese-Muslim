@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide Al-Azhar: Bank Interest, Riba Fatwa and Islamic Finance Debate"
-source: "https://salaamalykum.com/article/2885"
-canonical_url: "https://salaamalykum.com/article/2885"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:35.261951Z"
-lastmod: "2026-06-12T09:44:35.261951Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9eed2bb0c140bb5e67708be131b31385c7d59d33e13b7b207839a2b243e5f3db"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "00c371e2df24095b09b3c64ed5531ca14efb72f2971f5e7c3e2d84a69db26327"
 ---
 
 # Muslim Knowledge Guide Al-Azhar: Bank Interest, Riba Fatwa and Islamic Finance Debate

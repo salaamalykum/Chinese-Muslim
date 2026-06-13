@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Authentic Xinjiang Restaurants, Tanyang Lamb and Grilled Pigeon"
-source: "https://salaamalykum.com/article/2810"
-canonical_url: "https://salaamalykum.com/article/2810"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:32.389537Z"
-lastmod: "2026-06-12T09:44:32.389537Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5f4fe7d6dee82e64df3b57bf442ab0beab94aa36d315103bdcf05aef3d7da69c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f636b05dbb8fe19318ef016b7160b9e737826529d2ae9e2c1ba06d6de7e6d0e5"
 ---
 
 # Best Halal Food Beijing: Authentic Xinjiang Restaurants, Tanyang Lamb and Grilled Pigeon

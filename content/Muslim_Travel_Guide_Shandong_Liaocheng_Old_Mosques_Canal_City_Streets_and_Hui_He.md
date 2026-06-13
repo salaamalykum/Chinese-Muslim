@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Shandong Liaocheng: Old Mosques, Canal City Streets and Hui Heritage"
-source: "https://salaamalykum.com/article/2979"
-canonical_url: "https://salaamalykum.com/article/2979"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:57.059014Z"
-lastmod: "2026-06-12T09:43:57.059014Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e9c5f185896afd67e6f15797dad46d738ba61e3c6eb6ab301d0f073686b94b06"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "bace5cc1026de9f03a1071585b047767845be4b89caea3afd4bba0e8d50c9452"
 ---
 
 # Muslim Travel Guide Shandong Liaocheng: Old Mosques, Canal City Streets and Hui Heritage

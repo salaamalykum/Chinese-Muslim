@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Zhaotong: Baxianda Mosque, Eid al-Adha Graduation and Muslim Youth Hope"
-source: "https://salaamalykum.com/article/2929"
-canonical_url: "https://salaamalykum.com/article/2929"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:27.823475Z"
-lastmod: "2026-06-12T09:44:27.823475Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ea808b451dd029e54649a0be71402b42d29f82b4b77c67879bfac8d2fbd4e728"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "97c7dc3f4f4a2d698aebab0ecdfc5ab8de9f9ef036968027dcfc5aca88481683"
 ---
 
 # China Mosque Travel Guide Zhaotong: Baxianda Mosque, Eid al-Adha Graduation and Muslim Youth Hope

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Street Food Beijing: Subuha Electric Skewers, Roujiamo, Zhaotong BBQ and Hotan Barbecue"
-source: "https://salaamalykum.com/article/2913"
-canonical_url: "https://salaamalykum.com/article/2913"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:45.822774Z"
-lastmod: "2026-06-12T09:44:45.822774Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9005f78336fa1753c55dd0c59046daaace2ddfea281ae0183d92758ba516ff80"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "26044b76ca7bb4cc79e0cc771f2bb3232105ae7921aa65d3d8b68faaccb7a35b"
 ---
 
 # Best Halal Street Food Beijing: Subuha Electric Skewers, Roujiamo, Zhaotong BBQ and Hotan Barbecue

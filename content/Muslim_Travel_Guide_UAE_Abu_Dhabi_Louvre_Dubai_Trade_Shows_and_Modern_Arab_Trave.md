@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide UAE: Abu Dhabi Louvre, Dubai Trade Shows and Modern Arab Travel Notes"
-source: "https://salaamalykum.com/article/2844"
-canonical_url: "https://salaamalykum.com/article/2844"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:11.583608Z"
-lastmod: "2026-06-12T09:44:11.583608Z"
-lang: "zh-CN"
-tags: []
-content_hash: "82d7fb1a346e6455cdc2810eb8976bb42ebd9dfb6d205bcdd390ec2c30672750"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c8251e8bb5fa6674429f5dba189f7d2147d008e1fc5aa6b74bc693fb8a6f508e"
 ---
 
 # Muslim Travel Guide UAE: Abu Dhabi Louvre, Dubai Trade Shows and Modern Arab Travel Notes

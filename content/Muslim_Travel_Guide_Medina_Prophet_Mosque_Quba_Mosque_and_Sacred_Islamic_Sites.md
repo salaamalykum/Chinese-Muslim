@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Medina: Prophet Mosque, Quba Mosque and Sacred Islamic Sites"
-source: "https://salaamalykum.com/article/2833"
-canonical_url: "https://salaamalykum.com/article/2833"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:04.930406Z"
-lastmod: "2026-06-12T09:44:04.930406Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a5f767bf521dad7253b7f6f01bb4de8cc506ec77d5696e058613eba2c09bf06c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "597536f3448c8f759a605b123a95f6fd61e82c44f25701c7b1860655f3522aa8"
 ---
 
 # Muslim Travel Guide Medina: Prophet Mosque, Quba Mosque and Sacred Islamic Sites

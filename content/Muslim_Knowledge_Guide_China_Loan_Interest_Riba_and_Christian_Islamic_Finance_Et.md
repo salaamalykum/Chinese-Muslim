@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Loan Interest, Riba and Christian-Islamic Finance Ethics"
-source: "https://salaamalykum.com/article/2875"
-canonical_url: "https://salaamalykum.com/article/2875"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:56.868949Z"
-lastmod: "2026-06-12T09:43:56.868949Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a150fbe15ae3e5fad57865063cf073f4bd333a4eef6912042c2292df6b174882"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9ecff7f210a64dab811f587e3b0b07cb5613a2870698740ca9f86c9437ea9aed"
 ---
 
 # Muslim Knowledge Guide China: Loan Interest, Riba and Christian-Islamic Finance Ethics

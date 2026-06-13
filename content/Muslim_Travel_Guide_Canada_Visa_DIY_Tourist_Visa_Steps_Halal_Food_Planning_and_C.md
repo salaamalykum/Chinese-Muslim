@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Canada Visa: DIY Tourist Visa Steps, Halal Food Planning and Chinese Travelers"
-source: "https://salaamalykum.com/article/2861"
-canonical_url: "https://salaamalykum.com/article/2861"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:19.971558Z"
-lastmod: "2026-06-12T09:44:19.971558Z"
-lang: "zh-CN"
-tags: []
-content_hash: "beeeb0d27e4c87f7864d381e2f629af0e7ed1fa7828bcb06d7ce8cfadb18ed24"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "2f00979b3a1877ead7b18d5125ed1dc04eb21eb51c281183ad4bd951e4e6a03c"
 ---
 
 # Muslim Travel Guide Canada Visa: DIY Tourist Visa Steps, Halal Food Planning and Chinese Travelers

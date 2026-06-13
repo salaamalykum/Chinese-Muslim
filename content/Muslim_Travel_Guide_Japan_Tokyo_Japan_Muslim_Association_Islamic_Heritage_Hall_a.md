@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Japan Tokyo: Japan Muslim Association, Islamic Heritage Hall and Ginza Food"
-source: "https://salaamalykum.com/article/2944"
-canonical_url: "https://salaamalykum.com/article/2944"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:23.100080Z"
-lastmod: "2026-06-12T09:44:23.100080Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5b673a46556cb2df96bcfcf73200d3ce0f7e19407fcca4c6c6c460f56f95f643"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "efb02f80679d2d21d5acf6f7e784b3885e445fc3608f96c1fed9fd292d17c26a"
 ---
 
 # Muslim Travel Guide Japan Tokyo: Japan Muslim Association, Islamic Heritage Hall and Ginza Food

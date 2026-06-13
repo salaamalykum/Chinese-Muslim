@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Liaoning Dandong: Fengcheng Mosque Visit and Local Halal Food"
-source: "https://salaamalykum.com/article/2996"
-canonical_url: "https://salaamalykum.com/article/2996"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:37.221682Z"
-lastmod: "2026-06-12T09:44:37.221682Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d7743000df3f0a17628ccaa3516b9b2a73a5ee0f2e073747f9af60dad582b2dc"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d1b947a370d485fabef1d57647b4b9290643200e022704c494b2823ca930842a"
 ---
 
 # Muslim Travel Guide Liaoning Dandong: Fengcheng Mosque Visit and Local Halal Food

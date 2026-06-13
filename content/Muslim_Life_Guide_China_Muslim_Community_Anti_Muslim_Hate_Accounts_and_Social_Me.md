@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide China: Muslim Community, Anti-Muslim Hate Accounts and Social Media Timeline"
-source: "https://salaamalykum.com/article/2938"
-canonical_url: "https://salaamalykum.com/article/2938"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:20.949371Z"
-lastmod: "2026-06-12T09:44:20.949371Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3f03cfd402bb423a9b68717e19094d03700e3c2c633c59379cabf50f1f37dec5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d520eda8d39f306f4d2b5f08544bf50dd3a66872dceef1c6a7891169335bd540"
 ---
 
 # Muslim Life Guide China: Muslim Community, Anti-Muslim Hate Accounts and Social Media Timeline

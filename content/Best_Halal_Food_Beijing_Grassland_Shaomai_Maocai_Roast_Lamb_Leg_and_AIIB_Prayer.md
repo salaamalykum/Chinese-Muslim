@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Grassland Shaomai, Maocai, Roast Lamb Leg and AIIB Prayer Room"
-source: "https://salaamalykum.com/article/2806"
-canonical_url: "https://salaamalykum.com/article/2806"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:47.203364Z"
-lastmod: "2026-06-12T09:44:47.203364Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a6d10cecc04810a6004e9a0da51ba0f1ee74156cccb4574de8a6b0fa34acac96"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a4b09e1af3af5272c4c4e45423a0042bc7ebec32b9efcdf3da2d3c8969feebc4"
 ---
 
 # Best Halal Food Beijing: Grassland Shaomai, Maocai, Roast Lamb Leg and AIIB Prayer Room

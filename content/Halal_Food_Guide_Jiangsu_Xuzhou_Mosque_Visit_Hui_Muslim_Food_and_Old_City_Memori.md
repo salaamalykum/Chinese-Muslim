@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Jiangsu Xuzhou: Mosque Visit, Hui Muslim Food and Old City Memories"
-source: "https://salaamalykum.com/article/2973"
-canonical_url: "https://salaamalykum.com/article/2973"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:03.163227Z"
-lastmod: "2026-06-12T09:44:03.163227Z"
-lang: "zh-CN"
-tags: []
-content_hash: "08658127efb5d38111820fc1c0f87ef89dc3d96d4ca39ad7a8a00e44fef50ee4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "10d3310751fb6def11a35888263444672375bbe428cc0db213ddea346e4eaeed"
 ---
 
 # Halal Food Guide Jiangsu Xuzhou: Mosque Visit, Hui Muslim Food and Old City Memories

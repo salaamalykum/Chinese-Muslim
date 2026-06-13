@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Muslim Travel Guide: Jiang Jing Halal Journey, Hui Muslim Culture and Islamic Writing"
-source: "https://salaamalykum.com/article/2815"
-canonical_url: "https://salaamalykum.com/article/2815"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:05.325911Z"
-lastmod: "2026-06-12T09:44:05.325911Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2371cd0943498dedbb308e0bbc7dd86856171de067742fe6d0afba0359620d11"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c01fdc853630bff9f3900b64d283b36d1bae41a02b0bd165548d41c133fd8608"
 ---
 
 # China Muslim Travel Guide: Jiang Jing Halal Journey, Hui Muslim Culture and Islamic Writing

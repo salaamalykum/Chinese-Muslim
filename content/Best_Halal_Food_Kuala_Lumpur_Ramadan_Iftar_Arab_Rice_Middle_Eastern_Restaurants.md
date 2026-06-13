@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur Ramadan: Iftar, Arab Rice, Middle Eastern Restaurants and Rehan"
-source: "https://salaamalykum.com/article/2921"
-canonical_url: "https://salaamalykum.com/article/2921"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:55.314632Z"
-lastmod: "2026-06-12T09:43:55.314632Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b0512ad83dbd7209b90dbf8ed64f55969b514c2a637389403b13217da1ea766e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a3bd4cc9cf8a119e2846dc31db3f4148d4d6e37b0e7652dcc0e400194aca12d7"
 ---
 
 # Best Halal Food Kuala Lumpur Ramadan: Iftar, Arab Rice, Middle Eastern Restaurants and Rehan

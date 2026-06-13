@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Indonesia Banten: Sultanate Mosques, Coastal City and Islamic Heritage"
-source: "https://salaamalykum.com/article/2964"
-canonical_url: "https://salaamalykum.com/article/2964"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:34.158830Z"
-lastmod: "2026-06-12T09:44:34.158830Z"
-lang: "zh-CN"
-tags: []
-content_hash: "81cfe45899b21655e17c31f277d522afeab1876ad6d426229e043e29f42d48ec"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b2ea4d53b5e5c06b94a713b15f72d13bb858923f75763a8ad1767247dadf3805"
 ---
 
 # Muslim Travel Guide Indonesia Banten: Sultanate Mosques, Coastal City and Islamic Heritage

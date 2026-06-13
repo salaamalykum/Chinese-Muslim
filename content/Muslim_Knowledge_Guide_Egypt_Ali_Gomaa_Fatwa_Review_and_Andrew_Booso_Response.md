@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa Review and Andrew Booso Response"
-source: "https://salaamalykum.com/article/2905"
-canonical_url: "https://salaamalykum.com/article/2905"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:50.166284Z"
-lastmod: "2026-06-12T09:43:50.166284Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c09a2d9503f0903f94d969c350ef1816e7aa00ae52aa176780415bcee6cad08f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "306e6de667e5ba3f8d4b5617dbd09c73696f4240b72c3a411c04e50585707a00"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa Review and Andrew Booso Response

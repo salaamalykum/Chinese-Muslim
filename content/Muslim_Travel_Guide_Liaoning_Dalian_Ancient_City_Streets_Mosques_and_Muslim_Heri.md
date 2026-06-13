@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Liaoning Dalian: Ancient City Streets, Mosques and Muslim Heritage"
-source: "https://salaamalykum.com/article/2995"
-canonical_url: "https://salaamalykum.com/article/2995"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:33.541804Z"
-lastmod: "2026-06-12T09:44:33.541804Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a7ea99efcf81a8b0cbca5bd6d79730090cde7ffca745f662d1597f0bc6f47005"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e909639ce20e7f03efa301261344ddd586cd99a406054b0db065aa20bebd73ea"
 ---
 
 # Muslim Travel Guide Liaoning Dalian: Ancient City Streets, Mosques and Muslim Heritage

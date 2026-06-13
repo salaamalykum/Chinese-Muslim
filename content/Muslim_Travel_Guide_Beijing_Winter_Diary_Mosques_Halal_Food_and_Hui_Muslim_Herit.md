@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Beijing Winter Diary: Mosques, Halal Food and Hui Muslim Heritage (Part 1)"
-source: "https://salaamalykum.com/article/2982"
-canonical_url: "https://salaamalykum.com/article/2982"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:02.907427Z"
-lastmod: "2026-06-12T09:44:02.907427Z"
-lang: "zh-CN"
-tags: []
-content_hash: "0677eaa55b94bf4e6ea803f6cc2cde286f23d170ac8799a608f5b3a0ab36fdd6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b6f05b3a8336092f793565c9884663843a108a28eb335d6b4de554d7f3672fc6"
 ---
 
 # Muslim Travel Guide Beijing Winter Diary: Mosques, Halal Food and Hui Muslim Heritage (Part 1)

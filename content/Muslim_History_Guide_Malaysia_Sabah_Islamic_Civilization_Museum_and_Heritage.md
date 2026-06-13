@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Malaysia Sabah: Islamic Civilization Museum and Heritage"
-source: "https://salaamalykum.com/article/3002"
-canonical_url: "https://salaamalykum.com/article/3002"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:41.041452Z"
-lastmod: "2026-06-12T09:44:41.041452Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e4d8a23bd48b9eef1f9f0f8e4e550a507c9c743e67b5306f9c197266c2e9ee30"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b6cde3488a2a141728191c805dc1379b53ce4cea2178724b7d1f2561d917d8c3"
 ---
 
 # Muslim History Guide Malaysia Sabah: Islamic Civilization Museum and Heritage

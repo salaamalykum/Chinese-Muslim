@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Niujie, Chaoyang, Daxing and District-by-District Muslim Restaurant Map"
-source: "https://salaamalykum.com/article/3038"
-canonical_url: "https://salaamalykum.com/article/3038"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:22.291545Z"
-lastmod: "2026-06-12T09:44:22.291545Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e66c019b3da7734fece363a9d741e515e6ce8d6493c7af737e1f3e79049da4a9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "637312ebc3c8d786606969c8e9fa13cdbc52305d050868f20be5dada802c5a39"
 ---
 
 # Best Halal Food Beijing: Niujie, Chaoyang, Daxing and District-by-District Muslim Restaurant Map

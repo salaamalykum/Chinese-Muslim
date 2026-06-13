@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Indonesia: Surabaya Sunan Ampel Mosque, Cheng Ho Mosque and Halal Airport Food"
-source: "https://salaamalykum.com/article/2895"
-canonical_url: "https://salaamalykum.com/article/2895"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:23.857419Z"
-lastmod: "2026-06-12T09:44:23.857419Z"
-lang: "zh-CN"
-tags: []
-content_hash: "306ddc42090da183831aba5ae6471a5d805646a0c0446700e62bb13b77f35372"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3b6d23e7921a6cc1ac42d7d43ec68e4fbc8e2112184469460c1f864b38bdd591"
 ---
 
 # Muslim Travel Guide Indonesia: Surabaya Sunan Ampel Mosque, Cheng Ho Mosque and Halal Airport Food

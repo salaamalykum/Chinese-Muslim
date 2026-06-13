@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Dachang Hui Muslim Mosques, Halal Food and Community Heritage"
-source: "https://salaamalykum.com/article/3057"
-canonical_url: "https://salaamalykum.com/article/3057"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:06.151297Z"
-lastmod: "2026-06-12T09:44:06.151297Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a6014052a7d4cf8164167b279f5bb3f2aa6c4ff92cddfa2eb3136774d640063f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a20476d3c40bd34801bd7ff612b0433ebe14f24ceaa10a21f8598376b4fa1fa9"
 ---
 
 # China Mosque Travel Guide: Dachang Hui Muslim Mosques, Halal Food and Community Heritage

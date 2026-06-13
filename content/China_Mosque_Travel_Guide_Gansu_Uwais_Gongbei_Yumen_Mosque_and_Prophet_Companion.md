@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Gansu Uwais Gongbei, Yumen Mosque and Prophet Companion Heritage"
-source: "https://salaamalykum.com/article/2825"
-canonical_url: "https://salaamalykum.com/article/2825"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:59.632405Z"
-lastmod: "2026-06-12T09:44:59.632405Z"
-lang: "zh-CN"
-tags: []
-content_hash: "29f27ad2b55dd637b7650418187093d43fbc26c547117333ea872f0fe1d88718"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "dafedc18f92be06d17e576c8754e99cb1bc2fbecfc2ee68ede3bc8c3c5cbb87a"
 ---
 
 # China Mosque Travel Guide: Gansu Uwais Gongbei, Yumen Mosque and Prophet Companion Heritage

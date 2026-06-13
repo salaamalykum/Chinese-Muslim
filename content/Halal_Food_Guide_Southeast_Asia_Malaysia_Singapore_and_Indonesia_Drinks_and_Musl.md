@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Southeast Asia: Malaysia, Singapore and Indonesia Drinks and Muslim Travel Notes"
-source: "https://salaamalykum.com/article/2997"
-canonical_url: "https://salaamalykum.com/article/2997"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:12.463108Z"
-lastmod: "2026-06-12T09:44:12.463108Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b82152d0604f6e3c6e76483cbd8cedb4234b9a63aeb9879e8effc6efc141d5f6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c222a5614722f89118b693f92987ead55da3256951551c3b8f06e0eadd7e494f"
 ---
 
 # Halal Food Guide Southeast Asia: Malaysia, Singapore and Indonesia Drinks and Muslim Travel Notes

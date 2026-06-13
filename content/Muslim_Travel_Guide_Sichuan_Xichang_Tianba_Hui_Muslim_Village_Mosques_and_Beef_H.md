@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Sichuan: Xichang Tianba Hui Muslim Village, Mosques and Beef Hot Pot"
-source: "https://salaamalykum.com/article/2847"
-canonical_url: "https://salaamalykum.com/article/2847"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:02.590569Z"
-lastmod: "2026-06-12T09:45:02.590569Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f6e545c188090c8ef9dfda8a6825ef654b27415b12dd054f8063de6750ee60b7"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "096adce85fea4781460d7ef274bf3e4df5870f488f02a7071f3273e54dd04ebf"
 ---
 
 # Muslim Travel Guide Sichuan: Xichang Tianba Hui Muslim Village, Mosques and Beef Hot Pot

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Iran Qom: Fatima Masumeh Shrine Mosque, Mirror Hall and Mazar Courtyard"
-source: "https://salaamalykum.com/article/2958"
-canonical_url: "https://salaamalykum.com/article/2958"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:18.013245Z"
-lastmod: "2026-06-12T09:44:18.013245Z"
-lang: "zh-CN"
-tags: []
-content_hash: "17ec0f2b5c48d466ac574f883a3580d92b201d83d59dfdf7f212b4a8bf4d21c8"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7f856a754738597bbc24ed75c94836e527e18d7a698c50719197f3322bb8f243"
 ---
 
 # Muslim Travel Guide Iran Qom: Fatima Masumeh Shrine Mosque, Mirror Hall and Mazar Courtyard

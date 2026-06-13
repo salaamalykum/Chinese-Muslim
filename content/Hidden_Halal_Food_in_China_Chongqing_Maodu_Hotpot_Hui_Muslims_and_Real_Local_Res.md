@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants"
-source: "https://salaamalykum.com/article/3042"
-canonical_url: "https://salaamalykum.com/article/3042"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:24.859910Z"
-lastmod: "2026-06-12T09:44:24.859910Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f8dd2ffd07cbca06ba275d0af21eeec975cf34c59449e3c83993f02f7b6005cf"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c43c87e7e6c48d6af4e1689f8f3add2cde64f1b55cbb726f6b072ec049988711"
 ---
 
 # Hidden Halal Food in China: Chongqing Maodu Hotpot, Hui Muslims and Real Local Restaurants

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Is Riba the Same as Interest in Islamic Finance or Is There No Consensus"
-source: "https://salaamalykum.com/article/2916"
-canonical_url: "https://salaamalykum.com/article/2916"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:24.184443Z"
-lastmod: "2026-06-12T09:44:24.184443Z"
-lang: "zh-CN"
-tags: []
-content_hash: "cbaaf80aff4e39ec47778dd71b6798b8c83ab3ea29f7e54bf629e42126bd5d70"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0dda1c3b71253a7ae77428ea4d2d6c5dcc5f20813a199c8b970e9c58b1ffa11b"
 ---
 
 # Muslim Knowledge Guide China: Is Riba the Same as Interest in Islamic Finance or Is There No Consensus

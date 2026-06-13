@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Beijing Halal Street Food Guide: Fangshan Hot Pot, Shidu Xinjiang Food and Local Snacks"
-source: "https://salaamalykum.com/article/2819"
-canonical_url: "https://salaamalykum.com/article/2819"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:02.384672Z"
-lastmod: "2026-06-12T09:45:02.384672Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1e8c0bd5e9e67cb6bd5edf60b7dc9a7e64a4f522decccf66ded9fb8ddc3b8247"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f5249fcbba3e1f5bca662710e3fd44f43e3b8906c1ad4dd52d9f5395e8488ee9"
 ---
 
 # Beijing Halal Street Food Guide: Fangshan Hot Pot, Shidu Xinjiang Food and Local Snacks

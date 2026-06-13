@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: 709 Mosques, Beijing Mosque List and Global Muslim Footprint Map"
-source: "https://salaamalykum.com/article/2888"
-canonical_url: "https://salaamalykum.com/article/2888"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:45.335637Z"
-lastmod: "2026-06-12T09:44:45.335637Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1feb1996027cb1db645c2f977228799c74843a2dfbbf62fb563ca6e0db981eff"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d084358a8a1a0176a861ab6bca441c2c06bdb1e420049d9fc18684961b2f7c05"
 ---
 
 # China Mosque Travel Guide: 709 Mosques, Beijing Mosque List and Global Muslim Footprint Map

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Islamic Finance Critique, Riba Debate and Banking Ethics"
-source: "https://salaamalykum.com/article/2876"
-canonical_url: "https://salaamalykum.com/article/2876"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:24.644061Z"
-lastmod: "2026-06-12T09:44:24.644061Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6cbb292f3bdf72c9325146e45f212822b19672372faec3cbf4d7fc3c48b72005"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3aaa98dabfec6be7d7a970cfd2a6145db2c931b6b62c6da079eeae9eac7dd9b0"
 ---
 
 # Muslim Knowledge Guide China: Islamic Finance Critique, Riba Debate and Banking Ethics

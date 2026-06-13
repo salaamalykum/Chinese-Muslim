@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Mosque Near Me Tehran: Vali-e-Asr Mosque, Modern Islamic Architecture and Quiet Prayer Space"
-source: "https://salaamalykum.com/article/2956"
-canonical_url: "https://salaamalykum.com/article/2956"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:49.992507Z"
-lastmod: "2026-06-12T09:44:49.992507Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2173fd2e3d87ece49a6665a7ce33e989f8c6032094e181497ca27af2ecbfb410"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f811ee87a61b8cf1b0d0f784e24f6a919340c0639872e6bd37eb6595f9ad672c"
 ---
 
 # Mosque Near Me Tehran: Vali-e-Asr Mosque, Modern Islamic Architecture and Quiet Prayer Space

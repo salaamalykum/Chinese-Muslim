@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food in Beijing: Local Muslim Restaurants, Hui Snacks and Halal Food Map 22"
-source: "https://salaamalykum.com/article/2770"
-canonical_url: "https://salaamalykum.com/article/2770"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:03.368486Z"
-lastmod: "2026-06-12T09:44:03.368486Z"
-lang: "zh-CN"
-tags: []
-content_hash: "13ade6f8d02dea69f1714dff4a781ea233e037237f9a490c1ccefa62a6b284ce"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "68c7fe845a4bc9d7fc4de2e61cde633ea010cb8e1abe60bab38231dc20980b5e"
 ---
 
 # Best Halal Food in Beijing: Local Muslim Restaurants, Hui Snacks and Halal Food Map 22

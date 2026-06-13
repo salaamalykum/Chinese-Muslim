@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide Qinghai: Salar Eid al-Adha, Qurban and Real Halal Family Traditions"
-source: "https://salaamalykum.com/article/2776"
-canonical_url: "https://salaamalykum.com/article/2776"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:29.734193Z"
-lastmod: "2026-06-12T09:44:29.734193Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d90b78caf8f5beb8133cba4a5a2d4b2037070c71b4acee24aed6c371ff4f3f58"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ae1c1fe9fd946a9bf573cceb1161e2c489fcdbac1d748d748ca0d606069ef0eb"
 ---
 
 # Muslim Life Guide Qinghai: Salar Eid al-Adha, Qurban and Real Halal Family Traditions

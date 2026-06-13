@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Top Halal Restaurants Beijing: Xinjiang Yellow Noodles, Xunji Courtyard Hot Pot and Muslim Food Culture"
-source: "https://salaamalykum.com/article/2816"
-canonical_url: "https://salaamalykum.com/article/2816"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:20.672428Z"
-lastmod: "2026-06-12T09:44:20.672428Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2012b965cb496fc8b30280c2fccc8e0a4a3218c66c1503ea24752b51773f8a53"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "13d006116c26dc4eef8025dc5b600f8b7f9fe54fe3b0329ccf9f43fdbdc3404b"
 ---
 
 # Top Halal Restaurants Beijing: Xinjiang Yellow Noodles, Xunji Courtyard Hot Pot and Muslim Food Culture

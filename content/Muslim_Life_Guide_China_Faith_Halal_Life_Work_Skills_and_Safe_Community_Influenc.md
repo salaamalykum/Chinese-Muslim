@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide China: Faith, Halal Life, Work Skills and Safe Community Influence"
-source: "https://salaamalykum.com/article/3059"
-canonical_url: "https://salaamalykum.com/article/3059"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:01.260630Z"
-lastmod: "2026-06-12T09:44:01.260630Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b0eafdbbf357c3e7fbe16a866200cb5c7c4cb8c4fc63311d42e238dd02a71997"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "58e3b0552a25a5edf6c87e466739e7b78373a40e18cf32c33dbf64e1fb5cb4a7"
 ---
 
 # Muslim Life Guide China: Faith, Halal Life, Work Skills and Safe Community Influence

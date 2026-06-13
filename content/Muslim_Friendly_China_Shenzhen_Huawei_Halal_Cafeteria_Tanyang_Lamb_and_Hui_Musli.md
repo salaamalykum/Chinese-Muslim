@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly China: Shenzhen Huawei Halal Cafeteria, Tanyang Lamb and Hui Muslim Community"
-source: "https://salaamalykum.com/article/2811"
-canonical_url: "https://salaamalykum.com/article/2811"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:04.043314Z"
-lastmod: "2026-06-12T09:44:04.043314Z"
-lang: "zh-CN"
-tags: []
-content_hash: "78ec96ca1bd7c5a4c5a23292f7a0d800358fd6a1b809f6b6d7acf86d14302d67"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8d5fb2a23cbc068bae000329bdd6eca71c3f5be7ae40436927e6fff61ea3a20c"
 ---
 
 # Muslim Friendly China: Shenzhen Huawei Halal Cafeteria, Tanyang Lamb and Hui Muslim Community

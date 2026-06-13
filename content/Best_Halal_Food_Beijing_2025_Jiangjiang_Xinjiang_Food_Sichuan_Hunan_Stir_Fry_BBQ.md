@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing 2025: Jiangjiang Xinjiang Food, Sichuan-Hunan Stir-Fry, BBQ and Muslim Snacks"
-source: "https://salaamalykum.com/article/2912"
-canonical_url: "https://salaamalykum.com/article/2912"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:16.830470Z"
-lastmod: "2026-06-12T09:44:16.830470Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6ed8600c42c7eaf676c7064c01716e15fb3323dceaf260c2cf50f3e89a5ed5da"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e56a6c454fac18856b45f17295681ad1eb3c9fcff7191fd971ca513f5b35b5b5"
 ---
 
 # Best Halal Food Beijing 2025: Jiangjiang Xinjiang Food, Sichuan-Hunan Stir-Fry, BBQ and Muslim Snacks

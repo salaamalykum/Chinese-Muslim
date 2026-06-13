@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Chengdu: Qingbaijiang Hui Muslim Area and Pengzhou Travel Notes"
-source: "https://salaamalykum.com/article/2835"
-canonical_url: "https://salaamalykum.com/article/2835"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:16.517050Z"
-lastmod: "2026-06-12T09:44:16.517050Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2ef77be632778716642a5f13469f85a15b264ffccd16500bb6ebba202f35433d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e58c7291ec03f17c22092fdfc8b06f6a559c9f002e9690e60a68fa9869a82b8a"
 ---
 
 # Halal Food Guide Chengdu: Qingbaijiang Hui Muslim Area and Pengzhou Travel Notes

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide in the Muslim World: Qunut Nazilah Dua for Oppressed Muslims in War"
-source: "https://salaamalykum.com/article/2784"
-canonical_url: "https://salaamalykum.com/article/2784"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:36.549414Z"
-lastmod: "2026-06-12T09:44:36.549414Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3c080722d25ff59943366ee363d8cd52fcde07b8b33bca5498a3d52609351043"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e3b1b9c41200cde318b5426620c06acdde5dd7356f7cb1c9f5d581151ce69ea6"
 ---
 
 # Muslim Knowledge Guide in the Muslim World: Qunut Nazilah Dua for Oppressed Muslims in War

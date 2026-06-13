@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant Beijing: Hotpot, Pakistani Food, Ningxia Cuisine and Hui Restaurants"
-source: "https://salaamalykum.com/article/2795"
-canonical_url: "https://salaamalykum.com/article/2795"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:52.939072Z"
-lastmod: "2026-06-12T09:43:52.939072Z"
-lang: "zh-CN"
-tags: []
-content_hash: "80349187cf15ccc6625b97cd47f7eb1249bb43e5db25158782b4fa59fdf438b5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "74959138f7fe3f525b94d4b82d39fa4693671a03729e9312fc2e3d311fd66727"
 ---
 
 # Best Halal Restaurant Beijing: Hotpot, Pakistani Food, Ningxia Cuisine and Hui Restaurants

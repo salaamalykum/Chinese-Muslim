@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Tunisia Kairouan: Great Mosque, Jumu'ah and Islamic Heritage (Part 1)"
-source: "https://salaamalykum.com/article/3001"
-canonical_url: "https://salaamalykum.com/article/3001"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:26.945298Z"
-lastmod: "2026-06-12T09:44:26.945298Z"
-lang: "zh-CN"
-tags: []
-content_hash: "81bf2e93518ef87a416f9a1791750c2b90d952b7f1d3ab261392b1530c9ccf31"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ed2939869dc6d806e8fa135575a567e37b31c2ee808c5254d5e835f9c0577424"
 ---
 
 # Muslim Travel Guide Tunisia Kairouan: Great Mosque, Jumu'ah and Islamic Heritage (Part 1)

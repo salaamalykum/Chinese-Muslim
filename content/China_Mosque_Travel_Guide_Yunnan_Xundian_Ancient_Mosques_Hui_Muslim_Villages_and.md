@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Yunnan: Xundian Ancient Mosques, Hui Muslim Villages and Long March Route"
-source: "https://salaamalykum.com/article/2850"
-canonical_url: "https://salaamalykum.com/article/2850"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:08.119273Z"
-lastmod: "2026-06-12T09:44:08.119273Z"
-lang: "zh-CN"
-tags: []
-content_hash: "578690ef2642ce5f5445bfd5fd56d291d7a286c6779e45feba23c3a169cdccdf"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "da950fbfa2be0e75695515c9609a2d7936d35d7f860dd2ef8f5e64c7a1ed0e95"
 ---
 
 # China Mosque Travel Guide Yunnan: Xundian Ancient Mosques, Hui Muslim Villages and Long March Route

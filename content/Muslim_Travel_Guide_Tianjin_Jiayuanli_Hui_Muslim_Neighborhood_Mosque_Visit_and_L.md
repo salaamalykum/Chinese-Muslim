@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Tianjin Jiayuanli: Hui Muslim Neighborhood, Mosque Visit and Local Food"
-source: "https://salaamalykum.com/article/2969"
-canonical_url: "https://salaamalykum.com/article/2969"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:14.909007Z"
-lastmod: "2026-06-12T09:44:14.909007Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9421edeeb3a70a34d2a2f3014fc3ff6c7f382751c6751a735fb7571f07c3e356"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "bc14f62efb544f960bd30c915c501769c4a0a4a19eea68f5d172a72f19eedd79"
 ---
 
 # Muslim Travel Guide Tianjin Jiayuanli: Hui Muslim Neighborhood, Mosque Visit and Local Food

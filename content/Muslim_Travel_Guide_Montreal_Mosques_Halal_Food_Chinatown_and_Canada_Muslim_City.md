@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Montreal: Mosques, Halal Food, Chinatown and Canada Muslim City Walk"
-source: "https://salaamalykum.com/article/2868"
-canonical_url: "https://salaamalykum.com/article/2868"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:21.572826Z"
-lastmod: "2026-06-12T09:44:21.572826Z"
-lang: "zh-CN"
-tags: []
-content_hash: "71305fabe2975119b9bf978c312ae90b0660d49769fa015a2c8138d85ce59524"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "61b481ef167ad077ff9d6ba4a31b2d5ea9ccb38c28e594724e4645afacaa1921"
 ---
 
 # Muslim Travel Guide Montreal: Mosques, Halal Food, Chinatown and Canada Muslim City Walk

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Ningxia: Najia Lou, Tongxinchun Wedding Banquet and Minning Mosque Food"
-source: "https://salaamalykum.com/article/2826"
-canonical_url: "https://salaamalykum.com/article/2826"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:12.786499Z"
-lastmod: "2026-06-12T09:44:12.786499Z"
-lang: "zh-CN"
-tags: []
-content_hash: "bdb0c13a8d0a21cb19b021478820a1462ebdf775ca9afa6e2375131e24bb4340"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "82d479a45f09550eef30171f79ab659afa0a593aa6e632c30ac58115466eee46"
 ---
 
 # Halal Food Guide Ningxia: Najia Lou, Tongxinchun Wedding Banquet and Minning Mosque Food

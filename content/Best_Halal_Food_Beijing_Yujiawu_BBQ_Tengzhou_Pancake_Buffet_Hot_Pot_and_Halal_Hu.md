@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Yujiawu BBQ, Tengzhou Pancake, Buffet Hot Pot and Halal Hunan Food"
-source: "https://salaamalykum.com/article/2903"
-canonical_url: "https://salaamalykum.com/article/2903"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:19.775055Z"
-lastmod: "2026-06-12T09:44:19.775055Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fc0cacafc696c8582d1d3aeb652f00747e6146b6cf32389c591fda872fbf7538"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "87711e54a73b5c0ceaf769c8e0bf6d51e8089d2ed984c6a7b8e1a196ea26145d"
 ---
 
 # Best Halal Food Beijing: Yujiawu BBQ, Tengzhou Pancake, Buffet Hot Pot and Halal Hunan Food

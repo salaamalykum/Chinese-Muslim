@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Malaysia: 8 Beautiful Kuala Lumpur Mosques, Pink Mosque and Blue Mosque"
-source: "https://salaamalykum.com/article/2859"
-canonical_url: "https://salaamalykum.com/article/2859"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:10.663535Z"
-lastmod: "2026-06-12T09:44:10.663535Z"
-lang: "zh-CN"
-tags: []
-content_hash: "29a73e8cf855703846ffd64332af02034065f87609a2f15cb9b055378f3d76e2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d63af28be609a21f33962488f331deaf0c2d18e502734d0ad1c636c7a6adc043"
 ---
 
 # Muslim Travel Guide Malaysia: 8 Beautiful Kuala Lumpur Mosques, Pink Mosque and Blue Mosque

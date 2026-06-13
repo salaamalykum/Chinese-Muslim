@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Kashgar Id Kah Mosque, Abakh Khoja Mazar and Uyghur Heritage"
-source: "https://salaamalykum.com/article/2821"
-canonical_url: "https://salaamalykum.com/article/2821"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:30.143701Z"
-lastmod: "2026-06-12T09:44:30.143701Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7a1cdb66b5e29679d2c2ad9c30c6789f3dc4780d9f1bbd894dd6db7ae769a9a0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "33c37b0386d1869e4832786e83de67c5ae8e279d1cb61b7211c9280af0524179"
 ---
 
 # Muslim Travel Guide China: Kashgar Id Kah Mosque, Abakh Khoja Mazar and Uyghur Heritage

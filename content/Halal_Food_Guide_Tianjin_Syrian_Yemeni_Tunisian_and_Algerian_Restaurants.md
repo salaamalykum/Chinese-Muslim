@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Tianjin: Syrian, Yemeni, Tunisian and Algerian Restaurants"
-source: "https://salaamalykum.com/article/3004"
-canonical_url: "https://salaamalykum.com/article/3004"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:15.947833Z"
-lastmod: "2026-06-12T09:44:15.947833Z"
-lang: "zh-CN"
-tags: []
-content_hash: "865ac6427206a9362934b795215616bd96ad146426c54291311d410164788416"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8880bab115577ed70cfd4354f8afb8a36607aab8689918dfd5c9b19b4257e552"
 ---
 
 # Halal Food Guide Tianjin: Syrian, Yemeni, Tunisian and Algerian Restaurants

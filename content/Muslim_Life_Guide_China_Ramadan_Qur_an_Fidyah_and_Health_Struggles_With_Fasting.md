@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide China Ramadan: Qur'an, Fidyah and Health Struggles With Fasting"
-source: "https://salaamalykum.com/article/2923"
-canonical_url: "https://salaamalykum.com/article/2923"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:02.895120Z"
-lastmod: "2026-06-12T09:45:02.895120Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7b13fc71eff77d3a6bbe703303dd77411af75b3edf648e4e250a3a8d664b0f06"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6da235f28d335b332c7eb7e51e2b3d715b1287bd4c115ce3ab5db40176cbfae0"
 ---
 
 # Muslim Life Guide China Ramadan: Qur'an, Fidyah and Health Struggles With Fasting

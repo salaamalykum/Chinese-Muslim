@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Authentic Turkish Restaurant, Halal Hot Pot and Mongolian Cuisine"
-source: "https://salaamalykum.com/article/2877"
-canonical_url: "https://salaamalykum.com/article/2877"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:49.807534Z"
-lastmod: "2026-06-12T09:44:49.807534Z"
-lang: "zh-CN"
-tags: []
-content_hash: "96a0ed61ccaa1552c4e45c09d897fb37dbda84258d725679eb52c0902e0ff105"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "15df18d663d49c9461827fe1ce0eac8570b5cee375a9ba8bb12fb57e714a091f"
 ---
 
 # Best Halal Food Beijing: Authentic Turkish Restaurant, Halal Hot Pot and Mongolian Cuisine

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Malaysia: Redang Island, Terengganu Crystal Mosque and Halal Resort Food"
-source: "https://salaamalykum.com/article/2856"
-canonical_url: "https://salaamalykum.com/article/2856"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:54.253737Z"
-lastmod: "2026-06-12T09:43:54.253737Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9d82f0125a4918b5ba248cd986a58e607cf126000611a03bb11100adc2ce6b70"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e513afc6667acaed569075fbf8726a725abf10ec3af6fbdf05900a9c3c208ab3"
 ---
 
 # Muslim Travel Guide Malaysia: Redang Island, Terengganu Crystal Mosque and Halal Resort Food

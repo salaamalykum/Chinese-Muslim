@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Beijing Ramadan 2025: Balizhuang Mosque, Iftar and Community Review"
-source: "https://salaamalykum.com/article/3008"
-canonical_url: "https://salaamalykum.com/article/3008"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:06.926929Z"
-lastmod: "2026-06-12T09:44:06.926929Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1c39d699e971e8e69ee133ffbd2891bb164072700967bcf97a092578a8568362"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "12b16b32aa8769c710f4f5bd23bef9d416e0f3f3d81dd4ebbc5985c7515507b2"
 ---
 
 # Muslim Travel Guide Beijing Ramadan 2025: Balizhuang Mosque, Iftar and Community Review

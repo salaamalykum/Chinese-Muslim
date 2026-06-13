@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Ramadan Muslim Life Guide in the Muslim World: Last Ten Nights, Laylat al-Qadr and Dua"
-source: "https://salaamalykum.com/article/2781"
-canonical_url: "https://salaamalykum.com/article/2781"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:43.687126Z"
-lastmod: "2026-06-12T09:44:43.687126Z"
-lang: "zh-CN"
-tags: []
-content_hash: "659930a6e0342dd74dfcb38780e73796be8f27059701a450d8d0685c4c1f2924"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "33d1435fac05662fffe931ef25a20ebcb3cf8ffb7911b79dde925891918aa42c"
 ---
 
 # Ramadan Muslim Life Guide in the Muslim World: Last Ten Nights, Laylat al-Qadr and Dua

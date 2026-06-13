@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Cairo: Museum of Islamic Art and Muslim Heritage (Part 1)"
-source: "https://salaamalykum.com/article/2991"
-canonical_url: "https://salaamalykum.com/article/2991"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:56.494279Z"
-lastmod: "2026-06-12T09:44:56.494279Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7ea433cf2577266c043236b5160d970d1bd5c758e62cf6fd5ad37b94fb1e05b4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "2a22f3faf6461ae0f80e665a4134028fb8bf6ce54dddc78ede3ba6597f3a169b"
 ---
 
 # Muslim History Guide Cairo: Museum of Islamic Art and Muslim Heritage (Part 1)

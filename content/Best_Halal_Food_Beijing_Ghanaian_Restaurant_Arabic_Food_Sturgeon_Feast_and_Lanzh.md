@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Ghanaian Restaurant, Arabic Food, Sturgeon Feast and Lanzhou Beef Noodles"
-source: "https://salaamalykum.com/article/2869"
-canonical_url: "https://salaamalykum.com/article/2869"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:51.452398Z"
-lastmod: "2026-06-12T09:44:51.452398Z"
-lang: "zh-CN"
-tags: []
-content_hash: "48920de6b4ee7f8ed1c46056ba514ffd069e9b73f35b5e53602e0dbb33a4f9c9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1696c9fbd66b1d5ef3accb7034e0e03626498cd6f09d7b0c02ace4ef0a1411cf"
 ---
 
 # Best Halal Food Beijing: Ghanaian Restaurant, Arabic Food, Sturgeon Feast and Lanzhou Beef Noodles

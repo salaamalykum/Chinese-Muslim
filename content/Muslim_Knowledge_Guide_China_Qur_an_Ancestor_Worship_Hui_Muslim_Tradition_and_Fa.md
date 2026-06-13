@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Qur'an, Ancestor Worship, Hui Muslim Tradition and Faith Reform"
-source: "https://salaamalykum.com/article/2933"
-canonical_url: "https://salaamalykum.com/article/2933"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:47.895870Z"
-lastmod: "2026-06-12T09:44:47.895870Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2a39c92c1574107a7c712d98754ccb0f66f1e2d69895f6fbbeed88c19e7c95b6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f1076b2a96e3c94f714e6d2c02fbd6617c4eb51157a3c440ce68cced49be529e"
 ---
 
 # Muslim Knowledge Guide China: Qur'an, Ancestor Worship, Hui Muslim Tradition and Faith Reform

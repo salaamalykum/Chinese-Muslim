@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing Changying: Jintianwang BBQ, Lanzhou Beef Noodles and Turkmenistan Food"
-source: "https://salaamalykum.com/article/2910"
-canonical_url: "https://salaamalykum.com/article/2910"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:44.322781Z"
-lastmod: "2026-06-12T09:44:44.322781Z"
-lang: "zh-CN"
-tags: []
-content_hash: "add4d5729ffadf0b871dde9c31019612d8942c876da54f3439646e43cee2d656"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "10afa3d117129542c8e1b83de739797196d2baec4cd8c255c028e4dafe86915f"
 ---
 
 # Best Halal Food Beijing Changying: Jintianwang BBQ, Lanzhou Beef Noodles and Turkmenistan Food

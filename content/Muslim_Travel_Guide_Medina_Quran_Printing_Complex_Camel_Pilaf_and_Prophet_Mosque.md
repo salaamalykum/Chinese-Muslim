@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Medina: Quran Printing Complex, Camel Pilaf and Prophet Mosque Hotels"
-source: "https://salaamalykum.com/article/2832"
-canonical_url: "https://salaamalykum.com/article/2832"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:42.308336Z"
-lastmod: "2026-06-12T09:44:42.308336Z"
-lang: "zh-CN"
-tags: []
-content_hash: "56e8014d5141cbb9f464169bc8fdbfd5f5dba465626066c178b8aacc97404940"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "71c59370ccbf5e396f853be02d9c3f77cc04227993d2bd00159f790ff56e419d"
 ---
 
 # Muslim Travel Guide Medina: Quran Printing Complex, Camel Pilaf and Prophet Mosque Hotels

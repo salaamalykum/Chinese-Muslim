@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Urumqi Spring Festival: Hui Muslim Life, Jumu'ah and Family Visits"
-source: "https://salaamalykum.com/article/2990"
-canonical_url: "https://salaamalykum.com/article/2990"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:58.160796Z"
-lastmod: "2026-06-12T09:44:58.160796Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a2ddaf1a013087ee745c9516671dcbb7e5272451894f0ec5fe52644df6c6ff7a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3e00e6a1aace64c7fede07af6590356a7212aa9caa46db4576a1f8037883f074"
 ---
 
 # Muslim Travel Guide Urumqi Spring Festival: Hui Muslim Life, Jumu'ah and Family Visits

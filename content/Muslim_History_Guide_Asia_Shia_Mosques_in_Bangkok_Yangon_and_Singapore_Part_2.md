@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Asia: Shia Mosques in Bangkok, Yangon and Singapore (Part 2)"
-source: "https://salaamalykum.com/article/3025"
-canonical_url: "https://salaamalykum.com/article/3025"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:39.309431Z"
-lastmod: "2026-06-12T09:44:39.309431Z"
-lang: "zh-CN"
-tags: []
-content_hash: "366d9b89cf45ddaa67d4e854ca8dd21fe30b97c567a23dff51000454a8f01cd2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c9c91302f48bb85533e74ae9523c72c70e60ebd9722ba2576305e3578fa6ca64"
 ---
 
 # Muslim History Guide Asia: Shia Mosques in Bangkok, Yangon and Singapore (Part 2)

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Authentic Halal Chinese Food Beijing: Xinjiang Restaurant, Yunnan Dishes & Niujie Snacks"
-source: "https://salaamalykum.com/article/3032"
-canonical_url: "https://salaamalykum.com/article/3032"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:43.496682Z"
-lastmod: "2026-06-12T09:44:43.496682Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4a51e2aef75dd0ae0dc7d0dd2e5e10b33ec0f554b12fbf98be9af87276b9aaee"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "af663170f0ce1bc5d01c1585ea5d73e7cbd2ded8371d27413fcc7018f9e5424d"
 ---
 
 # Authentic Halal Chinese Food Beijing: Xinjiang Restaurant, Yunnan Dishes & Niujie Snacks

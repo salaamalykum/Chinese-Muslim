@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Nanjing 2025: Maxingxing, Qifangge, Duck Shops, Potstickers and Islamic Heritage"
-source: "https://salaamalykum.com/article/2907"
-canonical_url: "https://salaamalykum.com/article/2907"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:14.423029Z"
-lastmod: "2026-06-12T09:44:14.423029Z"
-lang: "zh-CN"
-tags: []
-content_hash: "23aec5f6dbe982fd1bce549797c4cc22bec6e64eb09ac6d732ef45c48eab5b7e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e9e1267c5b5eeb062b4aa066460f80a5992c10850e0d092c1ea3d0134f8b0a38"
 ---
 
 # Best Halal Food Nanjing 2025: Maxingxing, Qifangge, Duck Shops, Potstickers and Islamic Heritage

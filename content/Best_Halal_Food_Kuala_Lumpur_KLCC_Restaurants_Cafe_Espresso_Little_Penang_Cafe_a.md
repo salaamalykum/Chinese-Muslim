@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: KLCC Restaurants, Cafe Espresso, Little Penang Cafe and De Wan"
-source: "https://salaamalykum.com/article/2898"
-canonical_url: "https://salaamalykum.com/article/2898"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:19.392008Z"
-lastmod: "2026-06-12T09:44:19.392008Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7d907a70757932020c51dfb39ba52fd1bd13938819c22f1e963603dc9ab38446"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "48254b99eb85e0052549ecc4b327ac2ee42ffc344d91f00d221af499acf77a1f"
 ---
 
 # Best Halal Food Kuala Lumpur: KLCC Restaurants, Cafe Espresso, Little Penang Cafe and De Wan

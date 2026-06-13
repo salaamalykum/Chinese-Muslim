@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Tunisia Medina: Historic Guesthouses, Halal Food and Old City Markets (Part 1)"
-source: "https://salaamalykum.com/article/3009"
-canonical_url: "https://salaamalykum.com/article/3009"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:07.907085Z"
-lastmod: "2026-06-12T09:44:07.907085Z"
-lang: "zh-CN"
-tags: []
-content_hash: "974fbb79ebe3e2cd4af3547fe7e0ce263b6a86f9fa50635893e93c69a4d63f69"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b958e755dcaafc888983750d1cb43b09a63068a91825f11905711bc27180e4b4"
 ---
 
 # Muslim Travel Guide Tunisia Medina: Historic Guesthouses, Halal Food and Old City Markets (Part 1)

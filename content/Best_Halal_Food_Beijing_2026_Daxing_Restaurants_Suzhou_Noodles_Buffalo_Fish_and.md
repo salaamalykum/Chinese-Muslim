@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing 2026: Daxing Restaurants, Suzhou Noodles, Buffalo Fish and Yogurt Shaved Ice"
-source: "https://salaamalykum.com/article/2928"
-canonical_url: "https://salaamalykum.com/article/2928"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:52.161168Z"
-lastmod: "2026-06-12T09:44:52.161168Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3ac86bfbc1db879de063397d81b4c5a3f722243729adf42bc543d5bee4e3f5ac"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "99d117ec63342b761201ac79e9f5c4bd7a71a750830feaf251866b299ef4cfca"
 ---
 
 # Best Halal Food Beijing 2026: Daxing Restaurants, Suzhou Noodles, Buffalo Fish and Yogurt Shaved Ice

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Chongqing Hot Pot, Temple of Heaven Snacks and Beef Ball Noodles"
-source: "https://salaamalykum.com/article/3065"
-canonical_url: "https://salaamalykum.com/article/3065"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:24.381647Z"
-lastmod: "2026-06-12T09:44:24.381647Z"
-lang: "zh-CN"
-tags: []
-content_hash: "88619f82c0f5ee4a859ded99c1556930d4272997561fc96456ad562851556700"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "91a6fb74b1e26c36921610eef6054bfb82a573924b8ff71918d3c1ebb44efb62"
 ---
 
 # Best Halal Food Beijing: Chongqing Hot Pot, Temple of Heaven Snacks and Beef Ball Noodles

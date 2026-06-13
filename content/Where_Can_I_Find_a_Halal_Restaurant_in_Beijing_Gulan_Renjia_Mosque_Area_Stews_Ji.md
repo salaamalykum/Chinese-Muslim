@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Where Can I Find a Halal Restaurant in Beijing: Gulan Renjia, Mosque-Area Stews & Jingnan Hotpot"
-source: "https://salaamalykum.com/article/3036"
-canonical_url: "https://salaamalykum.com/article/3036"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:32.191389Z"
-lastmod: "2026-06-12T09:44:32.191389Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c26b3110115e479130d647cfb2cca3c7a80ecdd3e1e512821922551b00628c88"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ea21b8ac1ed8eaa6e73760bba9d7ce1da5a770c99480a062ae7c8c9902acf465"
 ---
 
 # Where Can I Find a Halal Restaurant in Beijing: Gulan Renjia, Mosque-Area Stews & Jingnan Hotpot

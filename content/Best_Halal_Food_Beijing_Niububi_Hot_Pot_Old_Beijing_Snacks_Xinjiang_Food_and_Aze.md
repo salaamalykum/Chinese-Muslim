@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Niububi Hot Pot, Old Beijing Snacks, Xinjiang Food and Azerbaijani Dumplings"
-source: "https://salaamalykum.com/article/2893"
-canonical_url: "https://salaamalykum.com/article/2893"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:00.327825Z"
-lastmod: "2026-06-12T09:45:00.327825Z"
-lang: "zh-CN"
-tags: []
-content_hash: "83d104bcc22d05cd1dcd92e7d0d16d66bc22d27f50fa3d4780538be58b3ef7e9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "cd119c4c914f64eeff7fb45fdce7bd9c78eb8159694b749007e6c8494b51d7c7"
 ---
 
 # Best Halal Food Beijing: Niububi Hot Pot, Old Beijing Snacks, Xinjiang Food and Azerbaijani Dumplings

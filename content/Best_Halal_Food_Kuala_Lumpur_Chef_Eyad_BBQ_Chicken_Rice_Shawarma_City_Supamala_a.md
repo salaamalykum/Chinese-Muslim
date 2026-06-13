@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Chef Eyad BBQ, Chicken Rice, Shawarma City, Supamala and Nando's"
-source: "https://salaamalykum.com/article/2915"
-canonical_url: "https://salaamalykum.com/article/2915"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:14.228389Z"
-lastmod: "2026-06-12T09:44:14.228389Z"
-lang: "zh-CN"
-tags: []
-content_hash: "8475e69a29edbca52a79305627533dfb3e3f29eb593f8842ff08c5f090f97198"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9dd460c743c61eba929c76916c1c7afe5ce6fdd9860fb086488dde5dff1db96b"
 ---
 
 # Best Halal Food Kuala Lumpur: Chef Eyad BBQ, Chicken Rice, Shawarma City, Supamala and Nando's

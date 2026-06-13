@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Singapore Little India: Angullia Mosque, Gujarati Muslim Heritage and Prayer Hall"
-source: "https://salaamalykum.com/article/2951"
-canonical_url: "https://salaamalykum.com/article/2951"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:53.985563Z"
-lastmod: "2026-06-12T09:43:53.985563Z"
-lang: "zh-CN"
-tags: []
-content_hash: "98d3d3db2f595ef4c68131479001a17a59836d201e113f980b03ffbac4127608"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1f5ec4e8ecb604d60bab855eef20984d1e4d05a940bd84bab020aab5e03ea7e8"
 ---
 
 # Muslim Travel Guide Singapore Little India: Angullia Mosque, Gujarati Muslim Heritage and Prayer Hall

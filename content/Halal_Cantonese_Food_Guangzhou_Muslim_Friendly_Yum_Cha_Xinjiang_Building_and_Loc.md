@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Cantonese Food Guangzhou: Muslim-Friendly Yum Cha, Xinjiang Building and Local Dim Sum"
-source: "https://salaamalykum.com/article/3063"
-canonical_url: "https://salaamalykum.com/article/3063"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:43.012239Z"
-lastmod: "2026-06-12T09:44:43.012239Z"
-lang: "zh-CN"
-tags: []
-content_hash: "be926302442c13df5276c5384069079ce45eee8d52ec2e6e7d878a9a028db5f5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "5ebb638b86b62716c4081fa2c2816a55215592bf86b11e048432653a3a50e8e7"
 ---
 
 # Halal Cantonese Food Guangzhou: Muslim-Friendly Yum Cha, Xinjiang Building and Local Dim Sum

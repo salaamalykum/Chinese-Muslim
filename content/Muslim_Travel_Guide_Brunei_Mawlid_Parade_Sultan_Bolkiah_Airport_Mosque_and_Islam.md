@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Brunei: Mawlid Parade, Sultan Bolkiah, Airport Mosque and Islamic Life"
-source: "https://salaamalykum.com/article/2881"
-canonical_url: "https://salaamalykum.com/article/2881"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:45.620908Z"
-lastmod: "2026-06-12T09:44:45.620908Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a68664334c4dd2eda4bf272e6fac4ea54efd54ab63fc7dead15fe8f8d1acb482"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "fe18a096c8be75533dda5b01ca0827d97091b5a73107319821e208100944eb96"
 ---
 
 # Muslim Travel Guide Brunei: Mawlid Parade, Sultan Bolkiah, Airport Mosque and Islamic Life

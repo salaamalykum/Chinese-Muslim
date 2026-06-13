@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Taiwan: Muslim-Friendly Restaurants and Halal Dining Memories (Part 2)"
-source: "https://salaamalykum.com/article/2993"
-canonical_url: "https://salaamalykum.com/article/2993"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:21.370441Z"
-lastmod: "2026-06-12T09:44:21.370441Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2664812e27f913ac675a1cfdcba09fc6019beb25218dc64d4ca987343d04b040"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "324786925e3c69a59383a21404a94e7229be2870abd415fe05a86b950e6614bc"
 ---
 
 # Halal Food Guide Taiwan: Muslim-Friendly Restaurants and Halal Dining Memories (Part 2)

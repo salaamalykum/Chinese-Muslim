@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Maliki School Halal Food Rules, Frogs, Seafood and Meat"
-source: "https://salaamalykum.com/article/2879"
-canonical_url: "https://salaamalykum.com/article/2879"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:05.918583Z"
-lastmod: "2026-06-12T09:44:05.918583Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f93e82e73cfeb90c007291420b4da7863d9a547f8752ab2825b905a5559359bc"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8f6d02db81961f5aa4270a7b38e69feb32cc933836238229cf1291662e4ae068"
 ---
 
 # Muslim Knowledge Guide China: Maliki School Halal Food Rules, Frogs, Seafood and Meat

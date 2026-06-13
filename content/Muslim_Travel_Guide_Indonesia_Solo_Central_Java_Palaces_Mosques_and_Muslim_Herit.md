@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Indonesia Solo: Central Java Palaces, Mosques and Muslim Heritage"
-source: "https://salaamalykum.com/article/2968"
-canonical_url: "https://salaamalykum.com/article/2968"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:30.939919Z"
-lastmod: "2026-06-12T09:44:30.939919Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fdc699ed94c23041f989d613cb6957f7c911b499930dda09f0d35957955282af"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "468d68b6ca5a12d3a236dc4a51c9401d86c42cf5f007c0941cad783e39d48f2c"
 ---
 
 # Muslim Travel Guide Indonesia Solo: Central Java Palaces, Mosques and Muslim Heritage

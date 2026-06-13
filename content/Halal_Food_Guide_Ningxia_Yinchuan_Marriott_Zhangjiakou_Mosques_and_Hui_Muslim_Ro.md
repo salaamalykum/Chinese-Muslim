@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Ningxia: Yinchuan Marriott, Zhangjiakou Mosques and Hui Muslim Road Trip"
-source: "https://salaamalykum.com/article/2827"
-canonical_url: "https://salaamalykum.com/article/2827"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:42.717517Z"
-lastmod: "2026-06-12T09:44:42.717517Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4517d8ec3ffbbe14efd2c62566b7be5f8bc07e34f682acf66a1253af34203149"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "feb19e11cf3bab217d9aec98c06aa32025b0430cd3278fb0688a49afc6721745"
 ---
 
 # Halal Food Guide Ningxia: Yinchuan Marriott, Zhangjiakou Mosques and Hui Muslim Road Trip

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Kashgar Bazi Noodles, Nail-Head Meat Pies, Braised Noodles and Lamb Soup"
-source: "https://salaamalykum.com/article/2899"
-canonical_url: "https://salaamalykum.com/article/2899"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:00.607950Z"
-lastmod: "2026-06-12T09:44:00.607950Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b89e763c17cb3b38d6ae766e51d18db2a8ca597c50fa71411a78883430c70254"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "80f3ec2bb2013e7630e0934398353a99e0543778245ee5761a275768fa1265e3"
 ---
 
 # Best Halal Food Beijing: Kashgar Bazi Noodles, Nail-Head Meat Pies, Braised Noodles and Lamb Soup

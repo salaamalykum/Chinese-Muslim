@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Indonesia Java: Kudus Mosques, Old City Streets and Islamic Heritage"
-source: "https://salaamalykum.com/article/2961"
-canonical_url: "https://salaamalykum.com/article/2961"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:44.583029Z"
-lastmod: "2026-06-12T09:44:44.583029Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f606e8b1e12cd07001df661e5c5e726eaaae045f98cdebf953786617fb634ef2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0512fe4e04cce37b36edef2c790666d8412e3328e84cb8179d8ffd44c6466dbd"
 ---
 
 # Muslim History Guide Indonesia Java: Kudus Mosques, Old City Streets and Islamic Heritage

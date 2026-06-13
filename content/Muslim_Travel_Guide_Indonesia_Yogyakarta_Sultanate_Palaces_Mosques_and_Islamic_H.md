@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Indonesia Yogyakarta: Sultanate Palaces, Mosques and Islamic Heritage"
-source: "https://salaamalykum.com/article/2967"
-canonical_url: "https://salaamalykum.com/article/2967"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:13.190839Z"
-lastmod: "2026-06-12T09:44:13.190839Z"
-lang: "zh-CN"
-tags: []
-content_hash: "127c33aec8411751f035a49dd6d9fac87dc7aee6d1ccd16a162bf9d534c72e63"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "978463a0941180298c2948cf63bad2d3a37a53896389cbf2773d615a4838f265"
 ---
 
 # Muslim Travel Guide Indonesia Yogyakarta: Sultanate Palaces, Mosques and Islamic Heritage

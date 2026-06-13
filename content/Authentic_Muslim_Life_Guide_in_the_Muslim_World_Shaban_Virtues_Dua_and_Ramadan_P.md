@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Authentic Muslim Life Guide in the Muslim World: Shaban Virtues, Dua and Ramadan Preparation"
-source: "https://salaamalykum.com/article/2778"
-canonical_url: "https://salaamalykum.com/article/2778"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:10.180291Z"
-lastmod: "2026-06-12T09:44:10.180291Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7655fd318588b22ec0553ebe28c5dec938e6f086cf723f742cc5a481ab319c08"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "721afd24652545988375331fae5f57b41598883f0be2269d0359478adad28229"
 ---
 
 # Authentic Muslim Life Guide in the Muslim World: Shaban Virtues, Dua and Ramadan Preparation

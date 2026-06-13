@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Southern Xinjiang Tajik Muslims, Pamir Plateau and Shia Heritage"
-source: "https://salaamalykum.com/article/2828"
-canonical_url: "https://salaamalykum.com/article/2828"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:32.779654Z"
-lastmod: "2026-06-12T09:44:32.779654Z"
-lang: "zh-CN"
-tags: []
-content_hash: "18de5171871fab39e72d4a25b0a2a2701da4d1359ca24fe1c5013f8e470886f7"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d31d96651cd5fe1d603c3ec41f005628a5cc8284198efc495f7d62f646fcc359"
 ---
 
 # Muslim Travel Guide China: Southern Xinjiang Tajik Muslims, Pamir Plateau and Shia Heritage

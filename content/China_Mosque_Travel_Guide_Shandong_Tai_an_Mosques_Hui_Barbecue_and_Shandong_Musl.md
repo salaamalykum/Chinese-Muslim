@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Shandong: Tai'an Mosques, Hui Barbecue and Shandong Muslim Food"
-source: "https://salaamalykum.com/article/2841"
-canonical_url: "https://salaamalykum.com/article/2841"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:04.449392Z"
-lastmod: "2026-06-12T09:44:04.449392Z"
-lang: "zh-CN"
-tags: []
-content_hash: "da990ef7219f84d82ebd54645a8452a433edf215c7e3f55915a9196eed21960a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a13138ff1913abfeb0e77b0496b36a4abf4399ea1ea801bd610b1edf1c78226f"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Mosques, Hui Barbecue and Shandong Muslim Food

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Muslim Travel Tips Shandong Linqing: Canal Mosques, Hui Streets and Muslim Heritage"
-source: "https://salaamalykum.com/article/2978"
-canonical_url: "https://salaamalykum.com/article/2978"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:51.089569Z"
-lastmod: "2026-06-12T09:43:51.089569Z"
-lang: "zh-CN"
-tags: []
-content_hash: "862a9d0ec8f82daf3b7cd293c099d17cb1ac9a45b6091828a8dd4e7a784437d2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "55c5b5b4bead2b689158274e1cd8003a8a548e50c53a46081dbdf6a8525df5f0"
 ---
 
 # China Muslim Travel Tips Shandong Linqing: Canal Mosques, Hui Streets and Muslim Heritage

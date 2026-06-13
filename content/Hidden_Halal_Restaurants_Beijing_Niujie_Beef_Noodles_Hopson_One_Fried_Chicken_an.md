@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Hidden Halal Restaurants Beijing: Niujie Beef Noodles, Hopson One Fried Chicken and Local Hot Pot"
-source: "https://salaamalykum.com/article/3066"
-canonical_url: "https://salaamalykum.com/article/3066"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:57.842310Z"
-lastmod: "2026-06-12T09:44:57.842310Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4df8dfbd0b9ad840c2f21a5c747dc7d8d85018d9a57b970d7a6d4b7dfcf783c9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "78d609dd5abd6e4552b91b101646dad6dc422fe8e50627db4f812ef52f758aff"
 ---
 
 # Hidden Halal Restaurants Beijing: Niujie Beef Noodles, Hopson One Fried Chicken and Local Hot Pot

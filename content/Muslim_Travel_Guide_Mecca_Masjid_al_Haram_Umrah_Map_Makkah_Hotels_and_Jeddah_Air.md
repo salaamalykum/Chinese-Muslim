@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Mecca: Masjid al-Haram, Umrah Map, Makkah Hotels and Jeddah Airport Food"
-source: "https://salaamalykum.com/article/2862"
-canonical_url: "https://salaamalykum.com/article/2862"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:06.729743Z"
-lastmod: "2026-06-12T09:44:06.729743Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5d967c3936ffb7a1e3ec763da69eb07f153b16d04e9041bc050dd07d357bb2c0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7af918304b170d636bf5426c9849bedd8dbfada91671e1f837ca4461b4e4be7e"
 ---
 
 # Muslim Travel Guide Mecca: Masjid al-Haram, Umrah Map, Makkah Hotels and Jeddah Airport Food

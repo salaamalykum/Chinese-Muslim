@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant in Guangzhou China: Xiaobei Halal Food, Cantonese Morning Tea and Middle Eastern Cuisine"
-source: "https://salaamalykum.com/article/2909"
-canonical_url: "https://salaamalykum.com/article/2909"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:27.180376Z"
-lastmod: "2026-06-12T09:44:27.180376Z"
-lang: "zh-CN"
-tags: []
-content_hash: "cffc49d2dd70c4911239483a68cbc3ad4c964a5a29a6e1d4eac7835b204c34fe"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c5a9da5b2a4997e3aa90a249264ddc27d314c39acd8d0e9e08c9e5e9f4923620"
 ---
 
 # Best Halal Restaurant in Guangzhou China: Xiaobei Halal Food, Cantonese Morning Tea and Middle Eastern Cuisine

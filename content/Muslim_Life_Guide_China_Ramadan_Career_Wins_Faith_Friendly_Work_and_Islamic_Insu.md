@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide China: Ramadan Career Wins, Faith-Friendly Work and Islamic Insurance"
-source: "https://salaamalykum.com/article/2772"
-canonical_url: "https://salaamalykum.com/article/2772"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:09.487469Z"
-lastmod: "2026-06-12T09:44:09.487469Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f371b4e9aa91db541963063aa5afb49accc765129342e0a3f1e525fa3150f6e3"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1f574a78e21bf4c75afa241b1ed2b8960c05fd53ca07762ba6a19209867798fe"
 ---
 
 # Muslim Life Guide China: Ramadan Career Wins, Faith-Friendly Work and Islamic Insurance

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Tianjin: Syrian, Turkish, Xinjiang Noodles and Autumn Eats"
-source: "https://salaamalykum.com/article/2999"
-canonical_url: "https://salaamalykum.com/article/2999"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:30.406315Z"
-lastmod: "2026-06-12T09:44:30.406315Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7f866d9c219bfb2776498a3d31f51623771e4032ff66f58b39181945eed69687"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "721650fe6b591d1e6940e60ae388482a6d0208e766be028a086ca3c7fc6384ae"
 ---
 
 # Halal Food Guide Tianjin: Syrian, Turkish, Xinjiang Noodles and Autumn Eats

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Yarkand Altun Mosque, Khanate Tombs and Turdi Haji Manor"
-source: "https://salaamalykum.com/article/2823"
-canonical_url: "https://salaamalykum.com/article/2823"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:54.458908Z"
-lastmod: "2026-06-12T09:43:54.458908Z"
-lang: "zh-CN"
-tags: []
-content_hash: "4cd60dcf11c0f84db72bd3a303e7e2629a26f553df6156d66002be9e6425de36"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7f07431def941fb319f9538083f74efd197ba2f783caf63f0427d023b1e17a9a"
 ---
 
 # Muslim Travel Guide China: Yarkand Altun Mosque, Khanate Tombs and Turdi Haji Manor

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Zhengzhou Mosques, Hui Muslim Food, Huimian and Hulatang"
-source: "https://salaamalykum.com/article/2803"
-canonical_url: "https://salaamalykum.com/article/2803"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:25.219319Z"
-lastmod: "2026-06-12T09:44:25.219319Z"
-lang: "zh-CN"
-tags: []
-content_hash: "76f17b82f2d9a08f1d39041778bbf0888362d3c8e5ff4cb87b6e046103f8d402"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b33e9a5b7a481d1871528faf7e3306fbc828093f6bc1eac4e41f848997c5e287"
 ---
 
 # Muslim Travel Guide China: Zhengzhou Mosques, Hui Muslim Food, Huimian and Hulatang

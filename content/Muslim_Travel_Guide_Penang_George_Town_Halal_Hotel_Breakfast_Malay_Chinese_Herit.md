@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Penang: George Town, Halal Hotel Breakfast, Malay-Chinese Heritage and Beaches"
-source: "https://salaamalykum.com/article/2883"
-canonical_url: "https://salaamalykum.com/article/2883"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:38.334340Z"
-lastmod: "2026-06-12T09:44:38.334340Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6aa1273f3653c4164fb4169266bb56770bd95977df8f44a6af226f4ba679c5c7"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e1b5894e58b40652db030c82cdd02227758a1363a6afe79fd9d207018a1e6ccc"
 ---
 
 # Muslim Travel Guide Penang: George Town, Halal Hotel Breakfast, Malay-Chinese Heritage and Beaches

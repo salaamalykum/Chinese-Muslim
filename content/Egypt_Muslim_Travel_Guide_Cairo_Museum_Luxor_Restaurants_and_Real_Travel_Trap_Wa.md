@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Egypt Muslim Travel Guide: Cairo Museum, Luxor Restaurants and Real Travel Trap Warnings"
-source: "https://salaamalykum.com/article/2838"
-canonical_url: "https://salaamalykum.com/article/2838"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:29.001646Z"
-lastmod: "2026-06-12T09:44:29.001646Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9e24be2038e055b169566761e963bbbbc047ee9e5e322396637a899b195a3a0d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a35caec8e89a71e16fe173c215dcca5a2f499fe674e1420ef89962526dd45da6"
 ---
 
 # Egypt Muslim Travel Guide: Cairo Museum, Luxor Restaurants and Real Travel Trap Warnings

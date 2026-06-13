@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Beijing Huairou: Pakistani Restaurants, Hui Trout Dishes and Mountain Villages"
-source: "https://salaamalykum.com/article/2960"
-canonical_url: "https://salaamalykum.com/article/2960"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:00.028879Z"
-lastmod: "2026-06-12T09:45:00.028879Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7d27d5fc2c0db1a790263149bbad3ddeb2e54cccd5116a39e2539a0594bbda13"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a36dc885bc33889253b679e4ac05258b3db5e7a1a4a9a9bddfeda190936b453d"
 ---
 
 # Halal Food Guide Beijing Huairou: Pakistani Restaurants, Hui Trout Dishes and Mountain Villages

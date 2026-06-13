@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Hanafi Shrimp Ruling, Halal Seafood and Islamic Food Rules"
-source: "https://salaamalykum.com/article/2863"
-canonical_url: "https://salaamalykum.com/article/2863"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:03.817406Z"
-lastmod: "2026-06-12T09:44:03.817406Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1565c6fededcdf67f3408d387632969ba1731425cd80ad1681057ab96a7a60f9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "62ef77854480c23eb1b598cffc1bad11b6a9e65ea13ec4d7d652707601b862eb"
 ---
 
 # Muslim Knowledge Guide China: Hanafi Shrimp Ruling, Halal Seafood and Islamic Food Rules

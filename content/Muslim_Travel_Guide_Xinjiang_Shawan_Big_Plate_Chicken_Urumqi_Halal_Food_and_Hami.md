@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Xinjiang: Shawan Big Plate Chicken, Urumqi Halal Food and Hami Mosques"
-source: "https://salaamalykum.com/article/2846"
-canonical_url: "https://salaamalykum.com/article/2846"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:42.506214Z"
-lastmod: "2026-06-12T09:44:42.506214Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d134e4cd23df06a5abd8e55f2e993b6378beb8c7bc142e2deb5b11be699b2043"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "83d74faf68c3a9545f7ce9dec9dbae8d5bae82fad3e90078b11a63a4e6e9d66c"
 ---
 
 # Muslim Travel Guide Xinjiang: Shawan Big Plate Chicken, Urumqi Halal Food and Hami Mosques

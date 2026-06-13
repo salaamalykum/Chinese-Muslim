@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Mosque Teachers, Prayer Unity and Youth Islamic Education"
-source: "https://salaamalykum.com/article/2930"
-canonical_url: "https://salaamalykum.com/article/2930"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:58.486331Z"
-lastmod: "2026-06-12T09:43:58.486331Z"
-lang: "zh-CN"
-tags: []
-content_hash: "199b065eed7e694dde12906f4903aca6eced11b493d2c1db95f39ea7ce5c211a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "41907e16cc8cf15aa8bc726289e863e51834708ca4d2eaf11568de93529bbf76"
 ---
 
 # Muslim Knowledge Guide China: Mosque Teachers, Prayer Unity and Youth Islamic Education

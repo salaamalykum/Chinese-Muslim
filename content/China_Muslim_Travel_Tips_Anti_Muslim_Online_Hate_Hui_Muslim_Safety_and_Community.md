@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Muslim Travel Tips: Anti-Muslim Online Hate, Hui Muslim Safety and Community Awareness"
-source: "https://salaamalykum.com/article/2935"
-canonical_url: "https://salaamalykum.com/article/2935"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:53.184138Z"
-lastmod: "2026-06-12T09:44:53.184138Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1b8c1a353af7161924dc9f3731ac1cf53801603ca5c23687ae0d96386c62ce88"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e0855a273fdf08fa52265c393f69a7c7514183f0835451167b3997a184097414"
 ---
 
 # China Muslim Travel Tips: Anti-Muslim Online Hate, Hui Muslim Safety and Community Awareness

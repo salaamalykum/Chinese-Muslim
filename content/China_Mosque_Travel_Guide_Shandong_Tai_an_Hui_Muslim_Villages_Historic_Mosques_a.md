@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Shandong: Tai'an Hui Muslim Villages, Historic Mosques and Resistance History"
-source: "https://salaamalykum.com/article/2857"
-canonical_url: "https://salaamalykum.com/article/2857"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:56.995715Z"
-lastmod: "2026-06-12T09:44:56.995715Z"
-lang: "zh-CN"
-tags: []
-content_hash: "1663fd9ec8de8d77ee9c35a3ded0d99db9ccf6b4a639486898fb4d89d85123c7"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "58ca043b84a3338e11023811edd02af814f76bac0c83e2e50bef942a9b76127d"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Hui Muslim Villages, Historic Mosques and Resistance History

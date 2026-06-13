@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide 2017: 27 Historic Mosques and Muslim Heritage"
-source: "https://salaamalykum.com/article/3006"
-canonical_url: "https://salaamalykum.com/article/3006"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:28.810613Z"
-lastmod: "2026-06-12T09:44:28.810613Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e60e48e0073393984d36e9bb5e45040da3fb61e5cd137c330b69eedc4e54b327"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3de762de1c2db03618b6ccfc424a3378455a4e63e4702245c86c17ba5b660fce"
 ---
 
 # China Mosque Travel Guide 2017: 27 Historic Mosques and Muslim Heritage

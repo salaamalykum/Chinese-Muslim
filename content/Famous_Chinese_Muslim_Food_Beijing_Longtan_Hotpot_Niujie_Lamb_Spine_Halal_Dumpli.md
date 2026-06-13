@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Famous Chinese Muslim Food Beijing: Longtan Hotpot, Niujie Lamb Spine & Halal Dumplings"
-source: "https://salaamalykum.com/article/3034"
-canonical_url: "https://salaamalykum.com/article/3034"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:05.141821Z"
-lastmod: "2026-06-12T09:44:05.141821Z"
-lang: "zh-CN"
-tags: []
-content_hash: "84c7a47ac4101fc8e1e3e9bd644f22f2a2fe685e36c605e3c0bd59cc935856a2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d5b53378d1b27f7facd4889b457b6c3a19b91fc32e4cd6019d6d1d1d16ca452a"
 ---
 
 # Famous Chinese Muslim Food Beijing: Longtan Hotpot, Niujie Lamb Spine & Halal Dumplings

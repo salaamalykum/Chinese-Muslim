@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Cairo: 22 Ancient Mosques and Islamic Heritage (Part 1)"
-source: "https://salaamalykum.com/article/3021"
-canonical_url: "https://salaamalykum.com/article/3021"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:09.686883Z"
-lastmod: "2026-06-12T09:44:09.686883Z"
-lang: "zh-CN"
-tags: []
-content_hash: "97eb731c583f0ad7792c712fbe0f72ae066ef0d5a865ee0807636739ff61b449"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d9401a965ea6b6443106e80dbeaa7539ae586ae2b7c72e1dfc39dcdcce77cb1d"
 ---
 
 # Muslim History Guide Cairo: 22 Ancient Mosques and Islamic Heritage (Part 1)

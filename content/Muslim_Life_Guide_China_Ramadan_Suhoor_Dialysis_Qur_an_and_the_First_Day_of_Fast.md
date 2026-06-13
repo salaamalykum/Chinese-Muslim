@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide China Ramadan: Suhoor, Dialysis, Qur'an and the First Day of Fasting"
-source: "https://salaamalykum.com/article/2934"
-canonical_url: "https://salaamalykum.com/article/2934"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:17.817741Z"
-lastmod: "2026-06-12T09:44:17.817741Z"
-lang: "zh-CN"
-tags: []
-content_hash: "dc6bf2e823e7f819a5f922ed7b811fea708090a3cd0f1a2d9d71dbecf4ebcbdb"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "259c86542970a2731551a936c0462a90632fa31f3e6a18d890f9dff7f0933a34"
 ---
 
 # Muslim Life Guide China Ramadan: Suhoor, Dialysis, Qur'an and the First Day of Fasting

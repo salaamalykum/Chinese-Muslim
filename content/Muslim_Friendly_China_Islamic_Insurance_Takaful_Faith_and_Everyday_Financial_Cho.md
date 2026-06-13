@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly China: Islamic Insurance, Takaful, Faith and Everyday Financial Choices"
-source: "https://salaamalykum.com/article/2763"
-canonical_url: "https://salaamalykum.com/article/2763"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:26.754969Z"
-lastmod: "2026-06-12T09:44:26.754969Z"
-lang: "zh-CN"
-tags: []
-content_hash: "2cd6f73a45319ac7697615ffcee730d00724b888d5fe5b7610fec2500f42fab9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "47df251de206fc3accdb8ed055a716153dde49ac6433b6b19698af6a531e53f5"
 ---
 
 # Muslim Friendly China: Islamic Insurance, Takaful, Faith and Everyday Financial Choices

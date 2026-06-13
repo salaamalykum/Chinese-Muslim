@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Beijing Halal Street Food Guide: Shaomai, Savory Guobaorou, Stewed Pigeon and Shrimp Hotpot"
-source: "https://salaamalykum.com/article/2809"
-canonical_url: "https://salaamalykum.com/article/2809"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:27.407483Z"
-lastmod: "2026-06-12T09:44:27.407483Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7b6ae9f8a36a3f812458a3fb49d86107e4a67e96451e8ea44c95ea2efe236e98"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1a6cecea33c916e9d9283e5866ab5834bb2b3f7bc3b43ae0765bfa772c1ffa1a"
 ---
 
 # Beijing Halal Street Food Guide: Shaomai, Savory Guobaorou, Stewed Pigeon and Shrimp Hotpot

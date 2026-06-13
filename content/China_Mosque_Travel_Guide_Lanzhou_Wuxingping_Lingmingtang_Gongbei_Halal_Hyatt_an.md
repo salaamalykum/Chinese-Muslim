@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Lanzhou Wuxingping Lingmingtang Gongbei, Halal Hyatt and Beef Noodles"
-source: "https://salaamalykum.com/article/2824"
-canonical_url: "https://salaamalykum.com/article/2824"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:47.422954Z"
-lastmod: "2026-06-12T09:44:47.422954Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7df8bfb2e54bc2f50838a7693f5b38f3cbea6b2b947730df51693ab19f3e1a5c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ae248f46daadeb337a910ab3757206bc48dde168816a4d5e6ab84878e29d0859"
 ---
 
 # China Mosque Travel Guide: Lanzhou Wuxingping Lingmingtang Gongbei, Halal Hyatt and Beef Noodles

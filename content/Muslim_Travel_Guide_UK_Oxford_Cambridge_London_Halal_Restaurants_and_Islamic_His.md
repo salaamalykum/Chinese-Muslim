@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide UK: Oxford, Cambridge, London Halal Restaurants and Islamic History"
-source: "https://salaamalykum.com/article/2873"
-canonical_url: "https://salaamalykum.com/article/2873"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:02.098460Z"
-lastmod: "2026-06-12T09:45:02.098460Z"
-lang: "zh-CN"
-tags: []
-content_hash: "753fcac4cb2a74fa936cf217468c7a87340f1ef1351a982260f2e1aa19d41aab"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "8d6ef9682f537e8b773904dc4923d087dab8138303860ba4a1baed45a36eb731"
 ---
 
 # Muslim Travel Guide UK: Oxford, Cambridge, London Halal Restaurants and Islamic History

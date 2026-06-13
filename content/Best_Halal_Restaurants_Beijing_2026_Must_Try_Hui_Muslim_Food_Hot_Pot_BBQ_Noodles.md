@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurants Beijing 2026: Must-Try Hui Muslim Food, Hot Pot, BBQ, Noodles and Street Snacks"
-source: "https://salaamalykum.com/article/2920"
-canonical_url: "https://salaamalykum.com/article/2920"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:48.337297Z"
-lastmod: "2026-06-12T09:44:48.337297Z"
-lang: "zh-CN"
-tags: []
-content_hash: "50a529479bb820f367e78a90f0e627130b661d22cf532216907ed67b23354b55"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f9d6831574978cf4a7c80da4f58261ee023151d26265da023410b8738a0cbf2a"
 ---
 
 # Best Halal Restaurants Beijing 2026: Must-Try Hui Muslim Food, Hot Pot, BBQ, Noodles and Street Snacks

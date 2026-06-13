@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Ramadan in China 2026: Iftar at Niujie Mosque, Muslim Work Life and Beijing Faith Reflections"
-source: "https://salaamalykum.com/article/2814"
-canonical_url: "https://salaamalykum.com/article/2814"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:19.090964Z"
-lastmod: "2026-06-12T09:44:19.090964Z"
-lang: "zh-CN"
-tags: []
-content_hash: "12de06662521cdc124d19fa060ef374a2df25b151ae35f45f111ebc23fa07690"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f919d3cce25470d67fdda9871a72ebc94fdc7784a3de1d19846164f2f3588a2c"
 ---
 
 # Ramadan in China 2026: Iftar at Niujie Mosque, Muslim Work Life and Beijing Faith Reflections

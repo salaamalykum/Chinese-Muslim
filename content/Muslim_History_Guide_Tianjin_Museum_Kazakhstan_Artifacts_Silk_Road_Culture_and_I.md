@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Tianjin Museum: Kazakhstan Artifacts, Silk Road Culture and Islamic Heritage"
-source: "https://salaamalykum.com/article/2998"
-canonical_url: "https://salaamalykum.com/article/2998"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:27.636539Z"
-lastmod: "2026-06-12T09:44:27.636539Z"
-lang: "zh-CN"
-tags: []
-content_hash: "dd9fe260a06f297579dc95471f1f2321f8c24658b32385b501f28613fd4d0f4b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3b1fd87d8cfab82807a140814ee8484e88fa0e09e8abf6dc157dd8fe8dbf0f44"
 ---
 
 # Muslim History Guide Tianjin Museum: Kazakhstan Artifacts, Silk Road Culture and Islamic Heritage

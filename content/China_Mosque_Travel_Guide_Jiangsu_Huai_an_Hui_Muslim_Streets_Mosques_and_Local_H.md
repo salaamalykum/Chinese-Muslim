@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Jiangsu Huai'an: Hui Muslim Streets, Mosques and Local History"
-source: "https://salaamalykum.com/article/2989"
-canonical_url: "https://salaamalykum.com/article/2989"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:33.053494Z"
-lastmod: "2026-06-12T09:44:33.053494Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ac2a9be00e447e652a2dc51f6b9402481cdbffa860a31f31b3d83ea48d19bf7c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e9c3352009d3737a7af57e27ebfe36820839f316ab700647d83cf5f41af8070a"
 ---
 
 # China Mosque Travel Guide Jiangsu Huai'an: Hui Muslim Streets, Mosques and Local History

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Tianfang Shijing, Islamic Literature and Cross-Cultural Poetry"
-source: "https://salaamalykum.com/article/3022"
-canonical_url: "https://salaamalykum.com/article/3022"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:33.737740Z"
-lastmod: "2026-06-12T09:44:33.737740Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f3a15a54875757abfc0b5fd7cfc19c5ad228a3b04b62b20eae3b4d60f4c9a0ec"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "cda80a4e9152bab2efd068f84391cc4c1a0db0ae2dd1e0cc6dee3b553cd328ce"
 ---
 
 # Muslim Knowledge Guide China: Tianfang Shijing, Islamic Literature and Cross-Cultural Poetry

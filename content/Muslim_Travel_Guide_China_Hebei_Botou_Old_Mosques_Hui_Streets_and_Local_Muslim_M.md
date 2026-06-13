@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China Hebei Botou: Old Mosques, Hui Streets and Local Muslim Memories"
-source: "https://salaamalykum.com/article/2977"
-canonical_url: "https://salaamalykum.com/article/2977"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:08.894996Z"
-lastmod: "2026-06-12T09:44:08.894996Z"
-lang: "zh-CN"
-tags: []
-content_hash: "621af2ae84123d0e9e2987e67970b3f4afde80f0fc953b25003a8177d7065fbf"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f6e4024c26dae42100d8e67469b15c1558898d5aecb9fd62ce25517f7a193bcc"
 ---
 
 # Muslim Travel Guide China Hebei Botou: Old Mosques, Hui Streets and Local Muslim Memories

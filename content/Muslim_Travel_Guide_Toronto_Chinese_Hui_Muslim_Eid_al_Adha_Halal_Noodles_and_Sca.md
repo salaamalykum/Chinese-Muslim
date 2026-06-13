@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Toronto: Chinese Hui Muslim Eid al-Adha, Halal Noodles and Scarborough Mosque"
-source: "https://salaamalykum.com/article/2866"
-canonical_url: "https://salaamalykum.com/article/2866"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:28.025866Z"
-lastmod: "2026-06-12T09:44:28.025866Z"
-lang: "zh-CN"
-tags: []
-content_hash: "23aabc3ed48ae8263a895456827e5f919724c227624e9314cc1ed7e0d84f56c2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1b022f2577128761e5e57d45f9832aec0c6883b1f7b97aada823171da605f139"
 ---
 
 # Muslim Travel Guide Toronto: Chinese Hui Muslim Eid al-Adha, Halal Noodles and Scarborough Mosque

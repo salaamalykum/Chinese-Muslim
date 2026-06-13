@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Beijing Changying: Hui Township Market, Halal Food and Local Community"
-source: "https://salaamalykum.com/article/3011"
-canonical_url: "https://salaamalykum.com/article/3011"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:28.285436Z"
-lastmod: "2026-06-12T09:44:28.285436Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9bdece6d2d15bec5efa77e7aa1ff9c40dfb38397caa2d4dec446e63e3d84fe35"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1712636a0507cbf6375aea384c87c5d8c021184d575d215a61b03a0a9ee62e2d"
 ---
 
 # Muslim Travel Guide Beijing Changying: Hui Township Market, Halal Food and Local Community

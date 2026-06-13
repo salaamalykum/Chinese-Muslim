@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Jiangsu: 25 Historic Mosques and Hui Muslim Heritage (Part 1)"
-source: "https://salaamalykum.com/article/3018"
-canonical_url: "https://salaamalykum.com/article/3018"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:22.050396Z"
-lastmod: "2026-06-12T09:44:22.050396Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3eb5427890cc54c965217d77dd4a47c96d78f44e858bb7c2d400f5a16854331d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a00b769fd937f08307d5a3a2f865eabd8f6c92889b688f753fa8bd4893478e36"
 ---
 
 # China Mosque Travel Guide Jiangsu: 25 Historic Mosques and Hui Muslim Heritage (Part 1)

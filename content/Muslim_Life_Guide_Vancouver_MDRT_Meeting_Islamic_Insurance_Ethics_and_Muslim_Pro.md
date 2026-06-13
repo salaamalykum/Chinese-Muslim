@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide Vancouver: MDRT Meeting, Islamic Insurance Ethics and Muslim Professionals"
-source: "https://salaamalykum.com/article/2867"
-canonical_url: "https://salaamalykum.com/article/2867"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:56.176453Z"
-lastmod: "2026-06-12T09:43:56.176453Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f9400e2a487b1f6221b7ed6f1e87b87039c2228ec2a45fba14e8dfa5d7f1b1f3"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9c501a2e7e271a201337828a3c404da98fc30e4e8b04dc0396aac5a594fa67da"
 ---
 
 # Muslim Life Guide Vancouver: MDRT Meeting, Islamic Insurance Ethics and Muslim Professionals

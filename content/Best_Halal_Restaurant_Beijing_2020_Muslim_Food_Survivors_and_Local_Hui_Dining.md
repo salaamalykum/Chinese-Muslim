@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant Beijing 2020: Muslim Food Survivors and Local Hui Dining"
-source: "https://salaamalykum.com/article/3046"
-canonical_url: "https://salaamalykum.com/article/3046"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:55.839338Z"
-lastmod: "2026-06-12T09:43:55.839338Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3887e4e47d6c86999d0e51e0d7c7afae94c0ea832cfef119d5b5315a753ba611"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c1aadd2e0d2c4a8935f798a7b94110ee48a43c307367502de3d9e1fa4c47f57b"
 ---
 
 # Best Halal Restaurant Beijing 2020: Muslim Food Survivors and Local Hui Dining

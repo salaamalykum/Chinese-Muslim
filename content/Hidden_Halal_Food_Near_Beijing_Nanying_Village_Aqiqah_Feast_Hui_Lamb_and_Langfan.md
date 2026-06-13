@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque"
-source: "https://salaamalykum.com/article/3029"
-canonical_url: "https://salaamalykum.com/article/3029"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:18.717901Z"
-lastmod: "2026-06-12T09:44:18.717901Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6f290afdc193b20f19806b13e3429a1626d310539075554d79d0bf3fdf3c60c4"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ca5e0d194fb0eb2a07df6b09d34a3fae1709585ae3e291b92959eeb591700b59"
 ---
 
 # Hidden Halal Food Near Beijing: Nanying Village Aqiqah Feast, Hui Lamb and Langfang Mosque

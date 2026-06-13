@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Singapore: Malabar Mosque, South Indian Muslim Community and Little India Heritage"
-source: "https://salaamalykum.com/article/2948"
-canonical_url: "https://salaamalykum.com/article/2948"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:41.549818Z"
-lastmod: "2026-06-12T09:44:41.549818Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5d08f4e4bafdc302cd3401cef8e5267e132a163be73ce9e9ecf479e7d6be38b5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "251a86e412574c524224e09e80297717bedec2c588950e22ecdde34a82053145"
 ---
 
 # Muslim Travel Guide Singapore: Malabar Mosque, South Indian Muslim Community and Little India Heritage

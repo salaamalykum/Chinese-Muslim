@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Xinjiang Yarkand: Chagatai Capital, Old Mosques and Silk Road Heritage"
-source: "https://salaamalykum.com/article/2976"
-canonical_url: "https://salaamalykum.com/article/2976"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:52.944402Z"
-lastmod: "2026-06-12T09:44:52.944402Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ea6f52b054089ddb5765f1302a61c8f81a40df2145f02ddf338b2d30a96c954a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ee556ad6e617629d7ad17813a2964670fd23532c71ab5fab084918fdf63d666d"
 ---
 
 # Muslim History Guide Xinjiang Yarkand: Chagatai Capital, Old Mosques and Silk Road Heritage

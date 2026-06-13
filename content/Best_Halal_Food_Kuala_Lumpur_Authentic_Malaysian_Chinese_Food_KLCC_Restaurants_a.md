@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Authentic Malaysian Chinese Food, KLCC Restaurants and Seafood"
-source: "https://salaamalykum.com/article/2880"
-canonical_url: "https://salaamalykum.com/article/2880"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:17.526941Z"
-lastmod: "2026-06-12T09:44:17.526941Z"
-lang: "zh-CN"
-tags: []
-content_hash: "168cf97520a4ab4ec5ffdec2c89696f6303e07c31a28e6e0c00aa2f4335a2c8e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "17142dd2a379c21d9bd8f5a1f76f6d0dd302ad170552cf8124b1f0e6befeb603"
 ---
 
 # Best Halal Food Kuala Lumpur: Authentic Malaysian Chinese Food, KLCC Restaurants and Seafood

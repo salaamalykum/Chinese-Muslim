@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Vietnam Ho Chi Minh City: Ben Thanh Market, Saigon Muslim Street and Cham Food Stalls"
-source: "https://salaamalykum.com/article/2945"
-canonical_url: "https://salaamalykum.com/article/2945"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:53.584650Z"
-lastmod: "2026-06-12T09:43:53.584650Z"
-lang: "zh-CN"
-tags: []
-content_hash: "31670934b5a0f875d14c62b6aeea68aaad9017edbad23ca684dc54cdd2d8b0c3"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4b0f10dc6eaa8e1c38e48194abef0f216552331b270a4f82fa51697b9b8012b7"
 ---
 
 # Best Halal Food Vietnam Ho Chi Minh City: Ben Thanh Market, Saigon Muslim Street and Cham Food Stalls

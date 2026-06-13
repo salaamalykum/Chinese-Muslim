@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Changsha Han-Hui Village, Mosque Life and Hunan Heritage"
-source: "https://salaamalykum.com/article/2759"
-canonical_url: "https://salaamalykum.com/article/2759"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:58.857384Z"
-lastmod: "2026-06-12T09:44:58.857384Z"
-lang: "zh-CN"
-tags: []
-content_hash: "bd81f083158bbb0a63bec69ad73827574549d15e5d7ac5430e3e0f817eed4ab0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "335ded789c3dfac57600c7c6d9dca1a445f703bb8237458959716236867e8a7d"
 ---
 
 # Muslim Travel Guide China 2026: Changsha Han-Hui Village, Mosque Life and Hunan Heritage

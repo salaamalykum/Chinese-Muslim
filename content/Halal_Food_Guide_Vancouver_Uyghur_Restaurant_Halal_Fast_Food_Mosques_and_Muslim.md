@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Vancouver: Uyghur Restaurant, Halal Fast Food, Mosques and Muslim Community"
-source: "https://salaamalykum.com/article/2872"
-canonical_url: "https://salaamalykum.com/article/2872"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:58.968684Z"
-lastmod: "2026-06-12T09:43:58.968684Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b6a80e199c15a1ed4363049fe6e88dc13c08e8b464d9455f9ec25c981df0c93c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b07677d90300429bd282eae194b4af4cba4f50705bdac8e18d9b8f4355e87689"
 ---
 
 # Halal Food Guide Vancouver: Uyghur Restaurant, Halal Fast Food, Mosques and Muslim Community

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Street Food China: Shaoyang Hunan Muslim Food, Xiang Cuisine and Local Mosques"
-source: "https://salaamalykum.com/article/2766"
-canonical_url: "https://salaamalykum.com/article/2766"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:50.875038Z"
-lastmod: "2026-06-12T09:44:50.875038Z"
-lang: "zh-CN"
-tags: []
-content_hash: "84bbbd8745d21544b213e0f6d7218b44f89a69f9fd1c10ffa131fd5389dd9796"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "93451686543f0125fcb5add095cef4b8f9ac80df3af6d7b23b80136b48aadeef"
 ---
 
 # Halal Street Food China: Shaoyang Hunan Muslim Food, Xiang Cuisine and Local Mosques

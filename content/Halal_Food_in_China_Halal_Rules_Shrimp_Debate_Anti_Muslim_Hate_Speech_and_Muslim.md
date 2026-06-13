@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food in China: Halal Rules, Shrimp Debate, Anti-Muslim Hate Speech and Muslim Community Unity"
-source: "https://salaamalykum.com/article/2939"
-canonical_url: "https://salaamalykum.com/article/2939"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:00.799741Z"
-lastmod: "2026-06-12T09:44:00.799741Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e7d753150e2b191ed69c0688ce11240d36081b87ea2ed3360575ab81411409c5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "25acda207418e87feca8bdcb40a7ba7e042e9bb3cce9e7f26ef5b549b092ece7"
 ---
 
 # Halal Food in China: Halal Rules, Shrimp Debate, Anti-Muslim Hate Speech and Muslim Community Unity

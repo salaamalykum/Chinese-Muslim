@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Pork, Alcohol, Riba and Gambling Trade"
-source: "https://salaamalykum.com/article/2894"
-canonical_url: "https://salaamalykum.com/article/2894"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:35.488999Z"
-lastmod: "2026-06-12T09:44:35.488999Z"
-lang: "zh-CN"
-tags: []
-content_hash: "75bd7b229da77fb906176a915e793355252a3821ea86d4c8dab2c854096ad718"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "15ebf48734ac49270850c3e09df5f0975704499bbc9147a4917297aa02297760"
 ---
 
 # Muslim Knowledge Guide Egypt: Ali Gomaa Fatwa on Pork, Alcohol, Riba and Gambling Trade

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Beijing Ramadan: Week Three Mosques, Iftar and Muslim Community"
-source: "https://salaamalykum.com/article/2992"
-canonical_url: "https://salaamalykum.com/article/2992"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:59.729216Z"
-lastmod: "2026-06-12T09:43:59.729216Z"
-lang: "zh-CN"
-tags: []
-content_hash: "19d802583e1a15f744dcfd0a49554fd49b2b7534598830d1ff2186510d418aa5"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "5b6bbe18fc402e4131e484803cd1daefd55a4ab341136b4d8b8c1fdbe4c2adf1"
 ---
 
 # Muslim Travel Guide Beijing Ramadan: Week Three Mosques, Iftar and Muslim Community

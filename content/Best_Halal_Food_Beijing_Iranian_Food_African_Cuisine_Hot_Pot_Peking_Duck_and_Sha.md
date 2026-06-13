@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Iranian Food, African Cuisine, Hot Pot, Peking Duck and Shabu-Shabu"
-source: "https://salaamalykum.com/article/2892"
-canonical_url: "https://salaamalykum.com/article/2892"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:59.280162Z"
-lastmod: "2026-06-12T09:44:59.280162Z"
-lang: "zh-CN"
-tags: []
-content_hash: "be7f7aa893f501c9a785ddd1000ef16f15f6db60d9f99ab271574cf18059b006"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6cffb142e7ff462b6e8c2632719ebf1ede547fdc736b6c4db4557456b85c9bd2"
 ---
 
 # Best Halal Food Beijing: Iranian Food, African Cuisine, Hot Pot, Peking Duck and Shabu-Shabu

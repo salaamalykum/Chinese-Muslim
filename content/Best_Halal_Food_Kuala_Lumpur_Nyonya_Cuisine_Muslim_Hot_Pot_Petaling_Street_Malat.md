@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Nyonya Cuisine, Muslim Hot Pot, Petaling Street Malatang and Fish Head Noodles"
-source: "https://salaamalykum.com/article/2919"
-canonical_url: "https://salaamalykum.com/article/2919"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:51.317529Z"
-lastmod: "2026-06-12T09:43:51.317529Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d0efbec5a55cbd12ae1974540ad10648f024784ea1c6e1b650346c53bd619602"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "841451f96f03283ebeaa265b251363d823c3449bdfe3e9335e61763f21b169fe"
 ---
 
 # Best Halal Food Kuala Lumpur: Nyonya Cuisine, Muslim Hot Pot, Petaling Street Malatang and Fish Head Noodles

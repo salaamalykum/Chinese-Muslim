@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Lanzhou Beef Noodles, Halal Dim Sum and Muslim Street Dining"
-source: "https://salaamalykum.com/article/2858"
-canonical_url: "https://salaamalykum.com/article/2858"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:55.585946Z"
-lastmod: "2026-06-12T09:44:55.585946Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3937d38c6557e9b22913b967887886b720be0e88da9af942829bb145c35b6e43"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "fdd0a28b1f769b63f40c5f44a44bcafe21af336dceb704f74b44af0e2330c10b"
 ---
 
 # Best Halal Food Kuala Lumpur: Lanzhou Beef Noodles, Halal Dim Sum and Muslim Street Dining

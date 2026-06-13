@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Crimea: Crimean Khanate Early Capital, Mosques and Tatar Heritage"
-source: "https://salaamalykum.com/article/3013"
-canonical_url: "https://salaamalykum.com/article/3013"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:44.099158Z"
-lastmod: "2026-06-12T09:44:44.099158Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7c8d5c1e09b04310b51b7baf1adbd1398fa35514f1195c8ca6de30c5a1b776d6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "995bfcfea5d32579677e4054db8dba107dae703ed2d2d408a2d86613dd849e3c"
 ---
 
 # Muslim History Guide Crimea: Crimean Khanate Early Capital, Mosques and Tatar Heritage

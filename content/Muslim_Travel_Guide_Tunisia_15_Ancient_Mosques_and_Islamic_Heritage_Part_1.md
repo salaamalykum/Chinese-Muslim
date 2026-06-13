@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Tunisia: 15 Ancient Mosques and Islamic Heritage (Part 1)"
-source: "https://salaamalykum.com/article/3020"
-canonical_url: "https://salaamalykum.com/article/3020"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:12.251637Z"
-lastmod: "2026-06-12T09:44:12.251637Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fa5b791909f0ab63741b5143ea96e268fff6c0410ec4cef69c0c283240fc71ca"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "32d1f7b11ca8dc285e33c662197973fab6022f46b3aed8c252fb67887aac37d4"
 ---
 
 # Muslim Travel Guide Tunisia: 15 Ancient Mosques and Islamic Heritage (Part 1)

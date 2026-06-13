@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Egypt Muslim Travel Guide: Cairo Mosques, Pyramids and Honest Travel Trap Tips"
-source: "https://salaamalykum.com/article/2834"
-canonical_url: "https://salaamalykum.com/article/2834"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:59.366842Z"
-lastmod: "2026-06-12T09:43:59.366842Z"
-lang: "zh-CN"
-tags: []
-content_hash: "df2987874234fb23e94d80430a15f28318341153c5d1aca4493af9e3c77e607f"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3879ef1739afac2205b84bfe7b0852a7cdb92b7dc1c397bf07fd9087c96b84c8"
 ---
 
 # Egypt Muslim Travel Guide: Cairo Mosques, Pyramids and Honest Travel Trap Tips

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Restaurant Near Me Beijing: Beef Soup, Zhizi Barbecue & Xi'an Yangrou Paomo Guide"
-source: "https://salaamalykum.com/article/3035"
-canonical_url: "https://salaamalykum.com/article/3035"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:04.720220Z"
-lastmod: "2026-06-12T09:44:04.720220Z"
-lang: "zh-CN"
-tags: []
-content_hash: "861eeb015d042797893d6472f0867ce4346e1c94c0e5819150757803b45c7ef6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c64670dfcba397c5e28cb5841656141dfab595fc04e0e1f1236032e07c12b3e5"
 ---
 
 # Halal Restaurant Near Me Beijing: Beef Soup, Zhizi Barbecue & Xi'an Yangrou Paomo Guide

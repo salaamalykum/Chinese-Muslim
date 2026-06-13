@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Urumqi: Hui Muslim Home Cooking and 15 Traditional Dishes (Part 1)"
-source: "https://salaamalykum.com/article/2983"
-canonical_url: "https://salaamalykum.com/article/2983"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:25.877833Z"
-lastmod: "2026-06-12T09:44:25.877833Z"
-lang: "zh-CN"
-tags: []
-content_hash: "72df1815f07f00b2806548c37bb90a20b0a510d94777e67a8686c351322897af"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "40d5cec193a8cd0d8215c523a1d9326fd9854b54aa69f9a636ca5cd0a4cfbe3c"
 ---
 
 # Halal Food Guide Urumqi: Hui Muslim Home Cooking and 15 Traditional Dishes (Part 1)

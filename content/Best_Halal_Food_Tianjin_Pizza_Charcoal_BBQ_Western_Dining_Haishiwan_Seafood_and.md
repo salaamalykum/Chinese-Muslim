@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Tianjin: Pizza, Charcoal BBQ, Western Dining, Haishiwan Seafood and Muslim Snacks"
-source: "https://salaamalykum.com/article/2902"
-canonical_url: "https://salaamalykum.com/article/2902"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:07.377839Z"
-lastmod: "2026-06-12T09:44:07.377839Z"
-lang: "zh-CN"
-tags: []
-content_hash: "779e73a3c0d7b1c8d29853f26bd69676bcbb656f6122ae6d3e94e62013ec00fc"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "18465d35e732bacee0dea588afb6ae2754dd9d66534ec62fc53fcdb6a636e330"
 ---
 
 # Best Halal Food Tianjin: Pizza, Charcoal BBQ, Western Dining, Haishiwan Seafood and Muslim Snacks

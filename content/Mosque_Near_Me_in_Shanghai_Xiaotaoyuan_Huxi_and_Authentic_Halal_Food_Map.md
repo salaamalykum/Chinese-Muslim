@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Mosque Near Me in Shanghai: Xiaotaoyuan, Huxi and Authentic Halal Food Map"
-source: "https://salaamalykum.com/article/3041"
-canonical_url: "https://salaamalykum.com/article/3041"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:37.875897Z"
-lastmod: "2026-06-12T09:44:37.875897Z"
-lang: "zh-CN"
-tags: []
-content_hash: "134fb5dc433c2ba56a58e452700eb0e6f85043a1294414a4ddbe6a5cf478b521"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "518056af5d0d456e73ca190c7b93d8ef41aa780520ec3439a8ce6521cb7eb964"
 ---
 
 # Mosque Near Me in Shanghai: Xiaotaoyuan, Huxi and Authentic Halal Food Map

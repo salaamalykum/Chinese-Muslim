@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Jiangsu Yangzhou Zhenjiang: Gaoyou Mosques, Halal Food and Canal Towns (Part 2)"
-source: "https://salaamalykum.com/article/2974"
-canonical_url: "https://salaamalykum.com/article/2974"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:37.437327Z"
-lastmod: "2026-06-12T09:44:37.437327Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e69e1e4208679de76cd3f346b7e1de01c51484e24453251eadfc8890777d5fa6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "010b131872b9d3f8cc0a1fe80390eb007d0844a0bbd794e4b3a9271be809ac07"
 ---
 
 # Muslim Travel Guide Jiangsu Yangzhou Zhenjiang: Gaoyou Mosques, Halal Food and Canal Towns (Part 2)

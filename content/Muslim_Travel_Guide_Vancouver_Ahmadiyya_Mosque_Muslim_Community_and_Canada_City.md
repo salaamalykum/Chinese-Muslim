@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Vancouver: Ahmadiyya Mosque, Muslim Community and Canada City Story"
-source: "https://salaamalykum.com/article/2871"
-canonical_url: "https://salaamalykum.com/article/2871"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:01.072792Z"
-lastmod: "2026-06-12T09:44:01.072792Z"
-lang: "zh-CN"
-tags: []
-content_hash: "7ed55fc74febbd9459f058505e588f8084fe56549e7b818f949dfd5b63c7c59e"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "eb17d9ed25d695fc762a3c1b98ba3b5cce2dd92505bfaa82767f8951300c06bd"
 ---
 
 # Muslim Travel Guide Vancouver: Ahmadiyya Mosque, Muslim Community and Canada City Story

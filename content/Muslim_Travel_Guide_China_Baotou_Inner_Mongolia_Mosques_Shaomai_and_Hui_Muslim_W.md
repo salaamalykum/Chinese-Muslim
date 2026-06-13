@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China: Baotou Inner Mongolia Mosques, Shaomai and Hui Muslim Wedding Journey"
-source: "https://salaamalykum.com/article/2800"
-canonical_url: "https://salaamalykum.com/article/2800"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:18.473707Z"
-lastmod: "2026-06-12T09:44:18.473707Z"
-lang: "zh-CN"
-tags: []
-content_hash: "594df041f63f4902ef932551ae442a264e38a60b9acf63624c0429d461b56ed6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "04d32010559464c69ab1e1c0b1b9503d9db014e1f3b485cfdb8f35325be3084d"
 ---
 
 # Muslim Travel Guide China: Baotou Inner Mongolia Mosques, Shaomai and Hui Muslim Wedding Journey

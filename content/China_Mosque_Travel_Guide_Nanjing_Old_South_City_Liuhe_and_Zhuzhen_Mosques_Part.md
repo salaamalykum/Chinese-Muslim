@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Nanjing: Old South City, Liuhe and Zhuzhen Mosques (Part 2)"
-source: "https://salaamalykum.com/article/3014"
-canonical_url: "https://salaamalykum.com/article/3014"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:45:01.094984Z"
-lastmod: "2026-06-12T09:45:01.094984Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6b659ad17a5f163f0e31bebe329b53abf694e90fa5cd45da819c39c1117334d0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4a9b4a26064fe8bcb2e4200da62e7ca1f56267d9a8f40b8e9caa5bb952ed76c0"
 ---
 
 # China Mosque Travel Guide Nanjing: Old South City, Liuhe and Zhuzhen Mosques (Part 2)

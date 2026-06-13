@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Beijing Miyun: Reservoir Mosques, Hui Villages and Muslim Heritage (Part 2)"
-source: "https://salaamalykum.com/article/2962"
-canonical_url: "https://salaamalykum.com/article/2962"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:46.927429Z"
-lastmod: "2026-06-12T09:44:46.927429Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c720d0f45524dc7a2e6e8e2ecf3e030d066df6045d994fb5d60e5eeb9ea8f8a2"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "bdfd3acf655837a138aab8951fe6d00be706b985256cdd427fd05d8e5431a2ca"
 ---
 
 # China Mosque Travel Guide Beijing Miyun: Reservoir Mosques, Hui Villages and Muslim Heritage (Part 2)

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Muslim Travel Tips: Hui Muslim Community, Extreme Han Nationalism and Ethnic Unity"
-source: "https://salaamalykum.com/article/2936"
-canonical_url: "https://salaamalykum.com/article/2936"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:48.600074Z"
-lastmod: "2026-06-12T09:44:48.600074Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e4ded06e7cea792b0ab1549fdc1e498d3e1b8976054de1df2aada1a7329554ef"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d1999cd4ac692290ffdfd2c36b8e61c7af9525fcc2223f68374ce97245a017fb"
 ---
 
 # China Muslim Travel Tips: Hui Muslim Community, Extreme Han Nationalism and Ethnic Unity

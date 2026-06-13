@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Macau: Halal Southeast Asian Food, Macau Mosque and Muslim Cemetery"
-source: "https://salaamalykum.com/article/2813"
-canonical_url: "https://salaamalykum.com/article/2813"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:38.540199Z"
-lastmod: "2026-06-12T09:44:38.540199Z"
-lang: "zh-CN"
-tags: []
-content_hash: "6754df42f81b55f92a4e2b15ef560817be720df07117659ea5ffe76d9d9cd516"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c4fcd0f72fca877b67681d77b882d123f97c50a3dd73d7f807d3f031a0bfbfb2"
 ---
 
 # Muslim Travel Guide Macau: Halal Southeast Asian Food, Macau Mosque and Muslim Cemetery

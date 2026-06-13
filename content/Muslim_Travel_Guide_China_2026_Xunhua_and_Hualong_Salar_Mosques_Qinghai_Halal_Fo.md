@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide China 2026: Xunhua and Hualong Salar Mosques, Qinghai Halal Food and Heritage"
-source: "https://salaamalykum.com/article/2787"
-canonical_url: "https://salaamalykum.com/article/2787"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:56.094748Z"
-lastmod: "2026-06-12T09:44:56.094748Z"
-lang: "zh-CN"
-tags: []
-content_hash: "e881559be0aee72831ce49c91d3ef79f96e4df44996c59b3878418aa4e5d5b88"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "44de8bd4d6253948cedcb9e97d7a5ccec81cb37ee4d86399af7fca6eccbc8027"
 ---
 
 # Muslim Travel Guide China 2026: Xunhua and Hualong Salar Mosques, Qinghai Halal Food and Heritage

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Qingdao 2025: Seafood Hot Pot, Ma Family Restaurants, Pakistani Food and Beach Travel"
-source: "https://salaamalykum.com/article/2901"
-canonical_url: "https://salaamalykum.com/article/2901"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:50.184945Z"
-lastmod: "2026-06-12T09:44:50.184945Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ee5383be52b2ddab03348f0214f5262d8763205c8cadaebd1d9a27a6e2ade103"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "02b944ec0e36ba0fc16985b762699a053b2d30eb145b2647d94395fa64038352"
 ---
 
 # Best Halal Food Qingdao 2025: Seafood Hot Pot, Ma Family Restaurants, Pakistani Food and Beach Travel

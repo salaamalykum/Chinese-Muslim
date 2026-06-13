@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide Malaysia: Islamic Banking, Riba, Murabaha and Halal Finance Debate"
-source: "https://salaamalykum.com/article/2887"
-canonical_url: "https://salaamalykum.com/article/2887"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:11.777397Z"
-lastmod: "2026-06-12T09:44:11.777397Z"
-lang: "zh-CN"
-tags: []
-content_hash: "ca5fc82091ae6d3eb8370da7d0420fb9b94b98ba1a3464844f3bc4d83de564f1"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "799e6de56706338933a3281839dd765d38dcf3584af809d7c49c35531454f6b4"
 ---
 
 # Muslim Knowledge Guide Malaysia: Islamic Banking, Riba, Murabaha and Halal Finance Debate

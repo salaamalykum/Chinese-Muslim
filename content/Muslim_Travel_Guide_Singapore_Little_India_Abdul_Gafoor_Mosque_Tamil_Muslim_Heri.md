@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Singapore Little India: Abdul Gafoor Mosque, Tamil Muslim Heritage and Prayer Hall"
-source: "https://salaamalykum.com/article/2950"
-canonical_url: "https://salaamalykum.com/article/2950"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:41.360205Z"
-lastmod: "2026-06-12T09:44:41.360205Z"
-lang: "zh-CN"
-tags: []
-content_hash: "f20ea86a9ecbbe957dd15922eec29f6d4bfb445113d0dc5f7aaebab4ea72c479"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "f64c67fd3845f72d8befb2acde5509ef752e34f391aa8f049f0c825d538c6da6"
 ---
 
 # Muslim Travel Guide Singapore Little India: Abdul Gafoor Mosque, Tamil Muslim Heritage and Prayer Hall

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Harbin: Tatar Mosque, Muslim Community and Heritage"
-source: "https://salaamalykum.com/article/2986"
-canonical_url: "https://salaamalykum.com/article/2986"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:30.650869Z"
-lastmod: "2026-06-12T09:44:30.650869Z"
-lang: "zh-CN"
-tags: []
-content_hash: "68bfb48d1711a3764cd2deed0792bc56f0372d9d35a40ac33b99a9d924d201ab"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "15c0d6dbbb17b6dbae8699fbc6e265cdd44aa1381e483bf9849da5bc12115172"
 ---
 
 # Muslim History Guide Harbin: Tatar Mosque, Muslim Community and Heritage

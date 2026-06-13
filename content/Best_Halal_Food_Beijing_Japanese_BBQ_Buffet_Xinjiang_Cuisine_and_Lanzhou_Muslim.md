@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Japanese BBQ Buffet, Xinjiang Cuisine and Lanzhou Muslim Snacks"
-source: "https://salaamalykum.com/article/2831"
-canonical_url: "https://salaamalykum.com/article/2831"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:11.121111Z"
-lastmod: "2026-06-12T09:44:11.121111Z"
-lang: "zh-CN"
-tags: []
-content_hash: "386771f728bfa289d708fa9e4fbf89b4f3cca6ed5316dfac285524fba251cea9"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "1a53b971a1513386e8865b998651f5a9710a939d10d6120beba7ba5287cb0ef8"
 ---
 
 # Best Halal Food Beijing: Japanese BBQ Buffet, Xinjiang Cuisine and Lanzhou Muslim Snacks

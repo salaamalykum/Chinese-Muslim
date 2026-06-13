@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Iran Tehran: Imam Khomeini Airport Prayer Room, Wudu Area and Shia Travel Notes"
-source: "https://salaamalykum.com/article/2954"
-canonical_url: "https://salaamalykum.com/article/2954"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:13.639210Z"
-lastmod: "2026-06-12T09:44:13.639210Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b2d71d0400974aa4cd58898bce6b6d67d87819dc0866c2935c12d3bf1841f3ae"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "c846cccc1c9ea811da28fb7c595369a3071d0456ab1bd027fa3568f6e70b3759"
 ---
 
 # Muslim Travel Guide Iran Tehran: Imam Khomeini Airport Prayer Room, Wudu Area and Shia Travel Notes

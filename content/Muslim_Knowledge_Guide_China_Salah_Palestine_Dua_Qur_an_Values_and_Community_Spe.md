@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Salah, Palestine Dua, Qur'an Values and Community Speech"
-source: "https://salaamalykum.com/article/2924"
-canonical_url: "https://salaamalykum.com/article/2924"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:57.742557Z"
-lastmod: "2026-06-12T09:43:57.742557Z"
-lang: "zh-CN"
-tags: []
-content_hash: "3f4589eca59070c35d18c927c9baa1b04bfbe7b4b7b84cc97a8563de24c0b020"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "2ce6616752388a949fd0cfc29e431c315c01617d52f383be6b677db9a53d3ccb"
 ---
 
 # Muslim Knowledge Guide China: Salah, Palestine Dua, Qur'an Values and Community Speech

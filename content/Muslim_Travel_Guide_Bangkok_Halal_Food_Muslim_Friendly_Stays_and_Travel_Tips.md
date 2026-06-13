@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Travel Guide Bangkok: Halal Food, Muslim-Friendly Stays and Travel Tips"
-source: "https://salaamalykum.com/article/2985"
-canonical_url: "https://salaamalykum.com/article/2985"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:56.708410Z"
-lastmod: "2026-06-12T09:44:56.708410Z"
-lang: "zh-CN"
-tags: []
-content_hash: "676d83c565928f335bb96c810f87c2a00eb929a9822d352c04d229abb9f0604c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e61c730adc8069c1050a93db501121a7c05c29deb74a0ddc3f919ca8f6a230cd"
 ---
 
 # Muslim Travel Guide Bangkok: Halal Food, Muslim-Friendly Stays and Travel Tips

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: Pakistani Buffet, Halal Barbecue, Niujie Skewers and Silk Road Cuisine"
-source: "https://salaamalykum.com/article/2853"
-canonical_url: "https://salaamalykum.com/article/2853"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:10.479253Z"
-lastmod: "2026-06-12T09:44:10.479253Z"
-lang: "zh-CN"
-tags: []
-content_hash: "cabee93d9d1e15fa51730f28cdc5ce5c7acde5056a301001d40b3be5bade5997"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "178b72355bb1757986e44644a093b456f39c0c0bb528aa35c759cda9bf7fe86f"
 ---
 
 # Best Halal Food Beijing: Pakistani Buffet, Halal Barbecue, Niujie Skewers and Silk Road Cuisine

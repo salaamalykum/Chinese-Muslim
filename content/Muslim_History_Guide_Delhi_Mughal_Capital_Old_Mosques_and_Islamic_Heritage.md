@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Delhi: Mughal Capital, Old Mosques and Islamic Heritage"
-source: "https://salaamalykum.com/article/2984"
-canonical_url: "https://salaamalykum.com/article/2984"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:00.409539Z"
-lastmod: "2026-06-12T09:44:00.409539Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a7e9b7118f0c8b66a108700ebc7d73f9722b302bb3e7c8fa038ecd924992b49c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "39b278ecf48dfdbbf061af8d5b2879913b3361ae52835ac34d08302458aa959c"
 ---
 
 # Muslim History Guide Delhi: Mughal Capital, Old Mosques and Islamic Heritage

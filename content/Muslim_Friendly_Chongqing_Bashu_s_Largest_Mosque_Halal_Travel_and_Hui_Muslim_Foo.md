@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Chongqing: Bashu's Largest Mosque, Halal Travel and Hui Muslim Food"
-source: "https://salaamalykum.com/article/2773"
-canonical_url: "https://salaamalykum.com/article/2773"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:08.612430Z"
-lastmod: "2026-06-12T09:44:08.612430Z"
-lang: "zh-CN"
-tags: []
-content_hash: "24e0f2acba30ee005934cb113e7addd6cb87e14e60018581096134fa83b0fe48"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9673d85cd1df490394043ba2813be89d4ed712f82778663e5786af14e3110a56"
 ---
 
 # Muslim Friendly Chongqing: Bashu's Largest Mosque, Halal Travel and Hui Muslim Food

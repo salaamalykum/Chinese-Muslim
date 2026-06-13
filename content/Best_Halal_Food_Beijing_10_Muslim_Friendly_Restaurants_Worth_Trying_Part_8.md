@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Beijing: 10 Muslim-Friendly Restaurants Worth Trying (Part 8)"
-source: "https://salaamalykum.com/article/3028"
-canonical_url: "https://salaamalykum.com/article/3028"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:14.708716Z"
-lastmod: "2026-06-12T09:44:14.708716Z"
-lang: "zh-CN"
-tags: []
-content_hash: "9cfb548b30505bab19452c349e4a586f87d96fec659a291143347b170c574188"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "27a90123d57e943ad333ef4e8992507a9e0f5f3d10bb0ee343d3a7f683e94b00"
 ---
 
 # Best Halal Food Beijing: 10 Muslim-Friendly Restaurants Worth Trying (Part 8)

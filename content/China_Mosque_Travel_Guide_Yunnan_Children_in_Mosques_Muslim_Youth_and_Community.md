@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Yunnan: Children in Mosques, Muslim Youth and Community Revival"
-source: "https://salaamalykum.com/article/2931"
-canonical_url: "https://salaamalykum.com/article/2931"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:47.700555Z"
-lastmod: "2026-06-12T09:44:47.700555Z"
-lang: "zh-CN"
-tags: []
-content_hash: "509c2e629273ac323d14805197d272ae98e4b482ee644b5cd0bdf30f7a3ced9b"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "ceb6204c4da19b0eb7c760c9b632948b255520d2ce83df08541579129eaa9db5"
 ---
 
 # China Mosque Travel Guide Yunnan: Children in Mosques, Muslim Youth and Community Revival

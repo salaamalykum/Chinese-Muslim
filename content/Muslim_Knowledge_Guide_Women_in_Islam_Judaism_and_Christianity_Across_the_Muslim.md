@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide: Women in Islam, Judaism and Christianity Across the Muslim World"
-source: "https://salaamalykum.com/article/3048"
-canonical_url: "https://salaamalykum.com/article/3048"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:43.902173Z"
-lastmod: "2026-06-12T09:44:43.902173Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d85ec58b64e8dbbde699b81db0ddf67ed809c36c5e5073d9aacebe3a4db00d75"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9b50ce9f6ba1d27d2a4306b46b2e4c2447f51df13ef787fbca77f773e2e94b85"
 ---
 
 # Muslim Knowledge Guide: Women in Islam, Judaism and Christianity Across the Muslim World

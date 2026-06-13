@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Hangzhou: Historic Mosques, Halal Food and Local Travel Guide"
-source: "https://salaamalykum.com/article/3040"
-canonical_url: "https://salaamalykum.com/article/3040"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:16.146034Z"
-lastmod: "2026-06-12T09:44:16.146034Z"
-lang: "zh-CN"
-tags: []
-content_hash: "efb263934a9de75bce95a1f0de2a881654aef89d97960eea36bfe2f1ba5a2440"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "e024b0656d70599a6db7512044e199adf9e3f7361b5ebba2aa72a6ac4e4a4f4b"
 ---
 
 # Muslim Friendly Hangzhou: Historic Mosques, Halal Food and Local Travel Guide

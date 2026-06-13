@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: 106 Tasmiya Calligraphy Styles and Islamic Art"
-source: "https://salaamalykum.com/article/3007"
-canonical_url: "https://salaamalykum.com/article/3007"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:08.408525Z"
-lastmod: "2026-06-12T09:44:08.408525Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a1fb467c38c9ae6ca6ba7d6e951434dff7b3f7440a89c6a4dbc439e1024b2c16"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "efddcab0e9aa37439c5feac0fff52279c5fdb61494515812a65d1fd0442998ce"
 ---
 
 # Muslim Knowledge Guide China: 106 Tasmiya Calligraphy Styles and Islamic Art

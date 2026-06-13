@@ -1,10 +1,6 @@
-title: Chinese Muslim Knowledge Base
-description: Dual-track Islamic Knowledge Base & Chinese Muslim RAG Dataset
-collections:
-  content:
-    output: true
-    permalink: /article/:path/
-
-markdown: kramdown
-kramdown:
-  input: GFM
+title: Chinese Muslim RAG Corpus
+description: A highly structured corpus of Islamic articles.
+url: "https://salaamalykum.github.io"
+baseurl: "/Chinese-Muslim"
+theme: minima
+lastmod: "2026-06-13T14:45:34Z"

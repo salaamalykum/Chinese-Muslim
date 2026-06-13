@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Shandong: Tai'an Historic Mosques, Quran Manuscripts and Islamic Culture"
-source: "https://salaamalykum.com/article/2842"
-canonical_url: "https://salaamalykum.com/article/2842"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:28.543824Z"
-lastmod: "2026-06-12T09:44:28.543824Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d9102ee0e0fb5a17988ff435728023f11050d76f9d67ebf2472bc37e946e9fce"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "359a4eef34230622b43ec64cf6ac8bc269010b55e49a09b0684ae7dc61658a24"
 ---
 
 # China Mosque Travel Guide Shandong: Tai'an Historic Mosques, Quran Manuscripts and Islamic Culture

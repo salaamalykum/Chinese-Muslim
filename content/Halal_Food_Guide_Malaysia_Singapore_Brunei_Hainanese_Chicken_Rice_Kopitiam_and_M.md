@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Halal Food Guide Malaysia Singapore Brunei: Hainanese Chicken Rice, Kopitiam and Muslim-Friendly Cafes"
-source: "https://salaamalykum.com/article/3027"
-canonical_url: "https://salaamalykum.com/article/3027"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:49.528451Z"
-lastmod: "2026-06-12T09:44:49.528451Z"
-lang: "zh-CN"
-tags: []
-content_hash: "5c69033566d40f59559b72599b624e8729d05971dadfe7496139937b31540d38"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "d54a17d83d64cb8a1f731a5fa96cdb719c8437590729bc51e81acc11d2abf7f3"
 ---
 
 # Halal Food Guide Malaysia Singapore Brunei: Hainanese Chicken Rice, Kopitiam and Muslim-Friendly Cafes

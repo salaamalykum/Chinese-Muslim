@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide Shandong Jining: Old Mosques, Hui Food and Grand Canal Heritage"
-source: "https://salaamalykum.com/article/2972"
-canonical_url: "https://salaamalykum.com/article/2972"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:20.169685Z"
-lastmod: "2026-06-12T09:44:20.169685Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a965e5effdb70f02910544a4090e59b572175e7769bdd5d3dfe124002d11d7a6"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "32c819540333fe82953e0c909b41a9e52cfcf8fed1cdb7c20168a957e9abd642"
 ---
 
 # China Mosque Travel Guide Shandong Jining: Old Mosques, Hui Food and Grand Canal Heritage

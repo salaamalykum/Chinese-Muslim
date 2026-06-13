@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Local Muslim Life Guide in the Muslim World: Day of Arafah Dua, Dhikr and Worship Plan"
-source: "https://salaamalykum.com/article/2780"
-canonical_url: "https://salaamalykum.com/article/2780"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:32.569946Z"
-lastmod: "2026-06-12T09:44:32.569946Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c94429ef3a8bd410dbd76fa18ccacc7be4ee255aa283421eb321e61a5e82d2e1"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "211d9bb79a60efbc9ae705c650721b6b943865ca3473ecb92a6b2fefc0ea26cc"
 ---
 
 # Local Muslim Life Guide in the Muslim World: Day of Arafah Dua, Dhikr and Worship Plan

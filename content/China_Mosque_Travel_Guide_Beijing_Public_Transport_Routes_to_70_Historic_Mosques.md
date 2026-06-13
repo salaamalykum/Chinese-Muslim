@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "China Mosque Travel Guide: Beijing Public Transport Routes to 70 Historic Mosques for Muslim Visitors"
-source: "https://salaamalykum.com/article/2797"
-canonical_url: "https://salaamalykum.com/article/2797"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:50.609729Z"
-lastmod: "2026-06-12T09:44:50.609729Z"
-lang: "zh-CN"
-tags: []
-content_hash: "a5bdc4207e3f240f1c61446be16318a7e9ec6272f824d6ede91838e2a131309d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "19c69d3beaf786068c4d220f810ccadf4e137bb78c5d73a4cbad781392ad769f"
 ---
 
 # China Mosque Travel Guide: Beijing Public Transport Routes to 70 Historic Mosques for Muslim Visitors

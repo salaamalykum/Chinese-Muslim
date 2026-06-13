@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Yunnan: Ruili Mosque, Myanmar Muslims and Real Halal Street Food"
-source: "https://salaamalykum.com/article/3047"
-canonical_url: "https://salaamalykum.com/article/3047"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:57.654174Z"
-lastmod: "2026-06-12T09:44:57.654174Z"
-lang: "zh-CN"
-tags: []
-content_hash: "0ae5c25fbdfc078311b02c313ab757342de3fe5648cea644de6db9afb98d2914"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "79cbbe0f80e9eb50025ca308f8abc9d6543ed9380b8e97b02f570fe3813d32b5"
 ---
 
 # Muslim Friendly Yunnan: Ruili Mosque, Myanmar Muslims and Real Halal Street Food

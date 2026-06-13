@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Sichuan: Mianyang Halal Food, Jiangyou Mosque and Li Bai Hometown Travel"
-source: "https://salaamalykum.com/article/2774"
-canonical_url: "https://salaamalykum.com/article/2774"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:01.943003Z"
-lastmod: "2026-06-12T09:44:01.943003Z"
-lang: "zh-CN"
-tags: []
-content_hash: "614904b5dbf9d3bb8e6be09ff56d33b7f2a3b89967010b8eb53a8b3b4f53d9f0"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "48b338dbcc8f6b6ebd788a0858a61af289c04987fc0f3bf589bb27370341cf70"
 ---
 
 # Muslim Friendly Sichuan: Mianyang Halal Food, Jiangyou Mosque and Li Bai Hometown Travel

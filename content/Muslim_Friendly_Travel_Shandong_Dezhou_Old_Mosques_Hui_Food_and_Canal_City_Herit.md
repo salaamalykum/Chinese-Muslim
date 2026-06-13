@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Friendly Travel Shandong Dezhou: Old Mosques, Hui Food and Canal City Heritage"
-source: "https://salaamalykum.com/article/2971"
-canonical_url: "https://salaamalykum.com/article/2971"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:26.300281Z"
-lastmod: "2026-06-12T09:44:26.300281Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c02de2ded437e3494083c72fca19446db70525129b799754e8f18fcc35300d1c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "7c2c9dcfec943add69c574266f3c8a70553bc40ff19006b1906bc8d6ccb69ec3"
 ---
 
 # Muslim Friendly Travel Shandong Dezhou: Old Mosques, Hui Food and Canal City Heritage

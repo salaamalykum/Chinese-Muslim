@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Riba, Interest, Gharar and the Economics of Sharia Arbitrage"
-source: "https://salaamalykum.com/article/2911"
-canonical_url: "https://salaamalykum.com/article/2911"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:31.134196Z"
-lastmod: "2026-06-12T09:44:31.134196Z"
-lang: "zh-CN"
-tags: []
-content_hash: "60dddef377be85035894b73a3e9c99ceb87b5955eef29e7153eddd69c0a4122a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "a5f6e0a21370bd3c2c797b092469cc97a63406e702584e0a004d2a10c4a68862"
 ---
 
 # Muslim Knowledge Guide China: Riba, Interest, Gharar and the Economics of Sharia Arbitrage

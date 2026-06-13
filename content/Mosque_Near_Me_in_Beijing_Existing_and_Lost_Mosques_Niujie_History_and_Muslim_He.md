@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Mosque Near Me in Beijing: Existing and Lost Mosques, Niujie History and Muslim Heritage"
-source: "https://salaamalykum.com/article/2769"
-canonical_url: "https://salaamalykum.com/article/2769"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:53.396246Z"
-lastmod: "2026-06-12T09:43:53.396246Z"
-lang: "zh-CN"
-tags: []
-content_hash: "d339d059ada1d1cdae2897ceaee8e2b6d85a98bf1de525d3e57becef41ef951a"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "0d5267a77bc07d2d23817a02291d8bb9628500de29607b75e497670d377d50a8"
 ---
 
 # Mosque Near Me in Beijing: Existing and Lost Mosques, Niujie History and Muslim Heritage

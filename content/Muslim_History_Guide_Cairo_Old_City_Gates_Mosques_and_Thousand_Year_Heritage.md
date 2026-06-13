@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim History Guide Cairo: Old City Gates, Mosques and Thousand-Year Heritage"
-source: "https://salaamalykum.com/article/2988"
-canonical_url: "https://salaamalykum.com/article/2988"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:59.832283Z"
-lastmod: "2026-06-12T09:44:59.832283Z"
-lang: "zh-CN"
-tags: []
-content_hash: "781b5f3a7ed0dd11a32857cd36855c9b8670f1d7a6d683026648f1babd5181ec"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "3f9a45fc61a78d8ff849ae9fc952095544a0821ae58350ee751d2359c43f43d3"
 ---
 
 # Muslim History Guide Cairo: Old City Gates, Mosques and Thousand-Year Heritage

@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Restaurant Beijing: Local Hui Muslim BBQ, Hotpot, Shawarma and Desserts"
-source: "https://salaamalykum.com/article/2758"
-canonical_url: "https://salaamalykum.com/article/2758"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:02.690587Z"
-lastmod: "2026-06-12T09:44:02.690587Z"
-lang: "zh-CN"
-tags: []
-content_hash: "498ccea7409711596fbebfcadbe7c33880763d9dcc60ea5a9329784c008c199d"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "9992d0b7c167219670bc3d41cd7a3360f9e73930415963d9fe56d6a242d4e108"
 ---
 
 # Best Halal Restaurant Beijing: Local Hui Muslim BBQ, Hotpot, Shawarma and Desserts

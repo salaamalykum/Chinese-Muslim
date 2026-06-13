@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Is Life Insurance Halal? Term Life, Whole Life and Takaful Explained"
-source: "https://salaamalykum.com/article/2790"
-canonical_url: "https://salaamalykum.com/article/2790"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:56.378215Z"
-lastmod: "2026-06-12T09:43:56.378215Z"
-lang: "zh-CN"
-tags: []
-content_hash: "b1d4fa75701c5b1ffaab68cb995b1405b0b96b9103838e55f2f315a49233a816"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "6720dab64e5a42d163df2aa4e0e7550713cc49c6b974fabac9f234c5ad88c3fe"
 ---
 
 # Muslim Knowledge Guide China: Is Life Insurance Halal? Term Life, Whole Life and Takaful Explained

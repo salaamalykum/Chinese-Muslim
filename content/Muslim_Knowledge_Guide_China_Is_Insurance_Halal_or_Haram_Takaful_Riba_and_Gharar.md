@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Knowledge Guide China: Is Insurance Halal or Haram? Takaful, Riba and Gharar Explained"
-source: "https://salaamalykum.com/article/2789"
-canonical_url: "https://salaamalykum.com/article/2789"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:07.183775Z"
-lastmod: "2026-06-12T09:44:07.183775Z"
-lang: "zh-CN"
-tags: []
-content_hash: "fd2bfe59df7b65b77aebaeeffd865d2eea37d328a96dbf350011deb62c6bf0fb"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "bba23d77c9265cd78f4dabba8f560a10ec5f36021f507af8e07aad9e70d9f6c3"
 ---
 
 # Muslim Knowledge Guide China: Is Insurance Halal or Haram? Takaful, Riba and Gharar Explained

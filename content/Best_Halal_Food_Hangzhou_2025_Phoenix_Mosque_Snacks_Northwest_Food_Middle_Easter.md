@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Hangzhou 2025: Phoenix Mosque Snacks, Northwest Food, Middle Eastern Cuisine and Hui Heritage"
-source: "https://salaamalykum.com/article/2918"
-canonical_url: "https://salaamalykum.com/article/2918"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:07.585181Z"
-lastmod: "2026-06-12T09:44:07.585181Z"
-lang: "zh-CN"
-tags: []
-content_hash: "31c269b302a088f954ab29e806ab449e3ec9bbbde4c9eb6c93348f9de9143260"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "4ca711b40a309c4553848e8334e3adefbb88e7446595eae656d27731def13cf0"
 ---
 
 # Best Halal Food Hangzhou 2025: Phoenix Mosque Snacks, Northwest Food, Middle Eastern Cuisine and Hui Heritage

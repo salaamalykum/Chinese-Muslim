@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Best Halal Food Kuala Lumpur: Din Tai Fung Soup Dumplings, Taco Bell and Makan Buffet"
-source: "https://salaamalykum.com/article/2854"
-canonical_url: "https://salaamalykum.com/article/2854"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:43:50.596604Z"
-lastmod: "2026-06-12T09:43:50.596604Z"
-lang: "zh-CN"
-tags: []
-content_hash: "c8f9a3524cfe2a58c379062f8b10a4b66e6aa40b49676f68114bb93d5e6edb61"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b25b47edfd1bf9ea5ee74de6cb3b45535ae651a311a7dc290d8ea8a3284ea006"
 ---
 
 # Best Halal Food Kuala Lumpur: Din Tai Fung Soup Dumplings, Taco Bell and Makan Buffet

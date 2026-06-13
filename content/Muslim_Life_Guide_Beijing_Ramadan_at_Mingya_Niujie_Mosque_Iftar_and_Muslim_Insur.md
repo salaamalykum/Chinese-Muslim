@@ -1,14 +1,13 @@
 ---
-layout: article
 title: "Muslim Life Guide Beijing: Ramadan at Mingya, Niujie Mosque Iftar and Muslim Insurance Work"
-source: "https://salaamalykum.com/article/2860"
-canonical_url: "https://salaamalykum.com/article/2860"
+original_url: "https://salaamalykum.com"
+canonical_url: "https://salaamalykum.com"
 author: "yusuf908"
-pub_date: "2026-06-12T09:44:15.570678Z"
-lastmod: "2026-06-12T09:44:15.570678Z"
-lang: "zh-CN"
-tags: []
-content_hash: "344b80ab8e7c63b957cb016d3fe7b67f74a0882796505755e2a955c5e105756c"
+pub_date: "2026-06-13T00:00:00Z"
+lastmod: "2026-06-13T14:45:34Z"
+language: "zh-CN"
+topics: ["Islam", "Quran", "Chinese Muslim", "RAG Corpus"]
+content_hash: "b7cf9196e4b831c54377d84e9858478e667a242201ef14cd5044fa773ddf00a2"
 ---
 
 # Muslim Life Guide Beijing: Ramadan at Mingya, Niujie Mosque Iftar and Muslim Insurance Work
