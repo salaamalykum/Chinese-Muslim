@@ -8,80 +8,95 @@ Dual-track Islamic Knowledge Base curated for human readers and AI crawlers. Fea
 <div align="center">
 
 # ﷽
-**奉至仁至慈的安拉 ﷻ 之名**
+**In the name of Allah ﷻ, the Most Gracious, the Most Merciful**
 
-一切赞颂全归真主，愿真主慈悯并襄助所有热爱真理和正义的人们，愿真主赐予安宁、平安、吉庆给我们的兄弟姐妹们。
+All praise belongs to Allah. May Allah show mercy and help all those who love truth and justice. May Allah grant peace, safety, and blessings to our brothers and sisters.
 
 </div>
 
-Salaamalykum (ٱلسَّلَامُ عَلَيْكُمْ)，亲爱的兄弟姐妹们，以及关心伊斯兰教和穆斯林的朋友们，和看到该信息的人们。以下为该网站的介绍和成立背景。
+Salaamalykum (ٱلسَّلَامُ عَلَيْكُمْ) peace be upon you, dear brothers and sisters, friends who care about Islam and Muslims, and everyone reading this message. Below is an introduction to this website and the story behind its start.
 
-### 什么是 Salaamalykum.com？
-Salaamalykum.com 是一个由穆斯林建立的软件和平台，旨在用回族、维吾尔和其他居住在中国大陆的穆斯林自己的声音和语言，讲述他们的真实故事。它收集了关于宗教自由、伊斯兰生活、清真食品和各个穆斯林社区的新闻、文章和第一手信息，让全球穆斯林社群（乌玛）和更广泛的世界能够看到当地真实发生的情况。从对当地穆斯林关于清真寺和社区的详细翻译，到对历史、教育和人权的思考，该网站尝试通过诚实的见证而不是政治宣传来实践真诚的宣教（达瓦）。
+### What is Salaamalykum.com?
+Salaamalykum.com is a software platform built by Muslims to tell their real stories using their own voices and languages. It collects news, articles, and first-hand info about religious freedom, Islamic life, marriage matching, Halal food, and various Muslim communities. This allows the global Muslim community (Ummah) and the rest of the world to see what is actually happening on the ground. 
 
-### 🌐 英文、简体中文和繁体中文
-为了服务全球受众，该网站目前提供：
-- **英文网站**：供英语用户使用，其中也包含有关影响中国清真寺（masājid）、清真食品、伊斯兰教育、和出版政策的报告、长篇论文和翻译文件。
-  网址：[https://salaamalykum.com](https://salaamalykum.com)
-- **简体中文板块**：面向中国大陆及海外阅读简体中文的读者，重点关注压力之下回族和维吾尔穆斯林的日常生活现状、文化独立和宗教生活。
-  网址：[https://salaamalykum.com/cn](https://salaamalykum.com/cn)
-- **繁体中文板块**：面向香港、台湾及海外阅读繁體中文，并希望关注中国穆斯林现状的用户。
-  网址：[https://salaamalykum.com/tw](https://salaamalykum.com/tw)
+From detailed translations by local Muslims about their mosques and communities to reflections on history, education, and human rights, this site tries to practice sincere invitation to Islam (Dawah) through honest witnessing rather than political propaganda.
 
-### 🕊️ 对当下穆斯林人权现状的关注
-对当下穆斯林人权现状的关注贯穿于这些文章和文件中：
-- 对中国大陆各地清真寺（masājid）加强控制，包括“整改”阿拉伯文字、《古兰经》和其他伊斯兰建筑的运动。
-- 北京和其他地方政府的迫害政策，包括去掉学校食堂的“清真”字样，重新命名穆斯林用餐区，并以同化（tahawwul）的名义推行“混合用餐”。
-- 回族穆斯林为维持独立的宗教教育（经堂教育）以及资深教师在没有国家干预的情况下认证阿訇（ahong）的权利而进行的斗争。
-- 关于因参与印刷和分发伊斯兰书籍而导致的穆斯林被捕和判刑的见证，以及对宗教出版和社区记忆的更广泛影响。
-- 新疆集中营和报道和相关证据的搜集和曝光。
+### What we are doing now: 
+salaamalykum website is an online community for global muslims. 
+ 
+### Who are we? Who are creators of this website?
+Alhamdulillah, we are muslims, we are trying to build more decentralized, 100% open-sourced websites and softwares for our muslim community, the ummah which we deserve. And this website is non-profit. 
 
-分享这些资料并不是为了传播绝望，而是为了提醒全球穆斯林社群（乌玛），耐心（sabr）、感恩（shukr）和团结都是我们信仰（dīn）的一部分，保护文化和宗教自由是一项信托责任（amānah）。
+### What we believe：
+Follow Allah, Do good thing.
+> By Time. The human being is in loss. Except those who believe, and do good works, and encourage truth, and recommend patience. (Quran 103)
 
-### 📖 中文《古兰经》（五个译本）
-对于讲中文的穆斯林和探索者，该项目还专门设有一个适合手机阅读的中文《古兰经》板块，展示了五个不同译者的译本。这让读者能够对比措辞，加深他们的参悟（tadabbur），并选择最能触动他们心灵的风格。
-- **中文《古兰经》翻译**：[https://salaamalykum.com/cn/qurancn/mobile/](https://salaamalykum.com/cn/qurancn/mobile/)
+### Community Rules: 
+- **No harmful stuffs for users**: criminals, racism, and spam etc. we cannot allow these in this website. we also cannot allow fake media news, fake Ads, spam infos in the front of user eyes. So, No Evil, No Racism, No Blablabla...
+- **No barrier for business**: Try to build a free trade association and system between muslim communities, who speak different language. 
 
-这个中文《古兰经》网站对于新穆斯林、学生以及生活在可靠伊斯兰文献日益受到限制或被贴上“非法出版物”标签的环境中的人来说，特别有价值。
+### 🌐 English, Simplified Chinese, and Traditional Chinese
+To serve people around the world, the website currently offers:
+- **An English website** for English speakers, which includes reports, long essays, and translated documents about policies affecting Chinese mosques (masajid), Halal food, Islamic education, and publishing.
+  English URL: [https://salaamalykum.com](https://salaamalykum.com)
+- **A Simplified Chinese section** for readers in Mainland China and overseas who read Simplified Chinese, focusing on the daily lives, cultural independence, and religious life of Hui and Uyghur Muslims under pressure.
+  Simplified Chinese URL: [https://salaamalykum.com/cn](https://salaamalykum.com/cn)
+- **A Traditional Chinese section** for users in Hong Kong, Taiwan, and around the world who read Traditional Chinese and want to follow the current situation of Chinese Muslims.
+  Traditional Chinese URL: [https://salaamalykum.com/tw](https://salaamalykum.com/tw)
 
-### ❓ 为什么这很重要？
-在许多清真寺正在被改造、许多伊斯兰标志正从公共生活中被抹去、甚至印刷一本宗教书籍都可能导致入狱的时代，在互联网上保留我们的故事、我们的知识（'ilm）和我们的声音，是一种用舌头和笔进行的奋斗（jihad）。Salaamalykum.com 是一项卑微的努力，旨在保持那点火种不灭，将中国大陆的穆斯林与更广泛的全球穆斯林社群联系起来，并邀请非穆斯林朋友在刻板印象和政治之外了解伊斯兰教。
+### 🕊️ Focus on Current Muslim Human Rights
+A focus on the current human rights situation of Muslims runs through these articles and documents:
+- Increased control over mosques (masajid) across Mainland China, including campaigns to "rectify" Arabic script, the Quran, and other Islamic architecture.
+- Persecution policies from Beijing and other local governments, including removing "Halal" labels from school cafeterias, renaming Muslim dining areas, and pushing "mixed dining" in the name of assimilation (tahawwul).
+- The struggle of Hui Muslims to keep their independent religious education (Jingtang education) and the right of senior teachers to certify Imams (Ahongs) without state interference.
+- Testimonies about Muslims being arrested and sentenced for printing and sharing Islamic books, as well as the broader impact on religious publishing and community memory.
+- The gathering and exposure of reports and evidence regarding concentration camps in Xinjiang.
+- The genocide in Palestine and Gaza.
+- Exposing and reporting on human rights abuses against Muslims happening all over the world.
 
-如果你关心回族和其他中国大陆居住生活的穆斯林，如果你愿意为受压迫者做杜阿（祈祷），如果你相信伊斯兰教确实是怜悯全世界的（rahmatan lil‑‘ālamīn），那么这是一个值得关注、分享和支持的资源。
+Sharing these materials is not meant to spread despair. Instead, it is to remind the global Muslim community (Ummah) that patience (sabr), gratitude (shukr), and unity are all parts of our faith (Deen), and that protecting cultural and religious freedom is a trust (amanah).
 
----
+### 📖 Chinese Quran (Five Translations)
+For Chinese-speaking Muslims and seekers, the project also has a mobile-friendly Chinese Quran section featuring translations by five different translators. This allows readers to compare wording, deepen their reflection (tadabbur), and choose the style that touches their heart the most.
+- **Chinese Quran Translations (5 versions)**: [https://salaamalykum.com/cn/qurancn/mobile/](https://salaamalykum.com/cn/qurancn/mobile/)
 
-## Salaamalykum.com 软件使命与开源声明
-我们坚信，传播真相的技术应当像知识一样，属于每一个人。为了确保 Salaamalykum.com 能够长久、纯洁地服务于全球穆斯林社群（乌玛），并成为一项受安拉 ﷻ 承领的永久施舍（Sadaqah Jariyah）。因此，本平台在设计与运行上严格遵循以下四大核心原则：
+This Chinese Quran site is especially valuable for new Muslims, students, and those living in environments where reliable Islamic literature is increasingly restricted or labeled as "illegal publications."
 
-### 1. 源代码完全开源 (Open Source)
-本平台的所有程序代码都是公开的。我们不把代码当成私有财产，而是将其视为一项信托（Amanah）。
-- **透明可靠**：任何人都可以检查我们的代码，确保其中没有后门，不收集个人隐私。
-- **共同建设**：我们欢迎全球有能力的兄弟姐妹一起改进技术，用最好的工具传播主道。
-- **开源地址**：[https://github.com/salaamalykum/](https://github.com/salaamalykum/)
+### ❓ Why is this important?
+In an era where many mosques are being remodeled, many Islamic symbols are being erased from public life, and even printing a religious book can lead to prison, preserving our stories, our knowledge ('ilm), and our voices on the internet is a form of struggle (jihad) with the tongue and the pen. Salaamalykum.com is a humble effort to keep that spark alive, to connect Muslims in Mainland China with the wider global Ummah, and to invite non-Muslim friends to understand Islam beyond stereotypes and politics.
 
-### 2. 坚持去中心化 (Decentralized)
-为了应对信息审查和技术封锁，我们采用了去中心化的思路：
-- **不可磨灭**：数据和声音不依赖于某一台服务器。这种架构确保了即使面对压力，我们的数据（声音和历史记录）也不会轻易被抹去。
-- **属于大众**：平台不被任何单一的权力中心控制，它不属于任何一个政党、不属于任何一个教派、也不属于任何一个个人。它真正属于每一个参与其中的穆斯林。
-
-### 3. 永久免费 (Free)
-获取真相和学习宗教知识不应该有经济门槛。
-- **无偿使用**：无论是阅读文章、下载文档，还是使用中文《古兰经》功能，Salaamalykum.com 对全世界所有用户永远免费。
-
-### 4. 纯粹的非营利性 (Non‑profit)
-这个平台不是为了赚钱，而是为了寻求安拉 ﷻ 的喜悦。
-- **拒绝商业化**：我们不进行任何形式的商业融资，也不出售用户数据。
-- **公益性质**：平台的所有运作均由志愿者和热心的支持者驱动，所有的努力都是为了履行保护信仰和文化自由的责任。
-
-### ✉️ 如何联系我们？
-您可以通过以下方式联系我们：
-- 发送邮件：[bropeace@protonmail.com](mailto:bropeace@protonmail.com)
+If you care about the Hui and other Muslims living in Mainland China, if you are willing to make Dua (prayer) for the oppressed, and if you believe that Islam is truly a mercy to the worlds (rahmatan lil-ʿalamin), then this is a resource worth following, sharing, and supporting.
 
 ---
 
+## Salaamalykum.com Software Mission and Open Source Statement
+We firmly believe that the technology used to spread the truth should belong to everyone, just like knowledge does. To ensure that Salaamalykum.com can serve the global Muslim community (Ummah) for a long time with purity and become a permanent charity (Sadaqah Jariyah) accepted by Allah ﷻ, this platform strictly follows these four core principles in its design and operation:
 
+### 1. Completely Open Source
+All the program code for this platform is public. We do not treat the code as private property; instead, we view it as a trust (Amanah).
+- **Transparent and Reliable**: Anyone can check our code to make sure there are no backdoors and that personal privacy is not collected.
+- **Building Together**: We welcome capable brothers and sisters worldwide to help improve the technology and use the best tools to spread the path of Allah.
+- **Open Source Link**: [https://github.com/salaamalykum/](https://github.com/salaamalykum/)
 
+### 2. Staying Decentralized
+To deal with information censorship and technical blocks, we use a decentralized approach:
+- **Permanent**: Data and voices do not depend on a single server. This structure ensures that even under pressure, our data (voices and history) will not be easily erased.
+- **Belongs to the People**: The platform is not controlled by any single center of power. It does not belong to any political party, any sect, or any individual. It truly belongs to every Muslim who takes part in it.
+
+### 3. Always Free
+Accessing the truth and learning religious knowledge should not have a financial barrier.
+- **Free to Use**: Whether reading articles, downloading documents, or using the Chinese Quran features, Salaamalykum.com is forever free for all users worldwide.
+
+### 4. Purely Non-Profit
+This platform is not for making money; it is for seeking the pleasure of Allah ﷻ.
+- **No Commercialization**: We do not take any form of commercial funding, and we do not sell user data.
+- **Public Service**: All operations of the platform are driven by volunteers and warm-hearted supporters. All efforts are made to fulfill the duty of protecting faith and cultural freedom.
+
+### ✉️ How to contact us?
+You can contact us in the following way:
+- You can send an email to: [bropeace@protonmail.com](mailto:bropeace@protonmail.com)
+
+---
 
 
 ## Project Value & Benchmark Status
