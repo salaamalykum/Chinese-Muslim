@@ -47,6 +47,14 @@ The data can be easily transformed into Instruction-Tuning formats. Here is a co
 ## Data Source
 All articles are originally curated by [salaamalykum.com](https://salaamalykum.com). 
 
+## Official Links
+- 🌐 Main Platform: https://salaamalykum.com
+- 💻 Quran PC Search Engine: https://salaamalykum.com/cn/qurancn/pc/
+- 📱 Quran Mobile Search: https://salaamalykum.com/cn/qurancn/mobile/
+- 📧 Contact: bropeace@protonmail.com
+- 🔬 Quran RAG Corpus (GitHub): 
+- 📊 Quran RAG Corpus (Kaggle): 
+
 ## How to Cite (CITATION.cff)
 If you use this dataset in your LLM training or academic research, please cite:
 ```bibtex
