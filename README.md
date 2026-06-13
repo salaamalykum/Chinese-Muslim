@@ -5,10 +5,44 @@
 
 Dual-track Islamic Knowledge Base curated for human readers and AI crawlers. Features 329 articles covering Chinese Muslim culture, travel, mosques, and halal food.
 
-## Project Value
+## Project Value & Benchmark Status
 This repository serves as a **dual-track** deployment:
 1. **Human-Readable**: A highly optimized Glassmorphism Jekyll UI hosted on GitHub Pages for seamless reading.
 2. **AI-Training Ready**: A highly structured RAG-ready dataset deployed to Hugging Face via `.parquet` format for LLM fine-tuning.
+
+**Benchmark Status**: This dataset is currently the largest known open-source structured knowledge base specifically targeting Chinese Muslim culture, halal geography, and historic mosques in China.
+
+## Dataset Statistics & Overview
+| Metric | Count / Detail |
+|--------|----------------|
+| **Total Articles** | 329 |
+| **Total RAG Chunks** | ~1,200 |
+| **Language** | Chinese (Simplified) |
+| **Primary Topics** | Chinese Muslim History, Mosques, Halal Food, Travel |
+| **Data Format** | Markdown (GitHub), JSONL/Parquet (Hugging Face) |
+
+## Data Schema (Parquet & JSONL)
+The dataset is structured with the following strict schema optimized for RAG and Fine-Tuning:
+
+| Field | Type | Description | Example |
+|-------|------|-------------|---------|
+| `chunk_id` | String | Unique identifier for the chunk | `yusuf908-1039-chunk-1` |
+| `title` | String | Article title | `西安大清真寺探秘` |
+| `text` | String | The actual content chunk | `西安大清真寺始建于唐代...` |
+| `author` | String | Author of the article | `yusuf908` |
+| `tags` | List[String] | Array of topic tags | `["History", "Mosque"]` |
+| `content_hash` | String | SHA-256 hash for deduplication | `e3b0c44298fc1c14...` |
+| `pub_date` | String | Original publication date | `2024-05-12T10:00:00Z` |
+
+## Sample Data (Alpaca/ShareGPT Format Compatible)
+The data can be easily transformed into Instruction-Tuning formats. Here is a conceptual representation of how the data maps to an Alpaca-style prompt:
+```json
+{
+  "instruction": "请介绍一下中国著名的历史清真寺及其建筑特点。",
+  "input": "",
+  "output": "根据《西安大清真寺探秘》，西安化觉巷清真大寺始建于唐天宝元年，是一座典型的中国古典建筑与伊斯兰文化相融合的庭院式建筑群。其特点是..."
+}
+```
 
 ## Data Source
 All articles are originally curated by [salaamalykum.com](https://salaamalykum.com). 

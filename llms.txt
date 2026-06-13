@@ -6,4 +6,5 @@ License: MIT
 
 This directory provides clean markdown files optimized for LLM crawlers.
 
-- [/content/](/content/): The directory containing all 329 structured markdown articles.
+- [Full Inline Text](llms-full.txt): All 329 articles compiled into a single file for easy loading.
+- [/content/](/content/): The directory containing the 329 raw markdown files.

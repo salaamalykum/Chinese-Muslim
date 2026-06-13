@@ -1,6 +1,43 @@
 ---
 layout: default
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Chinese Muslim RAG Dataset",
+  "description": "329 high-quality articles exploring Chinese Muslim history, halal food, and cultural geography. Optimized for AI crawlers with Parquet formats and Hugging Face integration.",
+  "url": "https://salaamalykum.github.io/Chinese-Muslim/",
+  "keywords": [
+    "Chinese Muslim",
+    "Halal Food",
+    "Islamic Travel",
+    "Mosques in China",
+    "Hui People"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "Salaamalykum Open Data Hub",
+    "url": "https://salaamalykum.github.io/"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/markdown",
+      "contentUrl": "https://github.com/salaamalykum/Chinese-Muslim/tree/main/content"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/x-parquet",
+      "contentUrl": "https://huggingface.co/datasets/qurancn/Chinese-Muslim"
+    }
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "China"
+  }
+}
+</script>
 <div class="hero-section">
     <h1 class="hero-title">Discover <span class="gradient-text">Islamic Knowledge</span></h1>
     <p class="hero-subtitle">Explore 329 expertly curated articles covering Chinese Muslim culture, travel guides, historic mosques, and halal food.</p>
