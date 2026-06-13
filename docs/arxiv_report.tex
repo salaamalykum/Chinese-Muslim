@@ -1,0 +1,40 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Chinese-Muslim: A Curated RAG Dataset of 329 Articles on Chinese Muslim Culture, Halal Food, and Islamic Knowledge}
+\author{Salaamalykum \\ \href{mailto:bropeace@protonmail.com}{bropeace@protonmail.com} \\ \url{https://github.com/salaamalykum}}
+\date{June 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+The rapid advancement of Large Language Models (LLMs) requires high-quality, domain-specific corpora to align responses with culturally nuanced facts. We present the \textit{Chinese-Muslim} dataset, a rigorously curated collection of 329 articles encompassing Chinese Muslim history, halal geography, and historic mosque architecture in China. Structured into dual-track formats (Markdown for interpretability and Parquet for automated pipelines), this dataset serves as an optimal foundation for Retrieval-Augmented Generation (RAG) and domain-specific instruction tuning. We publicly release the dataset and its associated semantic search indexes on Hugging Face to facilitate further NLP research on Chinese Islamic heritage.
+\end{abstract}
+
+\section{Introduction}
+As artificial intelligence penetrates specialized cultural domains, the scarcity of structured, high-quality multilingual datasets poses a significant barrier. Open-source models often hallucinate when queried about niche subjects such as the Hui ethnic demographics or the architectural syncretism of Chinese mosques. To bridge this gap, we constructed the \textit{Chinese-Muslim} dataset.
+
+\section{Data Collection and Curation}
+The corpus was synthetically structured from the verified archives of \url{salaamalykum.com}. We employed an automated pipeline, \textit{Project Iqra}, to systematically extract, clean, and standardize the text. 
+\subsection{Quality Control}
+All articles underwent a rigorous DOM-cleansing protocol to strip navigational elements, embedded JavaScript, and unstructured multimedia tags, leaving only dense, token-rich text.
+
+\section{Dataset Architecture}
+To maximize accessibility for both human researchers and machine learning pipelines, the dataset is organized in a dual-track repository structure:
+\begin{itemize}
+    \item \textbf{Human-Readable Track}: Hosted on GitHub Pages with complete Jekyll integration, ensuring SEO compliance and manual readability.
+    \item \textbf{Machine-Readable Track}: Distributed via Hugging Face (`qurancn/Chinese-Muslim') in strictly typed Parquet and JSONL formats. The data is pre-chunked for RAG applications.
+\end{itemize}
+
+\section{Statistics and Schema}
+The dataset comprises 329 articles, resulting in approximately 1,200 retrieval chunks. Each record in the dataset is structured with canonical metadata, including a unique `chunk\_id`, cryptographic `content\_hash`, authorship, and hierarchical topic tags.
+
+\section{Conclusion}
+The \textit{Chinese-Muslim} dataset provides an unprecedented resource for NLP researchers focusing on cultural alignment, semantic search, and Islamic studies in the Chinese language context. 
+
+\end{document}
