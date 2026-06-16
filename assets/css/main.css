@@ -2,8 +2,8 @@
     --bg-color: #0f172a;
     --text-color: #f1f5f9;
     --text-muted: #94a3b8;
-    --primary-color: #38bdf8;
-    --primary-glow: rgba(56, 189, 248, 0.5);
+    --primary-color: #87ceeb; /* Sky Blue */
+    --primary-glow: rgba(135, 206, 235, 0.5);
     --card-bg: rgba(30, 41, 59, 0.7);
     --card-border: rgba(255, 255, 255, 0.1);
     --glass-blur: blur(12px);
@@ -15,8 +15,8 @@
         --bg-color: #f8fafc;
         --text-color: #0f172a;
         --text-muted: #64748b;
-        --primary-color: #0284c7;
-        --primary-glow: rgba(2, 132, 199, 0.3);
+        --primary-color: #00bfff; /* Deep Sky Blue for light mode contrast */
+        --primary-glow: rgba(0, 191, 255, 0.3);
         --card-bg: rgba(255, 255, 255, 0.8);
         --card-border: rgba(0, 0, 0, 0.05);
     }
